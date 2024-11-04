@@ -1,0 +1,8691 @@
+[
+	{
+		"key": "Puno",
+		"children": [
+			{
+				"key": "Puno",
+				"children": [
+					{
+						"key": "Puno",
+						"children": []
+					},
+					{
+						"key": "Acora",
+						"children": []
+					},
+					{
+						"key": "Amantani",
+						"children": []
+					},
+					{
+						"key": "Atuncolla",
+						"children": []
+					},
+					{
+						"key": "Capachica",
+						"children": []
+					},
+					{
+						"key": "Chucuito",
+						"children": []
+					},
+					{
+						"key": "Coata",
+						"children": []
+					},
+					{
+						"key": "Huata",
+						"children": []
+					},
+					{
+						"key": "Mañazo",
+						"children": []
+					},
+					{
+						"key": "Paucarcolla",
+						"children": []
+					},
+					{
+						"key": "Pichacani",
+						"children": []
+					},
+					{
+						"key": "Platería",
+						"children": []
+					},
+					{
+						"key": "San Antonio",
+						"children": []
+					},
+					{
+						"key": "Tiquillaca",
+						"children": []
+					},
+					{
+						"key": "Vilque",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Azángaro",
+				"children": [
+					{
+						"key": "Azángaro",
+						"children": []
+					},
+					{
+						"key": "Achaya",
+						"children": []
+					},
+					{
+						"key": "Arapa",
+						"children": []
+					},
+					{
+						"key": "Asillo",
+						"children": []
+					},
+					{
+						"key": "Caminaca",
+						"children": []
+					},
+					{
+						"key": "Chupa",
+						"children": []
+					},
+					{
+						"key": "José Domingo Choquehuanca",
+						"children": []
+					},
+					{
+						"key": "Muñani",
+						"children": []
+					},
+					{
+						"key": "Potoni",
+						"children": []
+					},
+					{
+						"key": "Saman",
+						"children": []
+					},
+					{
+						"key": "San Antón",
+						"children": []
+					},
+					{
+						"key": "San José",
+						"children": []
+					},
+					{
+						"key": "San Juan de Salinas",
+						"children": []
+					},
+					{
+						"key": "Santiago de Pupuja",
+						"children": []
+					},
+					{
+						"key": "Tirapata",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Carabaya",
+				"children": [
+					{
+						"key": "Macusani",
+						"children": []
+					},
+					{
+						"key": "Ajoyani",
+						"children": []
+					},
+					{
+						"key": "Ayapata",
+						"children": []
+					},
+					{
+						"key": "Coasa",
+						"children": []
+					},
+					{
+						"key": "Corani",
+						"children": []
+					},
+					{
+						"key": "Crucero",
+						"children": []
+					},
+					{
+						"key": "Ituata",
+						"children": []
+					},
+					{
+						"key": "Ollachea",
+						"children": []
+					},
+					{
+						"key": "San Gabán",
+						"children": []
+					},
+					{
+						"key": "Usicayos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chucuito",
+				"children": [
+					{
+						"key": "Juli",
+						"children": []
+					},
+					{
+						"key": "Desaguadero",
+						"children": []
+					},
+					{
+						"key": "Huacullani",
+						"children": []
+					},
+					{
+						"key": "Kelluyo",
+						"children": []
+					},
+					{
+						"key": "Pisacoma",
+						"children": []
+					},
+					{
+						"key": "Pomata",
+						"children": []
+					},
+					{
+						"key": "Zepita",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "El Collao",
+				"children": [
+					{
+						"key": "Ilave",
+						"children": []
+					},
+					{
+						"key": "Capazo",
+						"children": []
+					},
+					{
+						"key": "Pilcuyo",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Conduriri",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huancané",
+				"children": [
+					{
+						"key": "Huancané",
+						"children": []
+					},
+					{
+						"key": "Cojata",
+						"children": []
+					},
+					{
+						"key": "Huatasani",
+						"children": []
+					},
+					{
+						"key": "Inchupalla",
+						"children": []
+					},
+					{
+						"key": "Pusi",
+						"children": []
+					},
+					{
+						"key": "Rosaspata",
+						"children": []
+					},
+					{
+						"key": "Taraco",
+						"children": []
+					},
+					{
+						"key": "Vilque Chico",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Lampa",
+				"children": [
+					{
+						"key": "Lampa",
+						"children": []
+					},
+					{
+						"key": "Cabanilla",
+						"children": []
+					},
+					{
+						"key": "Calapuja",
+						"children": []
+					},
+					{
+						"key": "Nicasio",
+						"children": []
+					},
+					{
+						"key": "Ocuviri",
+						"children": []
+					},
+					{
+						"key": "Palca",
+						"children": []
+					},
+					{
+						"key": "Paratia",
+						"children": []
+					},
+					{
+						"key": "Pucará",
+						"children": []
+					},
+					{
+						"key": "Santa Lucía",
+						"children": []
+					},
+					{
+						"key": "Vilavila",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Melgar",
+				"children": [
+					{
+						"key": "Ayaviri",
+						"children": []
+					},
+					{
+						"key": "Antauta",
+						"children": []
+					},
+					{
+						"key": "Cupi",
+						"children": []
+					},
+					{
+						"key": "Llalli",
+						"children": []
+					},
+					{
+						"key": "Macari",
+						"children": []
+					},
+					{
+						"key": "Nuñoa",
+						"children": []
+					},
+					{
+						"key": "Orurillo",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Umachiri",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Moho",
+				"children": [
+					{
+						"key": "Moho",
+						"children": []
+					},
+					{
+						"key": "Conima",
+						"children": []
+					},
+					{
+						"key": "Huayrapata",
+						"children": []
+					},
+					{
+						"key": "Tilali",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Antonio De Putina",
+				"children": [
+					{
+						"key": "Putina",
+						"children": []
+					},
+					{
+						"key": "Ananea",
+						"children": []
+					},
+					{
+						"key": "Pedro Vilca Apaza",
+						"children": []
+					},
+					{
+						"key": "Quilcapuncu",
+						"children": []
+					},
+					{
+						"key": "Sina",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Román",
+				"children": [
+					{
+						"key": "Juliaca",
+						"children": []
+					},
+					{
+						"key": "Cabana",
+						"children": []
+					},
+					{
+						"key": "Cabanillas",
+						"children": []
+					},
+					{
+						"key": "Caracoto",
+						"children": []
+					},
+					{
+						"key": "San Miguel",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Sandia",
+				"children": [
+					{
+						"key": "Sandia",
+						"children": []
+					},
+					{
+						"key": "Cuyocuyo",
+						"children": []
+					},
+					{
+						"key": "Limbani",
+						"children": []
+					},
+					{
+						"key": "Patambuco",
+						"children": []
+					},
+					{
+						"key": "Phara",
+						"children": []
+					},
+					{
+						"key": "Quiaca",
+						"children": []
+					},
+					{
+						"key": "San Juan del Oro",
+						"children": []
+					},
+					{
+						"key": "Yanahuaya",
+						"children": []
+					},
+					{
+						"key": "Alto Inambari",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Putina Punco",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Yunguyo",
+				"children": [
+					{
+						"key": "Yunguyo",
+						"children": []
+					},
+					{
+						"key": "Anapia",
+						"children": []
+					},
+					{
+						"key": "Copani",
+						"children": []
+					},
+					{
+						"key": "Cuturapi",
+						"children": []
+					},
+					{
+						"key": "Ollaraya",
+						"children": []
+					},
+					{
+						"key": "Tinicachi",
+						"children": []
+					},
+					{
+						"key": "Unicachi",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Lambayeque",
+		"children": [
+			{
+				"key": "Chiclayo",
+				"children": [
+					{
+						"key": "Chiclayo",
+						"children": []
+					},
+					{
+						"key": "Chongoyape",
+						"children": []
+					},
+					{
+						"key": "Etén",
+						"children": []
+					},
+					{
+						"key": "Etén Puerto",
+						"children": []
+					},
+					{
+						"key": "José Leonardo Ortiz",
+						"children": []
+					},
+					{
+						"key": "La Victoria",
+						"children": []
+					},
+					{
+						"key": "Lagunas",
+						"children": []
+					},
+					{
+						"key": "Monsefú",
+						"children": []
+					},
+					{
+						"key": "Nueva Arica",
+						"children": []
+					},
+					{
+						"key": "Oyotun",
+						"children": []
+					},
+					{
+						"key": "Picsi",
+						"children": []
+					},
+					{
+						"key": "Pimentel",
+						"children": []
+					},
+					{
+						"key": "Reque",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Saña",
+						"children": []
+					},
+					{
+						"key": "Cayaltí",
+						"children": []
+					},
+					{
+						"key": "Patapo",
+						"children": []
+					},
+					{
+						"key": "Pomalca",
+						"children": []
+					},
+					{
+						"key": "Pucala",
+						"children": []
+					},
+					{
+						"key": "Tumán",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ferreñafe",
+				"children": [
+					{
+						"key": "Ferreñafe",
+						"children": []
+					},
+					{
+						"key": "Cañaris",
+						"children": []
+					},
+					{
+						"key": "Incahuasi",
+						"children": []
+					},
+					{
+						"key": "Manuel Antonio Mesones Muro",
+						"children": []
+					},
+					{
+						"key": "Pitipo",
+						"children": []
+					},
+					{
+						"key": "Pueblo Nuevo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Lambayeque",
+				"children": [
+					{
+						"key": "Lambayeque",
+						"children": []
+					},
+					{
+						"key": "Chochope",
+						"children": []
+					},
+					{
+						"key": "Illimo",
+						"children": []
+					},
+					{
+						"key": "Jayanca",
+						"children": []
+					},
+					{
+						"key": "Mochumi",
+						"children": []
+					},
+					{
+						"key": "Mórrope",
+						"children": []
+					},
+					{
+						"key": "Motupe",
+						"children": []
+					},
+					{
+						"key": "Olmos",
+						"children": []
+					},
+					{
+						"key": "Pacora",
+						"children": []
+					},
+					{
+						"key": "Salas",
+						"children": []
+					},
+					{
+						"key": "San José",
+						"children": []
+					},
+					{
+						"key": "Tucume",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Ucayali",
+		"children": [
+			{
+				"key": "Coronel Portillo",
+				"children": [
+					{
+						"key": "Calleria",
+						"children": []
+					},
+					{
+						"key": "Campoverde",
+						"children": []
+					},
+					{
+						"key": "Iparia",
+						"children": []
+					},
+					{
+						"key": "Masisea",
+						"children": []
+					},
+					{
+						"key": "Yarinacocha",
+						"children": []
+					},
+					{
+						"key": "Nueva Requena",
+						"children": []
+					},
+					{
+						"key": "Manantay",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Atalaya",
+				"children": [
+					{
+						"key": "Raimondi",
+						"children": []
+					},
+					{
+						"key": "Sepahua",
+						"children": []
+					},
+					{
+						"key": "Tahuania",
+						"children": []
+					},
+					{
+						"key": "Yurua",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Padre Abad",
+				"children": [
+					{
+						"key": "Padre Abad",
+						"children": []
+					},
+					{
+						"key": "Irazola",
+						"children": []
+					},
+					{
+						"key": "Curimaná",
+						"children": []
+					},
+					{
+						"key": "Neshuya",
+						"children": []
+					},
+					{
+						"key": "Alexander Von Humboldt",
+						"children": []
+					},
+					{
+						"key": "Huipoca 1/",
+						"children": []
+					},
+					{
+						"key": "Boqueron 1/",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Purús",
+				"children": [
+					{
+						"key": "Purús",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Junín",
+		"children": [
+			{
+				"key": "Huancayo",
+				"children": [
+					{
+						"key": "Huancayo",
+						"children": []
+					},
+					{
+						"key": "Carhuacallanga",
+						"children": []
+					},
+					{
+						"key": "Chacapampa",
+						"children": []
+					},
+					{
+						"key": "Chicche",
+						"children": []
+					},
+					{
+						"key": "Chilca",
+						"children": []
+					},
+					{
+						"key": "Chongos Alto",
+						"children": []
+					},
+					{
+						"key": "Chupuro",
+						"children": []
+					},
+					{
+						"key": "Colca",
+						"children": []
+					},
+					{
+						"key": "Cullhuas",
+						"children": []
+					},
+					{
+						"key": "El Tambo",
+						"children": []
+					},
+					{
+						"key": "Huacrapuquio",
+						"children": []
+					},
+					{
+						"key": "Hualhuas",
+						"children": []
+					},
+					{
+						"key": "Huancán",
+						"children": []
+					},
+					{
+						"key": "Huasicancha",
+						"children": []
+					},
+					{
+						"key": "Huayucachi",
+						"children": []
+					},
+					{
+						"key": "Ingenio",
+						"children": []
+					},
+					{
+						"key": "Pariahuanca",
+						"children": []
+					},
+					{
+						"key": "Pilcomayo",
+						"children": []
+					},
+					{
+						"key": "Pucará",
+						"children": []
+					},
+					{
+						"key": "Quichuay",
+						"children": []
+					},
+					{
+						"key": "Quilcas",
+						"children": []
+					},
+					{
+						"key": "San Agustín",
+						"children": []
+					},
+					{
+						"key": "San Jerónimo de Tunán",
+						"children": []
+					},
+					{
+						"key": "Saño",
+						"children": []
+					},
+					{
+						"key": "Sapallanga",
+						"children": []
+					},
+					{
+						"key": "Sicaya",
+						"children": []
+					},
+					{
+						"key": "Santo Domingo de Acobamba",
+						"children": []
+					},
+					{
+						"key": "Viques",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Concepción",
+				"children": [
+					{
+						"key": "Concepción",
+						"children": []
+					},
+					{
+						"key": "Aco",
+						"children": []
+					},
+					{
+						"key": "Andamarca",
+						"children": []
+					},
+					{
+						"key": "Chambará",
+						"children": []
+					},
+					{
+						"key": "Cochas",
+						"children": []
+					},
+					{
+						"key": "Comas",
+						"children": []
+					},
+					{
+						"key": "Heroínas Toledo",
+						"children": []
+					},
+					{
+						"key": "Manzanares",
+						"children": []
+					},
+					{
+						"key": "Mariscal Castilla",
+						"children": []
+					},
+					{
+						"key": "Matahuasi",
+						"children": []
+					},
+					{
+						"key": "Mito",
+						"children": []
+					},
+					{
+						"key": "Nueve de Julio",
+						"children": []
+					},
+					{
+						"key": "Orcotuna",
+						"children": []
+					},
+					{
+						"key": "San José de Quero",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa de Ocopa",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chanchamayo",
+				"children": [
+					{
+						"key": "Chanchamayo",
+						"children": []
+					},
+					{
+						"key": "Perené",
+						"children": []
+					},
+					{
+						"key": "Pichanaqui",
+						"children": []
+					},
+					{
+						"key": "San Luis de Shuaro",
+						"children": []
+					},
+					{
+						"key": "San Ramón",
+						"children": []
+					},
+					{
+						"key": "Vitoc",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Jauja",
+				"children": [
+					{
+						"key": "Jauja",
+						"children": []
+					},
+					{
+						"key": "Acolla",
+						"children": []
+					},
+					{
+						"key": "Apata",
+						"children": []
+					},
+					{
+						"key": "Ataura",
+						"children": []
+					},
+					{
+						"key": "Canchayllo",
+						"children": []
+					},
+					{
+						"key": "Curicaca",
+						"children": []
+					},
+					{
+						"key": "El Mantaro",
+						"children": []
+					},
+					{
+						"key": "Huamalí",
+						"children": []
+					},
+					{
+						"key": "Huaripampa",
+						"children": []
+					},
+					{
+						"key": "Huertas",
+						"children": []
+					},
+					{
+						"key": "Janjaillo",
+						"children": []
+					},
+					{
+						"key": "Julcán",
+						"children": []
+					},
+					{
+						"key": "Leonor Ordóñez",
+						"children": []
+					},
+					{
+						"key": "Llocllapampa",
+						"children": []
+					},
+					{
+						"key": "Marco",
+						"children": []
+					},
+					{
+						"key": "Masma",
+						"children": []
+					},
+					{
+						"key": "Masma Chicche",
+						"children": []
+					},
+					{
+						"key": "Molinos",
+						"children": []
+					},
+					{
+						"key": "Monobamba",
+						"children": []
+					},
+					{
+						"key": "Muqui",
+						"children": []
+					},
+					{
+						"key": "Muquiyauyo",
+						"children": []
+					},
+					{
+						"key": "Paca",
+						"children": []
+					},
+					{
+						"key": "Paccha",
+						"children": []
+					},
+					{
+						"key": "Pancán",
+						"children": []
+					},
+					{
+						"key": "Parco",
+						"children": []
+					},
+					{
+						"key": "Pomacancha",
+						"children": []
+					},
+					{
+						"key": "Ricrán",
+						"children": []
+					},
+					{
+						"key": "San Lorenzo",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Chunán",
+						"children": []
+					},
+					{
+						"key": "Sausa",
+						"children": []
+					},
+					{
+						"key": "Sincos",
+						"children": []
+					},
+					{
+						"key": "Tunan Marca",
+						"children": []
+					},
+					{
+						"key": "Yauli",
+						"children": []
+					},
+					{
+						"key": "Yauyos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Junín",
+				"children": [
+					{
+						"key": "Junín",
+						"children": []
+					},
+					{
+						"key": "Carhuamayo",
+						"children": []
+					},
+					{
+						"key": "Ondores",
+						"children": []
+					},
+					{
+						"key": "Ulcumayo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Satipo",
+				"children": [
+					{
+						"key": "Satipo",
+						"children": []
+					},
+					{
+						"key": "Coviriali",
+						"children": []
+					},
+					{
+						"key": "Llaylla",
+						"children": []
+					},
+					{
+						"key": "Mazamari",
+						"children": []
+					},
+					{
+						"key": "Pampa Hermosa",
+						"children": []
+					},
+					{
+						"key": "Pangoa",
+						"children": []
+					},
+					{
+						"key": "Río Negro",
+						"children": []
+					},
+					{
+						"key": "Río Tambo",
+						"children": []
+					},
+					{
+						"key": "Vizcatán del Ene",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Tarma",
+				"children": [
+					{
+						"key": "Tarma",
+						"children": []
+					},
+					{
+						"key": "Acobamba",
+						"children": []
+					},
+					{
+						"key": "Huaricolca",
+						"children": []
+					},
+					{
+						"key": "Huasahuasi",
+						"children": []
+					},
+					{
+						"key": "La Unión",
+						"children": []
+					},
+					{
+						"key": "Palca",
+						"children": []
+					},
+					{
+						"key": "Palcamayo",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Cajas",
+						"children": []
+					},
+					{
+						"key": "Tapo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Yauli",
+				"children": [
+					{
+						"key": "La Oroya",
+						"children": []
+					},
+					{
+						"key": "Chacapalpa",
+						"children": []
+					},
+					{
+						"key": "Huay-Huay",
+						"children": []
+					},
+					{
+						"key": "Marcapomacocha",
+						"children": []
+					},
+					{
+						"key": "Morococha",
+						"children": []
+					},
+					{
+						"key": "Paccha",
+						"children": []
+					},
+					{
+						"key": "Santa Bárbara de Carhuacayán",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa de Sacco",
+						"children": []
+					},
+					{
+						"key": "Suitucancha",
+						"children": []
+					},
+					{
+						"key": "Yauli",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chupaca",
+				"children": [
+					{
+						"key": "Chupaca",
+						"children": []
+					},
+					{
+						"key": "Ahuac",
+						"children": []
+					},
+					{
+						"key": "Chongos Bajo",
+						"children": []
+					},
+					{
+						"key": "Huáchac",
+						"children": []
+					},
+					{
+						"key": "Huamancaca Chico",
+						"children": []
+					},
+					{
+						"key": "San Juan de Iscos",
+						"children": []
+					},
+					{
+						"key": "San Juan de Jarpa",
+						"children": []
+					},
+					{
+						"key": "Tres de Diciembre",
+						"children": []
+					},
+					{
+						"key": "Yanacancha",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "San Martín",
+		"children": [
+			{
+				"key": "Moyobamba",
+				"children": [
+					{
+						"key": "Moyobamba",
+						"children": []
+					},
+					{
+						"key": "Calzada",
+						"children": []
+					},
+					{
+						"key": "Habana",
+						"children": []
+					},
+					{
+						"key": "Jepelacio",
+						"children": []
+					},
+					{
+						"key": "Soritor",
+						"children": []
+					},
+					{
+						"key": "Yantalo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Bellavista",
+				"children": [
+					{
+						"key": "Bellavista",
+						"children": []
+					},
+					{
+						"key": "Alto Biavo",
+						"children": []
+					},
+					{
+						"key": "Bajo Biavo",
+						"children": []
+					},
+					{
+						"key": "Huallaga",
+						"children": []
+					},
+					{
+						"key": "San Pablo",
+						"children": []
+					},
+					{
+						"key": "San Rafael",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "El Dorado",
+				"children": [
+					{
+						"key": "San José de Sisa",
+						"children": []
+					},
+					{
+						"key": "Agua Blanca",
+						"children": []
+					},
+					{
+						"key": "San Martín",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Shatoja",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huallaga",
+				"children": [
+					{
+						"key": "Saposoa",
+						"children": []
+					},
+					{
+						"key": "Alto Saposoa",
+						"children": []
+					},
+					{
+						"key": "El Eslabón",
+						"children": []
+					},
+					{
+						"key": "Piscoyacu",
+						"children": []
+					},
+					{
+						"key": "Sacanche",
+						"children": []
+					},
+					{
+						"key": "Tingo de Saposoa",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Lamas",
+				"children": [
+					{
+						"key": "Lamas",
+						"children": []
+					},
+					{
+						"key": "Alonso de Alvarado",
+						"children": []
+					},
+					{
+						"key": "Barranquita",
+						"children": []
+					},
+					{
+						"key": "Caynarachi",
+						"children": []
+					},
+					{
+						"key": "Cuñumbuqui",
+						"children": []
+					},
+					{
+						"key": "Pinto Recodo",
+						"children": []
+					},
+					{
+						"key": "Rumisapa",
+						"children": []
+					},
+					{
+						"key": "San Roque de Cumbaza",
+						"children": []
+					},
+					{
+						"key": "Shanao",
+						"children": []
+					},
+					{
+						"key": "Tabalosos",
+						"children": []
+					},
+					{
+						"key": "Zapatero",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Mariscal Cáceres",
+				"children": [
+					{
+						"key": "Juanjuí",
+						"children": []
+					},
+					{
+						"key": "Campanilla",
+						"children": []
+					},
+					{
+						"key": "Huicungo",
+						"children": []
+					},
+					{
+						"key": "Pachiza",
+						"children": []
+					},
+					{
+						"key": "Pajarillo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Picota",
+				"children": [
+					{
+						"key": "Picota",
+						"children": []
+					},
+					{
+						"key": "Buenos Aires",
+						"children": []
+					},
+					{
+						"key": "Caspisapa",
+						"children": []
+					},
+					{
+						"key": "Pilluana",
+						"children": []
+					},
+					{
+						"key": "Pucacaca",
+						"children": []
+					},
+					{
+						"key": "San Cristóbal",
+						"children": []
+					},
+					{
+						"key": "San Hilarión",
+						"children": []
+					},
+					{
+						"key": "Shamboyacu",
+						"children": []
+					},
+					{
+						"key": "Tingo de Ponasa",
+						"children": []
+					},
+					{
+						"key": "Tres Unidos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Rioja",
+				"children": [
+					{
+						"key": "Rioja",
+						"children": []
+					},
+					{
+						"key": "Awajun",
+						"children": []
+					},
+					{
+						"key": "Elias Soplín Vargas",
+						"children": []
+					},
+					{
+						"key": "Nueva Cajamarca",
+						"children": []
+					},
+					{
+						"key": "Pardo Miguel",
+						"children": []
+					},
+					{
+						"key": "Posic",
+						"children": []
+					},
+					{
+						"key": "San Fernando",
+						"children": []
+					},
+					{
+						"key": "Yorongos",
+						"children": []
+					},
+					{
+						"key": "Yuracyacu",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Martín",
+				"children": [
+					{
+						"key": "Tarapoto",
+						"children": []
+					},
+					{
+						"key": "Alberto Leveau",
+						"children": []
+					},
+					{
+						"key": "Cacatachi",
+						"children": []
+					},
+					{
+						"key": "Chazuta",
+						"children": []
+					},
+					{
+						"key": "Chipurana",
+						"children": []
+					},
+					{
+						"key": "El Porvenir",
+						"children": []
+					},
+					{
+						"key": "Huimbayoc",
+						"children": []
+					},
+					{
+						"key": "Juan Guerra",
+						"children": []
+					},
+					{
+						"key": "La Banda de Shilcayo",
+						"children": []
+					},
+					{
+						"key": "Morales",
+						"children": []
+					},
+					{
+						"key": "Papaplaya",
+						"children": []
+					},
+					{
+						"key": "San Antonio",
+						"children": []
+					},
+					{
+						"key": "Sauce",
+						"children": []
+					},
+					{
+						"key": "Shapaja",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Tocache",
+				"children": [
+					{
+						"key": "Tocache",
+						"children": []
+					},
+					{
+						"key": "Nuevo Progreso",
+						"children": []
+					},
+					{
+						"key": "Pólvora",
+						"children": []
+					},
+					{
+						"key": "Shunte",
+						"children": []
+					},
+					{
+						"key": "Uchiza",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Loreto",
+		"children": [
+			{
+				"key": "Maynas",
+				"children": [
+					{
+						"key": "Iquitos",
+						"children": []
+					},
+					{
+						"key": "Alto Nanay",
+						"children": []
+					},
+					{
+						"key": "Fernando Lores",
+						"children": []
+					},
+					{
+						"key": "Indiana",
+						"children": []
+					},
+					{
+						"key": "Las Amazonas",
+						"children": []
+					},
+					{
+						"key": "Mazan",
+						"children": []
+					},
+					{
+						"key": "Napo",
+						"children": []
+					},
+					{
+						"key": "Punchana",
+						"children": []
+					},
+					{
+						"key": "Torres Causana",
+						"children": []
+					},
+					{
+						"key": "Belén",
+						"children": []
+					},
+					{
+						"key": "San Juan Bautista",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Alto Amazonas",
+				"children": [
+					{
+						"key": "Yurimaguas",
+						"children": []
+					},
+					{
+						"key": "Balsapuerto",
+						"children": []
+					},
+					{
+						"key": "Jeberos",
+						"children": []
+					},
+					{
+						"key": "Lagunas",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz",
+						"children": []
+					},
+					{
+						"key": "Teniente César López Rojas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Loreto",
+				"children": [
+					{
+						"key": "Nauta",
+						"children": []
+					},
+					{
+						"key": "Parinari",
+						"children": []
+					},
+					{
+						"key": "Tigre",
+						"children": []
+					},
+					{
+						"key": "Trompeteros",
+						"children": []
+					},
+					{
+						"key": "Urarinas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Mariscal Ramón Castilla",
+				"children": [
+					{
+						"key": "Ramón Castilla",
+						"children": []
+					},
+					{
+						"key": "Pebas",
+						"children": []
+					},
+					{
+						"key": "Yavari",
+						"children": []
+					},
+					{
+						"key": "San Pablo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Requena",
+				"children": [
+					{
+						"key": "Requena",
+						"children": []
+					},
+					{
+						"key": "Alto Tapiche",
+						"children": []
+					},
+					{
+						"key": "Capelo",
+						"children": []
+					},
+					{
+						"key": "Emilio San Martín",
+						"children": []
+					},
+					{
+						"key": "Maquia",
+						"children": []
+					},
+					{
+						"key": "Puinahua",
+						"children": []
+					},
+					{
+						"key": "Saquena",
+						"children": []
+					},
+					{
+						"key": "Soplin",
+						"children": []
+					},
+					{
+						"key": "Tapiche",
+						"children": []
+					},
+					{
+						"key": "Jenaro Herrera",
+						"children": []
+					},
+					{
+						"key": "Yaquerana",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ucayali",
+				"children": [
+					{
+						"key": "Contamana",
+						"children": []
+					},
+					{
+						"key": "Inahuaya",
+						"children": []
+					},
+					{
+						"key": "Padre Márquez",
+						"children": []
+					},
+					{
+						"key": "Pampa Hermosa",
+						"children": []
+					},
+					{
+						"key": "Sarayacu",
+						"children": []
+					},
+					{
+						"key": "Vargas Guerra",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Datem del Marañon",
+				"children": [
+					{
+						"key": "Barranca",
+						"children": []
+					},
+					{
+						"key": "Cahuapanas",
+						"children": []
+					},
+					{
+						"key": "Manseriche",
+						"children": []
+					},
+					{
+						"key": "Morona",
+						"children": []
+					},
+					{
+						"key": "Pastaza",
+						"children": []
+					},
+					{
+						"key": "Andoas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Putumayo",
+				"children": [
+					{
+						"key": "Putumayo",
+						"children": []
+					},
+					{
+						"key": "Rosa Panduro",
+						"children": []
+					},
+					{
+						"key": "Teniente Manuel Clavero",
+						"children": []
+					},
+					{
+						"key": "Yaguas",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Áncash",
+		"children": [
+			{
+				"key": "Huaraz",
+				"children": [
+					{
+						"key": "Huaraz",
+						"children": []
+					},
+					{
+						"key": "Cochabamba",
+						"children": []
+					},
+					{
+						"key": "Colcabamba",
+						"children": []
+					},
+					{
+						"key": "Huanchay",
+						"children": []
+					},
+					{
+						"key": "Independencia",
+						"children": []
+					},
+					{
+						"key": "Jangas",
+						"children": []
+					},
+					{
+						"key": "La Libertad",
+						"children": []
+					},
+					{
+						"key": "Olleros",
+						"children": []
+					},
+					{
+						"key": "Pampas Grande",
+						"children": []
+					},
+					{
+						"key": "Pariacoto",
+						"children": []
+					},
+					{
+						"key": "Pira",
+						"children": []
+					},
+					{
+						"key": "Tarica",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Aija",
+				"children": [
+					{
+						"key": "Aija",
+						"children": []
+					},
+					{
+						"key": "Coris",
+						"children": []
+					},
+					{
+						"key": "Huacllán",
+						"children": []
+					},
+					{
+						"key": "La Merced",
+						"children": []
+					},
+					{
+						"key": "Succha",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Antonio Raymondi",
+				"children": [
+					{
+						"key": "Llamellín",
+						"children": []
+					},
+					{
+						"key": "Aczo",
+						"children": []
+					},
+					{
+						"key": "Chaccho",
+						"children": []
+					},
+					{
+						"key": "Chingas",
+						"children": []
+					},
+					{
+						"key": "Mirgas",
+						"children": []
+					},
+					{
+						"key": "San Juan de Rontoy",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Asunción",
+				"children": [
+					{
+						"key": "Chacas",
+						"children": []
+					},
+					{
+						"key": "Acochaca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Bolognesi",
+				"children": [
+					{
+						"key": "Chiquián",
+						"children": []
+					},
+					{
+						"key": "Abelardo Pardo Lezameta",
+						"children": []
+					},
+					{
+						"key": "Antonio Raymondi",
+						"children": []
+					},
+					{
+						"key": "Aquia",
+						"children": []
+					},
+					{
+						"key": "Cajacay",
+						"children": []
+					},
+					{
+						"key": "Canis ",
+						"children": []
+					},
+					{
+						"key": "Colquioc",
+						"children": []
+					},
+					{
+						"key": "Huallanca",
+						"children": []
+					},
+					{
+						"key": "Huasta",
+						"children": []
+					},
+					{
+						"key": "Huayllacayán",
+						"children": []
+					},
+					{
+						"key": "La Primavera",
+						"children": []
+					},
+					{
+						"key": "Mangas",
+						"children": []
+					},
+					{
+						"key": "Pacllón",
+						"children": []
+					},
+					{
+						"key": "San Miguel de Corpanqui",
+						"children": []
+					},
+					{
+						"key": "Ticllos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Carhuaz",
+				"children": [
+					{
+						"key": "Carhuaz",
+						"children": []
+					},
+					{
+						"key": "Acopampa",
+						"children": []
+					},
+					{
+						"key": "Amashca",
+						"children": []
+					},
+					{
+						"key": "Anta",
+						"children": []
+					},
+					{
+						"key": "Ataquero",
+						"children": []
+					},
+					{
+						"key": "Marcará",
+						"children": []
+					},
+					{
+						"key": "Pariahuanca",
+						"children": []
+					},
+					{
+						"key": "San Miguel de Aco",
+						"children": []
+					},
+					{
+						"key": "Shilla",
+						"children": []
+					},
+					{
+						"key": "Tinco",
+						"children": []
+					},
+					{
+						"key": "Yungar",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Carlos Fermin Fitzcarrald",
+				"children": [
+					{
+						"key": "San Luis",
+						"children": []
+					},
+					{
+						"key": "San Nicolás",
+						"children": []
+					},
+					{
+						"key": "Yauya",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Casma",
+				"children": [
+					{
+						"key": "Casma",
+						"children": []
+					},
+					{
+						"key": "Buena Vista Alta",
+						"children": []
+					},
+					{
+						"key": "Comandante Noél",
+						"children": []
+					},
+					{
+						"key": "Yaután",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Corongo",
+				"children": [
+					{
+						"key": "Corongo",
+						"children": []
+					},
+					{
+						"key": "Aco ",
+						"children": []
+					},
+					{
+						"key": "Bambas",
+						"children": []
+					},
+					{
+						"key": "Cusca",
+						"children": []
+					},
+					{
+						"key": "La Pampa",
+						"children": []
+					},
+					{
+						"key": "Yánac",
+						"children": []
+					},
+					{
+						"key": "Yupán",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huari",
+				"children": [
+					{
+						"key": "Huari",
+						"children": []
+					},
+					{
+						"key": "Anra",
+						"children": []
+					},
+					{
+						"key": "Cajay",
+						"children": []
+					},
+					{
+						"key": "Chavín de Huántar",
+						"children": []
+					},
+					{
+						"key": "Huacachi",
+						"children": []
+					},
+					{
+						"key": "Huacchis",
+						"children": []
+					},
+					{
+						"key": "Huachis",
+						"children": []
+					},
+					{
+						"key": "Huántar",
+						"children": []
+					},
+					{
+						"key": "Masín",
+						"children": []
+					},
+					{
+						"key": "Paucas",
+						"children": []
+					},
+					{
+						"key": "Ponto",
+						"children": []
+					},
+					{
+						"key": "Rahuapampa",
+						"children": []
+					},
+					{
+						"key": "Rapayan",
+						"children": []
+					},
+					{
+						"key": "San Marcos",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Chana",
+						"children": []
+					},
+					{
+						"key": "Uco",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huarmey",
+				"children": [
+					{
+						"key": "Huarmey",
+						"children": []
+					},
+					{
+						"key": "Cochapeti",
+						"children": []
+					},
+					{
+						"key": "Culebras",
+						"children": []
+					},
+					{
+						"key": "Huayán",
+						"children": []
+					},
+					{
+						"key": "Malvas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huaylas",
+				"children": [
+					{
+						"key": "Caraz",
+						"children": []
+					},
+					{
+						"key": "Huallanca",
+						"children": []
+					},
+					{
+						"key": "Huata",
+						"children": []
+					},
+					{
+						"key": "Huaylas",
+						"children": []
+					},
+					{
+						"key": "Mato",
+						"children": []
+					},
+					{
+						"key": "Pamparomás",
+						"children": []
+					},
+					{
+						"key": "Pueblo Libre",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz",
+						"children": []
+					},
+					{
+						"key": "Santo Toribio",
+						"children": []
+					},
+					{
+						"key": "Yuracmarca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Mariscal Luzuriaga",
+				"children": [
+					{
+						"key": "Piscobamba",
+						"children": []
+					},
+					{
+						"key": "Casca",
+						"children": []
+					},
+					{
+						"key": "Eleazar Guzmán Barrón",
+						"children": []
+					},
+					{
+						"key": "Fidel Olivas Escudero",
+						"children": []
+					},
+					{
+						"key": "Llama",
+						"children": []
+					},
+					{
+						"key": "Llumpa",
+						"children": []
+					},
+					{
+						"key": "Lucma",
+						"children": []
+					},
+					{
+						"key": "Musga",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ocros",
+				"children": [
+					{
+						"key": "Ocros",
+						"children": []
+					},
+					{
+						"key": "Acas",
+						"children": []
+					},
+					{
+						"key": "Cajamarquilla",
+						"children": []
+					},
+					{
+						"key": "Carhuapampa",
+						"children": []
+					},
+					{
+						"key": "Cochas",
+						"children": []
+					},
+					{
+						"key": "Congas",
+						"children": []
+					},
+					{
+						"key": "Llipa",
+						"children": []
+					},
+					{
+						"key": "San Cristóbal de Raján",
+						"children": []
+					},
+					{
+						"key": "San Pedro",
+						"children": []
+					},
+					{
+						"key": "Santiago de Chilcas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Pallasca",
+				"children": [
+					{
+						"key": "Cabana",
+						"children": []
+					},
+					{
+						"key": "Bolognesi",
+						"children": []
+					},
+					{
+						"key": "Conchucos",
+						"children": []
+					},
+					{
+						"key": "Huacaschuque",
+						"children": []
+					},
+					{
+						"key": "Huandoval",
+						"children": []
+					},
+					{
+						"key": "Lacabamba",
+						"children": []
+					},
+					{
+						"key": "Llapo",
+						"children": []
+					},
+					{
+						"key": "Pallasca",
+						"children": []
+					},
+					{
+						"key": "Pampas",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Tauca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Pomabamba",
+				"children": [
+					{
+						"key": "Pomabamba",
+						"children": []
+					},
+					{
+						"key": "Huayllán",
+						"children": []
+					},
+					{
+						"key": "Parobamba",
+						"children": []
+					},
+					{
+						"key": "Quinuabamba",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Recuay",
+				"children": [
+					{
+						"key": "Recuay",
+						"children": []
+					},
+					{
+						"key": "Cátac",
+						"children": []
+					},
+					{
+						"key": "Cotaparaco",
+						"children": []
+					},
+					{
+						"key": "Huayllapampa",
+						"children": []
+					},
+					{
+						"key": "Llacllin",
+						"children": []
+					},
+					{
+						"key": "Marca",
+						"children": []
+					},
+					{
+						"key": "Pampas Chico",
+						"children": []
+					},
+					{
+						"key": "Pararín",
+						"children": []
+					},
+					{
+						"key": "Tapacocha",
+						"children": []
+					},
+					{
+						"key": "Ticapampa",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Santa",
+				"children": [
+					{
+						"key": "Chimbote",
+						"children": []
+					},
+					{
+						"key": "Cáceres del Perú",
+						"children": []
+					},
+					{
+						"key": "Coishco",
+						"children": []
+					},
+					{
+						"key": "Macate",
+						"children": []
+					},
+					{
+						"key": "Moro",
+						"children": []
+					},
+					{
+						"key": "Nepeña",
+						"children": []
+					},
+					{
+						"key": "Samanco",
+						"children": []
+					},
+					{
+						"key": "Santa",
+						"children": []
+					},
+					{
+						"key": "Nuevo Chimbote",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Sihuas",
+				"children": [
+					{
+						"key": "Sihuas",
+						"children": []
+					},
+					{
+						"key": "Acobamba",
+						"children": []
+					},
+					{
+						"key": "Alfonso Ugarte",
+						"children": []
+					},
+					{
+						"key": "Cashapampa",
+						"children": []
+					},
+					{
+						"key": "Chingalpo",
+						"children": []
+					},
+					{
+						"key": "Huayllabamba",
+						"children": []
+					},
+					{
+						"key": "Quiches",
+						"children": []
+					},
+					{
+						"key": "Ragash",
+						"children": []
+					},
+					{
+						"key": "San Juan",
+						"children": []
+					},
+					{
+						"key": "Sicsibamba",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Yungay",
+				"children": [
+					{
+						"key": "Yungay",
+						"children": []
+					},
+					{
+						"key": "Cascapara",
+						"children": []
+					},
+					{
+						"key": "Mancos",
+						"children": []
+					},
+					{
+						"key": "Matacoto",
+						"children": []
+					},
+					{
+						"key": "Quillo",
+						"children": []
+					},
+					{
+						"key": "Ranrahirca",
+						"children": []
+					},
+					{
+						"key": "Shupluy",
+						"children": []
+					},
+					{
+						"key": "Yanama",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Lima",
+		"children": [
+			{
+				"key": "Lima",
+				"children": [
+					{
+						"key": "Lima",
+						"children": []
+					},
+					{
+						"key": "Ancón",
+						"children": []
+					},
+					{
+						"key": "Ate",
+						"children": []
+					},
+					{
+						"key": "Barranco",
+						"children": []
+					},
+					{
+						"key": "Breña",
+						"children": []
+					},
+					{
+						"key": "Carabayllo",
+						"children": []
+					},
+					{
+						"key": "Chaclacayo",
+						"children": []
+					},
+					{
+						"key": "Chorrillos",
+						"children": []
+					},
+					{
+						"key": "Cieneguilla",
+						"children": []
+					},
+					{
+						"key": "Comas",
+						"children": []
+					},
+					{
+						"key": "El Agustino",
+						"children": []
+					},
+					{
+						"key": "Independencia",
+						"children": []
+					},
+					{
+						"key": "Jesús María",
+						"children": []
+					},
+					{
+						"key": "La Molina",
+						"children": []
+					},
+					{
+						"key": "La Victoria",
+						"children": []
+					},
+					{
+						"key": "Lince",
+						"children": []
+					},
+					{
+						"key": "Los Olivos",
+						"children": []
+					},
+					{
+						"key": "Lurigancho",
+						"children": []
+					},
+					{
+						"key": "Lurín",
+						"children": []
+					},
+					{
+						"key": "Magdalena Del Mar",
+						"children": []
+					},
+					{
+						"key": "Pueblo Libre",
+						"children": []
+					},
+					{
+						"key": "Miraflores",
+						"children": []
+					},
+					{
+						"key": "Pachacámac",
+						"children": []
+					},
+					{
+						"key": "Pucusana",
+						"children": []
+					},
+					{
+						"key": "Puente Piedra",
+						"children": []
+					},
+					{
+						"key": "Punta Hermosa",
+						"children": []
+					},
+					{
+						"key": "Punta Negra",
+						"children": []
+					},
+					{
+						"key": "Rímac",
+						"children": []
+					},
+					{
+						"key": "San Bartolo",
+						"children": []
+					},
+					{
+						"key": "San Borja",
+						"children": []
+					},
+					{
+						"key": "San Isidro",
+						"children": []
+					},
+					{
+						"key": "San Juan de Lurigancho",
+						"children": []
+					},
+					{
+						"key": "San Juan de Miraflores",
+						"children": []
+					},
+					{
+						"key": "San Luis",
+						"children": []
+					},
+					{
+						"key": "San Martin de Porres",
+						"children": []
+					},
+					{
+						"key": "San Miguel",
+						"children": []
+					},
+					{
+						"key": "Santa Anita",
+						"children": []
+					},
+					{
+						"key": "Santa María del Mar",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Santiago de Surco",
+						"children": []
+					},
+					{
+						"key": "Surquillo",
+						"children": []
+					},
+					{
+						"key": "Villa El Salvador",
+						"children": []
+					},
+					{
+						"key": "Villa María Del Triunfo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Barranca",
+				"children": [
+					{
+						"key": "Barranca",
+						"children": []
+					},
+					{
+						"key": "Paramonga",
+						"children": []
+					},
+					{
+						"key": "Pativilca",
+						"children": []
+					},
+					{
+						"key": "Supe",
+						"children": []
+					},
+					{
+						"key": "Supe Puerto",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Cajatambo",
+				"children": [
+					{
+						"key": "Cajatambo",
+						"children": []
+					},
+					{
+						"key": "Copa",
+						"children": []
+					},
+					{
+						"key": "Gorgor",
+						"children": []
+					},
+					{
+						"key": "Huancapón",
+						"children": []
+					},
+					{
+						"key": "Manas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Canta",
+				"children": [
+					{
+						"key": "Canta",
+						"children": []
+					},
+					{
+						"key": "Arahuay",
+						"children": []
+					},
+					{
+						"key": "Huamantanga ",
+						"children": []
+					},
+					{
+						"key": "Huaros",
+						"children": []
+					},
+					{
+						"key": "Lachaqui",
+						"children": []
+					},
+					{
+						"key": "San Buenaventura",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa de Quives",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Cañete",
+				"children": [
+					{
+						"key": "San Vicente de Cañete",
+						"children": []
+					},
+					{
+						"key": "Asia",
+						"children": []
+					},
+					{
+						"key": "Calango",
+						"children": []
+					},
+					{
+						"key": "Cerro Azul",
+						"children": []
+					},
+					{
+						"key": "Chilca",
+						"children": []
+					},
+					{
+						"key": "Coayllo",
+						"children": []
+					},
+					{
+						"key": "Imperial",
+						"children": []
+					},
+					{
+						"key": "Lunahuana",
+						"children": []
+					},
+					{
+						"key": "Mala",
+						"children": []
+					},
+					{
+						"key": "Nuevo Imperial",
+						"children": []
+					},
+					{
+						"key": "Pacarán",
+						"children": []
+					},
+					{
+						"key": "Quilmana",
+						"children": []
+					},
+					{
+						"key": "San Antonio",
+						"children": []
+					},
+					{
+						"key": "San Luis",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz de Flores",
+						"children": []
+					},
+					{
+						"key": "Zuñiga",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huaral",
+				"children": [
+					{
+						"key": "Huaral",
+						"children": []
+					},
+					{
+						"key": "Atavillos Alto",
+						"children": []
+					},
+					{
+						"key": "Atavillos Bajo",
+						"children": []
+					},
+					{
+						"key": "Aucallama",
+						"children": []
+					},
+					{
+						"key": "Chancay",
+						"children": []
+					},
+					{
+						"key": "Ihuari",
+						"children": []
+					},
+					{
+						"key": "Lampián",
+						"children": []
+					},
+					{
+						"key": "Pacaraos",
+						"children": []
+					},
+					{
+						"key": "San Miguel de Acos",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz de Andamarca",
+						"children": []
+					},
+					{
+						"key": "Sumbilca",
+						"children": []
+					},
+					{
+						"key": "Veintisiete de Noviembre",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huarochirí",
+				"children": [
+					{
+						"key": "Matucana",
+						"children": []
+					},
+					{
+						"key": "Antioquía",
+						"children": []
+					},
+					{
+						"key": "Callahuanca",
+						"children": []
+					},
+					{
+						"key": "Carampoma",
+						"children": []
+					},
+					{
+						"key": "Chicla",
+						"children": []
+					},
+					{
+						"key": "Cuenca",
+						"children": []
+					},
+					{
+						"key": "Huachupampa",
+						"children": []
+					},
+					{
+						"key": "Huanza",
+						"children": []
+					},
+					{
+						"key": "Huarochirí",
+						"children": []
+					},
+					{
+						"key": "Lahuaytambo",
+						"children": []
+					},
+					{
+						"key": "Langa",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Laraos",
+						"children": []
+					},
+					{
+						"key": "Mariatana",
+						"children": []
+					},
+					{
+						"key": "Ricardo Palma",
+						"children": []
+					},
+					{
+						"key": "San Andrés de Tupicocha",
+						"children": []
+					},
+					{
+						"key": "San Antonio",
+						"children": []
+					},
+					{
+						"key": "San Bartolomé",
+						"children": []
+					},
+					{
+						"key": "San Damian",
+						"children": []
+					},
+					{
+						"key": "San Juan de Iris",
+						"children": []
+					},
+					{
+						"key": "San Juan de Tantaranche",
+						"children": []
+					},
+					{
+						"key": "San Lorenzo de Quinti",
+						"children": []
+					},
+					{
+						"key": "San Mateo",
+						"children": []
+					},
+					{
+						"key": "San Mateo de Otao",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Casta",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Huancayre",
+						"children": []
+					},
+					{
+						"key": "Sangallaya",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz de Cocachacra",
+						"children": []
+					},
+					{
+						"key": "Santa Eulalia",
+						"children": []
+					},
+					{
+						"key": "Santiago de Anchucaya",
+						"children": []
+					},
+					{
+						"key": "Santiago de Tuna",
+						"children": []
+					},
+					{
+						"key": "Santo Domingo de Los Olleros",
+						"children": []
+					},
+					{
+						"key": "Surco",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huaura",
+				"children": [
+					{
+						"key": "Huacho",
+						"children": []
+					},
+					{
+						"key": "Ambar",
+						"children": []
+					},
+					{
+						"key": "Caleta de Carquín",
+						"children": []
+					},
+					{
+						"key": "Checras",
+						"children": []
+					},
+					{
+						"key": "Hualmay",
+						"children": []
+					},
+					{
+						"key": "Huaura",
+						"children": []
+					},
+					{
+						"key": "Leoncio Prado",
+						"children": []
+					},
+					{
+						"key": "Paccho",
+						"children": []
+					},
+					{
+						"key": "Santa Leonor",
+						"children": []
+					},
+					{
+						"key": "Santa María",
+						"children": []
+					},
+					{
+						"key": "Sayán",
+						"children": []
+					},
+					{
+						"key": "Vegueta",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Oyón",
+				"children": [
+					{
+						"key": "Oyón",
+						"children": []
+					},
+					{
+						"key": "Andajes",
+						"children": []
+					},
+					{
+						"key": "Caujul",
+						"children": []
+					},
+					{
+						"key": "Cochamarca",
+						"children": []
+					},
+					{
+						"key": "Naván",
+						"children": []
+					},
+					{
+						"key": "Pachangara",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Yauyos",
+				"children": [
+					{
+						"key": "Yauyos",
+						"children": []
+					},
+					{
+						"key": "Alis",
+						"children": []
+					},
+					{
+						"key": "Allauca",
+						"children": []
+					},
+					{
+						"key": "Ayaviri",
+						"children": []
+					},
+					{
+						"key": "Azángaro",
+						"children": []
+					},
+					{
+						"key": "Cacra",
+						"children": []
+					},
+					{
+						"key": "Carania",
+						"children": []
+					},
+					{
+						"key": "Catahuasi",
+						"children": []
+					},
+					{
+						"key": "Chocos",
+						"children": []
+					},
+					{
+						"key": "Cochas",
+						"children": []
+					},
+					{
+						"key": "Colonia",
+						"children": []
+					},
+					{
+						"key": "Hongos",
+						"children": []
+					},
+					{
+						"key": "Huampara",
+						"children": []
+					},
+					{
+						"key": "Huancaya",
+						"children": []
+					},
+					{
+						"key": "Huangascar",
+						"children": []
+					},
+					{
+						"key": "Huantan",
+						"children": []
+					},
+					{
+						"key": "Huañec",
+						"children": []
+					},
+					{
+						"key": "Laraos",
+						"children": []
+					},
+					{
+						"key": "Lincha",
+						"children": []
+					},
+					{
+						"key": "Madean",
+						"children": []
+					},
+					{
+						"key": "Miraflores",
+						"children": []
+					},
+					{
+						"key": "Omas",
+						"children": []
+					},
+					{
+						"key": "Putinza",
+						"children": []
+					},
+					{
+						"key": "Quinches",
+						"children": []
+					},
+					{
+						"key": "Quinocay",
+						"children": []
+					},
+					{
+						"key": "San Joaquín",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Pilas",
+						"children": []
+					},
+					{
+						"key": "Tanta",
+						"children": []
+					},
+					{
+						"key": "Tauripampa",
+						"children": []
+					},
+					{
+						"key": "Tomás",
+						"children": []
+					},
+					{
+						"key": "Tupe",
+						"children": []
+					},
+					{
+						"key": "Viñac",
+						"children": []
+					},
+					{
+						"key": "Vitis",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Moquegua",
+		"children": [
+			{
+				"key": "Mariscal Nieto",
+				"children": [
+					{
+						"key": "Moquegua",
+						"children": []
+					},
+					{
+						"key": "Carumas",
+						"children": []
+					},
+					{
+						"key": "Cuchumbaya",
+						"children": []
+					},
+					{
+						"key": "Samegua",
+						"children": []
+					},
+					{
+						"key": "San Cristóbal",
+						"children": []
+					},
+					{
+						"key": "Torata",
+						"children": []
+					},
+					{
+						"key": "San Antonio 1/",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "General Sánchez Cerro",
+				"children": [
+					{
+						"key": "Omate",
+						"children": []
+					},
+					{
+						"key": "Chojata",
+						"children": []
+					},
+					{
+						"key": "Coalaque",
+						"children": []
+					},
+					{
+						"key": "Ichuña",
+						"children": []
+					},
+					{
+						"key": "La Capilla",
+						"children": []
+					},
+					{
+						"key": "Lloque",
+						"children": []
+					},
+					{
+						"key": "Matalaque",
+						"children": []
+					},
+					{
+						"key": "Puquina",
+						"children": []
+					},
+					{
+						"key": "Quinistaquillas",
+						"children": []
+					},
+					{
+						"key": "Ubinas",
+						"children": []
+					},
+					{
+						"key": "Yunga",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ilo",
+				"children": [
+					{
+						"key": "Ilo",
+						"children": []
+					},
+					{
+						"key": "El Algarrobal",
+						"children": []
+					},
+					{
+						"key": "Pacocha",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Tumbes",
+		"children": [
+			{
+				"key": "Tumbes",
+				"children": [
+					{
+						"key": "Tumbes",
+						"children": []
+					},
+					{
+						"key": "Corrales",
+						"children": []
+					},
+					{
+						"key": "La Cruz",
+						"children": []
+					},
+					{
+						"key": "Pampas de Hospital",
+						"children": []
+					},
+					{
+						"key": "San Jacinto",
+						"children": []
+					},
+					{
+						"key": "San Juan de La Virgen",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Contralmirante Villar",
+				"children": [
+					{
+						"key": "Zorritos",
+						"children": []
+					},
+					{
+						"key": "Casitas",
+						"children": []
+					},
+					{
+						"key": "Canoas de Punta Sal",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Zarumilla",
+				"children": [
+					{
+						"key": "Zarumilla",
+						"children": []
+					},
+					{
+						"key": "Aguas Verdes",
+						"children": []
+					},
+					{
+						"key": "Matapalo",
+						"children": []
+					},
+					{
+						"key": "Papayal",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Madre de Dios",
+		"children": [
+			{
+				"key": "Tambopata",
+				"children": [
+					{
+						"key": "Tambopata",
+						"children": []
+					},
+					{
+						"key": "Inambari",
+						"children": []
+					},
+					{
+						"key": "Las Piedras",
+						"children": []
+					},
+					{
+						"key": "Laberinto",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Manu",
+				"children": [
+					{
+						"key": "Manu",
+						"children": []
+					},
+					{
+						"key": "Fitzcarrald",
+						"children": []
+					},
+					{
+						"key": "Madre de Dios",
+						"children": []
+					},
+					{
+						"key": "Huepetuhe",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Tahuamanu",
+				"children": [
+					{
+						"key": "Iñapari",
+						"children": []
+					},
+					{
+						"key": "Iberia",
+						"children": []
+					},
+					{
+						"key": "Tahuamanu",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Ayacucho",
+		"children": [
+			{
+				"key": "Huamanga",
+				"children": [
+					{
+						"key": "Ayacucho",
+						"children": []
+					},
+					{
+						"key": "Acocro",
+						"children": []
+					},
+					{
+						"key": "Acos Vinchos",
+						"children": []
+					},
+					{
+						"key": "Carmen Alto",
+						"children": []
+					},
+					{
+						"key": "Chiara",
+						"children": []
+					},
+					{
+						"key": "Ocros",
+						"children": []
+					},
+					{
+						"key": "Pacaycasa",
+						"children": []
+					},
+					{
+						"key": "Quinua",
+						"children": []
+					},
+					{
+						"key": "San José de Ticllas",
+						"children": []
+					},
+					{
+						"key": "San Juan Bautista",
+						"children": []
+					},
+					{
+						"key": "Santiago de Pischa",
+						"children": []
+					},
+					{
+						"key": "Socos",
+						"children": []
+					},
+					{
+						"key": "Tambillo",
+						"children": []
+					},
+					{
+						"key": "Vinchos",
+						"children": []
+					},
+					{
+						"key": "Jesús Nazareno",
+						"children": []
+					},
+					{
+						"key": "Andrés Avelino Cáceres Dorregaray",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Cangallo",
+				"children": [
+					{
+						"key": "Cangallo",
+						"children": []
+					},
+					{
+						"key": "Chuschi",
+						"children": []
+					},
+					{
+						"key": "Los Morochucos",
+						"children": []
+					},
+					{
+						"key": "María Parado de Bellido",
+						"children": []
+					},
+					{
+						"key": "Paras",
+						"children": []
+					},
+					{
+						"key": "Totos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huanca Sancos",
+				"children": [
+					{
+						"key": "Sancos",
+						"children": []
+					},
+					{
+						"key": "Carapo",
+						"children": []
+					},
+					{
+						"key": "Sacsamarca",
+						"children": []
+					},
+					{
+						"key": "Santiago de Lucanamarca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huanta",
+				"children": [
+					{
+						"key": "Huanta",
+						"children": []
+					},
+					{
+						"key": "Ayahuanco",
+						"children": []
+					},
+					{
+						"key": "Huamanguilla",
+						"children": []
+					},
+					{
+						"key": "Iguain",
+						"children": []
+					},
+					{
+						"key": "Luricocha",
+						"children": []
+					},
+					{
+						"key": "Santillana",
+						"children": []
+					},
+					{
+						"key": "Sivia",
+						"children": []
+					},
+					{
+						"key": "Llochegua",
+						"children": []
+					},
+					{
+						"key": "Canayre",
+						"children": []
+					},
+					{
+						"key": "Uchuraccay",
+						"children": []
+					},
+					{
+						"key": "Pucacolpa",
+						"children": []
+					},
+					{
+						"key": "Chaca",
+						"children": []
+					},
+					{
+						"key": "Putis 1/",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "La Mar",
+				"children": [
+					{
+						"key": "San Miguel",
+						"children": []
+					},
+					{
+						"key": "Anco",
+						"children": []
+					},
+					{
+						"key": "Ayna",
+						"children": []
+					},
+					{
+						"key": "Chilcas",
+						"children": []
+					},
+					{
+						"key": "Chungui",
+						"children": []
+					},
+					{
+						"key": "Luis Carranza",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Tambo",
+						"children": []
+					},
+					{
+						"key": "Samugari",
+						"children": []
+					},
+					{
+						"key": "Anchihuay",
+						"children": []
+					},
+					{
+						"key": "Oronccoy",
+						"children": []
+					},
+					{
+						"key": "Union Progreso 1/",
+						"children": []
+					},
+					{
+						"key": "Rio Magdalena 1/",
+						"children": []
+					},
+					{
+						"key": "Ninabamba 1/",
+						"children": []
+					},
+					{
+						"key": "Patibamba 1/",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Lucanas",
+				"children": [
+					{
+						"key": "Puquio",
+						"children": []
+					},
+					{
+						"key": "Aucara",
+						"children": []
+					},
+					{
+						"key": "Cabana",
+						"children": []
+					},
+					{
+						"key": "Carmen Salcedo",
+						"children": []
+					},
+					{
+						"key": "Chaviña",
+						"children": []
+					},
+					{
+						"key": "Chipao",
+						"children": []
+					},
+					{
+						"key": "Huac-Huas",
+						"children": []
+					},
+					{
+						"key": "Laramate",
+						"children": []
+					},
+					{
+						"key": "Leoncio Prado",
+						"children": []
+					},
+					{
+						"key": "Llauta",
+						"children": []
+					},
+					{
+						"key": "Lucanas",
+						"children": []
+					},
+					{
+						"key": "Ocaña",
+						"children": []
+					},
+					{
+						"key": "Otoca",
+						"children": []
+					},
+					{
+						"key": "Saisa",
+						"children": []
+					},
+					{
+						"key": "San Cristóbal",
+						"children": []
+					},
+					{
+						"key": "San Juan",
+						"children": []
+					},
+					{
+						"key": "San Pedro",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Palco",
+						"children": []
+					},
+					{
+						"key": "Sancos",
+						"children": []
+					},
+					{
+						"key": "Santa Ana de Huaycahuacho",
+						"children": []
+					},
+					{
+						"key": "Santa Lucia",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Parinacochas",
+				"children": [
+					{
+						"key": "Coracora",
+						"children": []
+					},
+					{
+						"key": "Chumpi",
+						"children": []
+					},
+					{
+						"key": "Coronel Castañeda",
+						"children": []
+					},
+					{
+						"key": "Pacapausa",
+						"children": []
+					},
+					{
+						"key": "Pullo",
+						"children": []
+					},
+					{
+						"key": "Puyusca",
+						"children": []
+					},
+					{
+						"key": "San Francisco de Rivacayco",
+						"children": []
+					},
+					{
+						"key": "Upahuacho",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Paucar del Sara Sara",
+				"children": [
+					{
+						"key": "Pausa",
+						"children": []
+					},
+					{
+						"key": "Colta",
+						"children": []
+					},
+					{
+						"key": "Corculla",
+						"children": []
+					},
+					{
+						"key": "Lampa",
+						"children": []
+					},
+					{
+						"key": "Marcabamba",
+						"children": []
+					},
+					{
+						"key": "Oyolo",
+						"children": []
+					},
+					{
+						"key": "Pararca",
+						"children": []
+					},
+					{
+						"key": "San Javier de Alpabamba",
+						"children": []
+					},
+					{
+						"key": "San José de Ushua",
+						"children": []
+					},
+					{
+						"key": "Sara Sara",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Sucre",
+				"children": [
+					{
+						"key": "Querobamba",
+						"children": []
+					},
+					{
+						"key": "Belén",
+						"children": []
+					},
+					{
+						"key": "Chalcos",
+						"children": []
+					},
+					{
+						"key": "Chilcayoc",
+						"children": []
+					},
+					{
+						"key": "Huacaña",
+						"children": []
+					},
+					{
+						"key": "Morcolla",
+						"children": []
+					},
+					{
+						"key": "Paico",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Larcay",
+						"children": []
+					},
+					{
+						"key": "San Salvador de Quije",
+						"children": []
+					},
+					{
+						"key": "Santiago de Paucaray",
+						"children": []
+					},
+					{
+						"key": "Soras",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Victor Fajardo",
+				"children": [
+					{
+						"key": "Huancapi",
+						"children": []
+					},
+					{
+						"key": "Alcamenca",
+						"children": []
+					},
+					{
+						"key": "Apongo",
+						"children": []
+					},
+					{
+						"key": "Asquipata",
+						"children": []
+					},
+					{
+						"key": "Canaria",
+						"children": []
+					},
+					{
+						"key": "Cayara",
+						"children": []
+					},
+					{
+						"key": "Colca",
+						"children": []
+					},
+					{
+						"key": "Huamanquiquia",
+						"children": []
+					},
+					{
+						"key": "Huancaraylla",
+						"children": []
+					},
+					{
+						"key": "Hualla",
+						"children": []
+					},
+					{
+						"key": "Sarhua",
+						"children": []
+					},
+					{
+						"key": "Vilcanchos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Vilcas Huamán",
+				"children": [
+					{
+						"key": "Vilcas Huamán",
+						"children": []
+					},
+					{
+						"key": "Accomarca",
+						"children": []
+					},
+					{
+						"key": "Carhuanca",
+						"children": []
+					},
+					{
+						"key": "Concepción",
+						"children": []
+					},
+					{
+						"key": "Huambalpa",
+						"children": []
+					},
+					{
+						"key": "Independencia",
+						"children": []
+					},
+					{
+						"key": "Saurama",
+						"children": []
+					},
+					{
+						"key": "Vischongo",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Tacna",
+		"children": [
+			{
+				"key": "Tacna",
+				"children": [
+					{
+						"key": "Tacna",
+						"children": []
+					},
+					{
+						"key": "Alto de La Alianza",
+						"children": []
+					},
+					{
+						"key": "Calana",
+						"children": []
+					},
+					{
+						"key": "Ciudad Nueva",
+						"children": []
+					},
+					{
+						"key": "Inclán",
+						"children": []
+					},
+					{
+						"key": "Pachia",
+						"children": []
+					},
+					{
+						"key": "Palca",
+						"children": []
+					},
+					{
+						"key": "Pocollay",
+						"children": []
+					},
+					{
+						"key": "Sama",
+						"children": []
+					},
+					{
+						"key": "Coronel Gregorio Albarracin Lanchipa",
+						"children": []
+					},
+					{
+						"key": "La Yarada los Palos",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Candarave",
+				"children": [
+					{
+						"key": "Candarave",
+						"children": []
+					},
+					{
+						"key": "Cairani",
+						"children": []
+					},
+					{
+						"key": "Camilaca",
+						"children": []
+					},
+					{
+						"key": "Curibaya",
+						"children": []
+					},
+					{
+						"key": "Huanuara",
+						"children": []
+					},
+					{
+						"key": "Quilahuani",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Jorge Basadre",
+				"children": [
+					{
+						"key": "Locumba",
+						"children": []
+					},
+					{
+						"key": "Ilabaya",
+						"children": []
+					},
+					{
+						"key": "Ite",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Tarata",
+				"children": [
+					{
+						"key": "Tarata",
+						"children": []
+					},
+					{
+						"key": "Héroes Albarracín",
+						"children": []
+					},
+					{
+						"key": "Estique",
+						"children": []
+					},
+					{
+						"key": "Estique-Pampa",
+						"children": []
+					},
+					{
+						"key": "Sitajara",
+						"children": []
+					},
+					{
+						"key": "Susapaya",
+						"children": []
+					},
+					{
+						"key": "Tarucachi",
+						"children": []
+					},
+					{
+						"key": "Ticaco",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Huancavelica",
+		"children": [
+			{
+				"key": "Huancavelica",
+				"children": [
+					{
+						"key": "Huancavelica",
+						"children": []
+					},
+					{
+						"key": "Acobambilla",
+						"children": []
+					},
+					{
+						"key": "Acoria",
+						"children": []
+					},
+					{
+						"key": "Conayca",
+						"children": []
+					},
+					{
+						"key": "Cuenca",
+						"children": []
+					},
+					{
+						"key": "Huachocolpa",
+						"children": []
+					},
+					{
+						"key": "Huayllahuara",
+						"children": []
+					},
+					{
+						"key": "Izcuchaca",
+						"children": []
+					},
+					{
+						"key": "Laria",
+						"children": []
+					},
+					{
+						"key": "Manta",
+						"children": []
+					},
+					{
+						"key": "Mariscal Cáceres",
+						"children": []
+					},
+					{
+						"key": "Moya",
+						"children": []
+					},
+					{
+						"key": "Nuevo Occoro",
+						"children": []
+					},
+					{
+						"key": "Palca",
+						"children": []
+					},
+					{
+						"key": "Pilchaca",
+						"children": []
+					},
+					{
+						"key": "Vilca",
+						"children": []
+					},
+					{
+						"key": "Yauli",
+						"children": []
+					},
+					{
+						"key": "Ascensión",
+						"children": []
+					},
+					{
+						"key": "Huando",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Acobamba",
+				"children": [
+					{
+						"key": "Acobamba",
+						"children": []
+					},
+					{
+						"key": "Andabamba",
+						"children": []
+					},
+					{
+						"key": "Anta",
+						"children": []
+					},
+					{
+						"key": "Caja",
+						"children": []
+					},
+					{
+						"key": "Marcas",
+						"children": []
+					},
+					{
+						"key": "Paucara",
+						"children": []
+					},
+					{
+						"key": "Pomacocha",
+						"children": []
+					},
+					{
+						"key": "Rosario",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Angaraes",
+				"children": [
+					{
+						"key": "Lircay",
+						"children": []
+					},
+					{
+						"key": "Anchonga",
+						"children": []
+					},
+					{
+						"key": "Callanmarca",
+						"children": []
+					},
+					{
+						"key": "Ccochaccasa",
+						"children": []
+					},
+					{
+						"key": "Chincho",
+						"children": []
+					},
+					{
+						"key": "Congalla",
+						"children": []
+					},
+					{
+						"key": "Huanca-Huanca",
+						"children": []
+					},
+					{
+						"key": "Huayllay Grande",
+						"children": []
+					},
+					{
+						"key": "Julcamarca",
+						"children": []
+					},
+					{
+						"key": "San Antonio de Antaparco",
+						"children": []
+					},
+					{
+						"key": "Santo Tomás de Pata",
+						"children": []
+					},
+					{
+						"key": "Secclla",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Castrovirreyna",
+				"children": [
+					{
+						"key": "Castrovirreyna",
+						"children": []
+					},
+					{
+						"key": "Arma",
+						"children": []
+					},
+					{
+						"key": "Aurahua",
+						"children": []
+					},
+					{
+						"key": "Capillas",
+						"children": []
+					},
+					{
+						"key": "Chupamarca",
+						"children": []
+					},
+					{
+						"key": "Cocas",
+						"children": []
+					},
+					{
+						"key": "Huachos",
+						"children": []
+					},
+					{
+						"key": "Huamatambo",
+						"children": []
+					},
+					{
+						"key": "Mollepampa",
+						"children": []
+					},
+					{
+						"key": "San Juan",
+						"children": []
+					},
+					{
+						"key": "Santa Ana",
+						"children": []
+					},
+					{
+						"key": "Tantara",
+						"children": []
+					},
+					{
+						"key": "Ticrapo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Churcampa",
+				"children": [
+					{
+						"key": "Churcampa",
+						"children": []
+					},
+					{
+						"key": "Anco",
+						"children": []
+					},
+					{
+						"key": "Chinchihuasi ",
+						"children": []
+					},
+					{
+						"key": "El Carmen",
+						"children": []
+					},
+					{
+						"key": "La Merced",
+						"children": []
+					},
+					{
+						"key": "Locroja",
+						"children": []
+					},
+					{
+						"key": "Paucarbamba",
+						"children": []
+					},
+					{
+						"key": "San Miguel de Mayocc",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Coris",
+						"children": []
+					},
+					{
+						"key": "Pachamarca",
+						"children": []
+					},
+					{
+						"key": "Cosme",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huaytará",
+				"children": [
+					{
+						"key": "Huaytará",
+						"children": []
+					},
+					{
+						"key": "Ayavi",
+						"children": []
+					},
+					{
+						"key": "Córdova",
+						"children": []
+					},
+					{
+						"key": "Huayacundo Arma",
+						"children": []
+					},
+					{
+						"key": "Laramarca",
+						"children": []
+					},
+					{
+						"key": "Ocoyo",
+						"children": []
+					},
+					{
+						"key": "Pilpichaca",
+						"children": []
+					},
+					{
+						"key": "Querco",
+						"children": []
+					},
+					{
+						"key": "Quito-Arma",
+						"children": []
+					},
+					{
+						"key": "San Antonio de Cusicancha",
+						"children": []
+					},
+					{
+						"key": "San Francisco de Sangayaico",
+						"children": []
+					},
+					{
+						"key": "San Isidro",
+						"children": []
+					},
+					{
+						"key": "Santiago de Chocorvos",
+						"children": []
+					},
+					{
+						"key": "Santiago de Quirahuara",
+						"children": []
+					},
+					{
+						"key": "Santo Domingo de Capillas",
+						"children": []
+					},
+					{
+						"key": "Tambo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Tayacaja",
+				"children": [
+					{
+						"key": "Pampas",
+						"children": []
+					},
+					{
+						"key": "Acostambo",
+						"children": []
+					},
+					{
+						"key": "Acraquia",
+						"children": []
+					},
+					{
+						"key": "Ahuaycha",
+						"children": []
+					},
+					{
+						"key": "Colcabamba",
+						"children": []
+					},
+					{
+						"key": "Daniel Hernández",
+						"children": []
+					},
+					{
+						"key": "Huachocolpa",
+						"children": []
+					},
+					{
+						"key": "Huaribamba",
+						"children": []
+					},
+					{
+						"key": "Ñahuimpuquio",
+						"children": []
+					},
+					{
+						"key": "Pazos",
+						"children": []
+					},
+					{
+						"key": "Quishuar",
+						"children": []
+					},
+					{
+						"key": "Salcabamba ",
+						"children": []
+					},
+					{
+						"key": "Salcahuasi",
+						"children": []
+					},
+					{
+						"key": "San Marcos de Rocchac",
+						"children": []
+					},
+					{
+						"key": "Surcubamba",
+						"children": []
+					},
+					{
+						"key": "Tintay Puncu",
+						"children": []
+					},
+					{
+						"key": "Quichuas",
+						"children": []
+					},
+					{
+						"key": "Andaymarca",
+						"children": []
+					},
+					{
+						"key": "Roble",
+						"children": []
+					},
+					{
+						"key": "Pichos",
+						"children": []
+					},
+					{
+						"key": "Santiago de Tucuma",
+						"children": []
+					},
+					{
+						"key": "Lambras 1/",
+						"children": []
+					},
+					{
+						"key": "Cochabamba 1/",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Cajamarca",
+		"children": [
+			{
+				"key": "Cajamarca",
+				"children": [
+					{
+						"key": "Cajamarca",
+						"children": []
+					},
+					{
+						"key": "Asunción",
+						"children": []
+					},
+					{
+						"key": "Chetilla",
+						"children": []
+					},
+					{
+						"key": "Cospán",
+						"children": []
+					},
+					{
+						"key": "Encañada",
+						"children": []
+					},
+					{
+						"key": "Jesús",
+						"children": []
+					},
+					{
+						"key": "Llacanora",
+						"children": []
+					},
+					{
+						"key": "Los Baños del Inca",
+						"children": []
+					},
+					{
+						"key": "Magdalena",
+						"children": []
+					},
+					{
+						"key": "Matara",
+						"children": []
+					},
+					{
+						"key": "Namora",
+						"children": []
+					},
+					{
+						"key": "San Juan",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Cajabamba",
+				"children": [
+					{
+						"key": "Cajabamba",
+						"children": []
+					},
+					{
+						"key": "Cachachi",
+						"children": []
+					},
+					{
+						"key": "Condebamba",
+						"children": []
+					},
+					{
+						"key": "Sitacocha",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Celendín",
+				"children": [
+					{
+						"key": "Celendín",
+						"children": []
+					},
+					{
+						"key": "Chumuch",
+						"children": []
+					},
+					{
+						"key": "Cortegana",
+						"children": []
+					},
+					{
+						"key": "Huasmín",
+						"children": []
+					},
+					{
+						"key": "Jorge Chávez",
+						"children": []
+					},
+					{
+						"key": "José Gálvez",
+						"children": []
+					},
+					{
+						"key": "Miguel Iglesias",
+						"children": []
+					},
+					{
+						"key": "Oxamarca",
+						"children": []
+					},
+					{
+						"key": "Sorochuco",
+						"children": []
+					},
+					{
+						"key": "Sucre",
+						"children": []
+					},
+					{
+						"key": "Utco",
+						"children": []
+					},
+					{
+						"key": "La Libertad de Pallán",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chota",
+				"children": [
+					{
+						"key": "Chota",
+						"children": []
+					},
+					{
+						"key": "Anguia",
+						"children": []
+					},
+					{
+						"key": "Chadin",
+						"children": []
+					},
+					{
+						"key": "Chiguirip",
+						"children": []
+					},
+					{
+						"key": "Chimbán ",
+						"children": []
+					},
+					{
+						"key": "Choropampa",
+						"children": []
+					},
+					{
+						"key": "Cochabamba",
+						"children": []
+					},
+					{
+						"key": "Conchán",
+						"children": []
+					},
+					{
+						"key": "Huambos",
+						"children": []
+					},
+					{
+						"key": "Lajas",
+						"children": []
+					},
+					{
+						"key": "Llama",
+						"children": []
+					},
+					{
+						"key": "Miracosta",
+						"children": []
+					},
+					{
+						"key": "Paccha",
+						"children": []
+					},
+					{
+						"key": "Pion",
+						"children": []
+					},
+					{
+						"key": "Querocoto",
+						"children": []
+					},
+					{
+						"key": "San Juan de Licupis",
+						"children": []
+					},
+					{
+						"key": "Tacabamba",
+						"children": []
+					},
+					{
+						"key": "Tocmoche",
+						"children": []
+					},
+					{
+						"key": "Chalamarca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Contumazá",
+				"children": [
+					{
+						"key": "Contumazá",
+						"children": []
+					},
+					{
+						"key": "Chilete",
+						"children": []
+					},
+					{
+						"key": "Cupisnique",
+						"children": []
+					},
+					{
+						"key": "Guzmango",
+						"children": []
+					},
+					{
+						"key": "San Benito",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz de Toled",
+						"children": []
+					},
+					{
+						"key": "Tantarica",
+						"children": []
+					},
+					{
+						"key": "Yonán",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Cutervo",
+				"children": [
+					{
+						"key": "Cutervo",
+						"children": []
+					},
+					{
+						"key": "Callayuc",
+						"children": []
+					},
+					{
+						"key": "Choros",
+						"children": []
+					},
+					{
+						"key": "Cujillo",
+						"children": []
+					},
+					{
+						"key": "La Ramada",
+						"children": []
+					},
+					{
+						"key": "Pimpingos",
+						"children": []
+					},
+					{
+						"key": "Querocotillo",
+						"children": []
+					},
+					{
+						"key": "San Andrés de Cutervo",
+						"children": []
+					},
+					{
+						"key": "San Juan de Cutervo",
+						"children": []
+					},
+					{
+						"key": "San Luis de Lucma",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz",
+						"children": []
+					},
+					{
+						"key": "Santo Domingo de La Capilla",
+						"children": []
+					},
+					{
+						"key": "Santo Tomás",
+						"children": []
+					},
+					{
+						"key": "Socota",
+						"children": []
+					},
+					{
+						"key": "Toribio Casanova",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Hualgayoc",
+				"children": [
+					{
+						"key": "Bambamarca",
+						"children": []
+					},
+					{
+						"key": "Chugur",
+						"children": []
+					},
+					{
+						"key": "Hualgayoc",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Jaén",
+				"children": [
+					{
+						"key": "Jaén",
+						"children": []
+					},
+					{
+						"key": "Bellavista",
+						"children": []
+					},
+					{
+						"key": "Chontali",
+						"children": []
+					},
+					{
+						"key": "Colasay",
+						"children": []
+					},
+					{
+						"key": "Huabal",
+						"children": []
+					},
+					{
+						"key": "Las Pirias",
+						"children": []
+					},
+					{
+						"key": "Pomahuaca",
+						"children": []
+					},
+					{
+						"key": "Pucará",
+						"children": []
+					},
+					{
+						"key": "Sallique",
+						"children": []
+					},
+					{
+						"key": "San Felipe",
+						"children": []
+					},
+					{
+						"key": "San José del Alto",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Ignacio",
+				"children": [
+					{
+						"key": "San Ignacio",
+						"children": []
+					},
+					{
+						"key": "Chirinos",
+						"children": []
+					},
+					{
+						"key": "Huarango",
+						"children": []
+					},
+					{
+						"key": "La Coipa",
+						"children": []
+					},
+					{
+						"key": "Namballe",
+						"children": []
+					},
+					{
+						"key": "San José de Lourdes",
+						"children": []
+					},
+					{
+						"key": "Tabaconas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Marcos",
+				"children": [
+					{
+						"key": "Pedro Gálvez",
+						"children": []
+					},
+					{
+						"key": "Chancay",
+						"children": []
+					},
+					{
+						"key": "Eduardo Villanueva",
+						"children": []
+					},
+					{
+						"key": "Gregorio Pita",
+						"children": []
+					},
+					{
+						"key": "Ichocán",
+						"children": []
+					},
+					{
+						"key": "José Manuel Quiroz",
+						"children": []
+					},
+					{
+						"key": "José Sabogal",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Miguel",
+				"children": [
+					{
+						"key": "San Miguel",
+						"children": []
+					},
+					{
+						"key": "Bolívar",
+						"children": []
+					},
+					{
+						"key": "Calquis",
+						"children": []
+					},
+					{
+						"key": "Catilluc",
+						"children": []
+					},
+					{
+						"key": "El Prado",
+						"children": []
+					},
+					{
+						"key": "La Florida",
+						"children": []
+					},
+					{
+						"key": "Llapa",
+						"children": []
+					},
+					{
+						"key": "Nanchoc",
+						"children": []
+					},
+					{
+						"key": "Niepos",
+						"children": []
+					},
+					{
+						"key": "San Gregorio",
+						"children": []
+					},
+					{
+						"key": "San Silvestre de Cochán",
+						"children": []
+					},
+					{
+						"key": "Tongod",
+						"children": []
+					},
+					{
+						"key": "Unión Agua Blanca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "San Pablo",
+				"children": [
+					{
+						"key": "San Pablo",
+						"children": []
+					},
+					{
+						"key": "San Bernardino",
+						"children": []
+					},
+					{
+						"key": "San Luis",
+						"children": []
+					},
+					{
+						"key": "Tumbadén",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Santa Cruz",
+				"children": [
+					{
+						"key": "Santa Cruz",
+						"children": []
+					},
+					{
+						"key": "Andabamba",
+						"children": []
+					},
+					{
+						"key": "Catache",
+						"children": []
+					},
+					{
+						"key": "Chancaybaños",
+						"children": []
+					},
+					{
+						"key": "La Esperanza",
+						"children": []
+					},
+					{
+						"key": "Ninabamba 3/",
+						"children": []
+					},
+					{
+						"key": "Pulán",
+						"children": []
+					},
+					{
+						"key": "Saucepampa",
+						"children": []
+					},
+					{
+						"key": "Sexi",
+						"children": []
+					},
+					{
+						"key": "Uticyacu",
+						"children": []
+					},
+					{
+						"key": "Yauyucán",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Ica",
+		"children": [
+			{
+				"key": "Ica",
+				"children": [
+					{
+						"key": "Ica",
+						"children": []
+					},
+					{
+						"key": "La Tinguiña",
+						"children": []
+					},
+					{
+						"key": "Los Aquijes",
+						"children": []
+					},
+					{
+						"key": "Ocucaje",
+						"children": []
+					},
+					{
+						"key": "Pachacútec",
+						"children": []
+					},
+					{
+						"key": "Parcona",
+						"children": []
+					},
+					{
+						"key": "Pueblo Nuevo",
+						"children": []
+					},
+					{
+						"key": "Salas",
+						"children": []
+					},
+					{
+						"key": "San José de Los Molinos",
+						"children": []
+					},
+					{
+						"key": "San Juan Bautista",
+						"children": []
+					},
+					{
+						"key": "Santiago",
+						"children": []
+					},
+					{
+						"key": "Subtanjalla",
+						"children": []
+					},
+					{
+						"key": "Tate",
+						"children": []
+					},
+					{
+						"key": "Yauca Del Rosario",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chincha",
+				"children": [
+					{
+						"key": "Chincha Alta",
+						"children": []
+					},
+					{
+						"key": "Alto Laran",
+						"children": []
+					},
+					{
+						"key": "Chavín",
+						"children": []
+					},
+					{
+						"key": "Chincha Baja",
+						"children": []
+					},
+					{
+						"key": "El Carmen",
+						"children": []
+					},
+					{
+						"key": "Grocio Prado",
+						"children": []
+					},
+					{
+						"key": "Pueblo Nuevo",
+						"children": []
+					},
+					{
+						"key": "San Juan de Yánac",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Huacarpana",
+						"children": []
+					},
+					{
+						"key": "Sunampe",
+						"children": []
+					},
+					{
+						"key": "Tambo de Mora",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Nasca",
+				"children": [
+					{
+						"key": "Nasca",
+						"children": []
+					},
+					{
+						"key": "Changuillo",
+						"children": []
+					},
+					{
+						"key": "El Ingenio",
+						"children": []
+					},
+					{
+						"key": "Marcona",
+						"children": []
+					},
+					{
+						"key": "Vista Alegre",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Palpa",
+				"children": [
+					{
+						"key": "Palpa",
+						"children": []
+					},
+					{
+						"key": "Llipata",
+						"children": []
+					},
+					{
+						"key": "Río Grande",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz",
+						"children": []
+					},
+					{
+						"key": "Tibillo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Pisco",
+				"children": [
+					{
+						"key": "Pisco",
+						"children": []
+					},
+					{
+						"key": "Huancano",
+						"children": []
+					},
+					{
+						"key": "Humay",
+						"children": []
+					},
+					{
+						"key": "Independencia",
+						"children": []
+					},
+					{
+						"key": "Paracas",
+						"children": []
+					},
+					{
+						"key": "San Andrés",
+						"children": []
+					},
+					{
+						"key": "San Clemente",
+						"children": []
+					},
+					{
+						"key": "Túpac Amaru Inca",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Cusco",
+		"children": [
+			{
+				"key": "Cusco",
+				"children": [
+					{
+						"key": "Cusco",
+						"children": []
+					},
+					{
+						"key": "Ccorca",
+						"children": []
+					},
+					{
+						"key": "Poroy",
+						"children": []
+					},
+					{
+						"key": "San Jerónimo",
+						"children": []
+					},
+					{
+						"key": "San Sebastián",
+						"children": []
+					},
+					{
+						"key": "Santiago",
+						"children": []
+					},
+					{
+						"key": "Saylla",
+						"children": []
+					},
+					{
+						"key": "Wanchaq",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Acomayo",
+				"children": [
+					{
+						"key": "Acomayo",
+						"children": []
+					},
+					{
+						"key": "Acopia",
+						"children": []
+					},
+					{
+						"key": "Acos",
+						"children": []
+					},
+					{
+						"key": "Mosoc Llacta",
+						"children": []
+					},
+					{
+						"key": "Pomacanchi",
+						"children": []
+					},
+					{
+						"key": "Rondocán",
+						"children": []
+					},
+					{
+						"key": "Sangarara",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Anta",
+				"children": [
+					{
+						"key": "Anta",
+						"children": []
+					},
+					{
+						"key": "Ancahuasi",
+						"children": []
+					},
+					{
+						"key": "Cachimayo",
+						"children": []
+					},
+					{
+						"key": "Chinchaypujio",
+						"children": []
+					},
+					{
+						"key": "Huarocondo",
+						"children": []
+					},
+					{
+						"key": "Limatambo",
+						"children": []
+					},
+					{
+						"key": "Mollepata",
+						"children": []
+					},
+					{
+						"key": "Pucyura",
+						"children": []
+					},
+					{
+						"key": "Zurite",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Calca",
+				"children": [
+					{
+						"key": "Calca",
+						"children": []
+					},
+					{
+						"key": "Coya",
+						"children": []
+					},
+					{
+						"key": "Lamay",
+						"children": []
+					},
+					{
+						"key": "Lares",
+						"children": []
+					},
+					{
+						"key": "Pisac",
+						"children": []
+					},
+					{
+						"key": "San Salvador",
+						"children": []
+					},
+					{
+						"key": "Taray",
+						"children": []
+					},
+					{
+						"key": "Yanatile",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Canas",
+				"children": [
+					{
+						"key": "Yanaoca",
+						"children": []
+					},
+					{
+						"key": "Checca",
+						"children": []
+					},
+					{
+						"key": "Kunturkanki",
+						"children": []
+					},
+					{
+						"key": "Langui",
+						"children": []
+					},
+					{
+						"key": "Layo",
+						"children": []
+					},
+					{
+						"key": "Pampamarca",
+						"children": []
+					},
+					{
+						"key": "Quehue",
+						"children": []
+					},
+					{
+						"key": "Túpac Amaru",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Canchis",
+				"children": [
+					{
+						"key": "Sicuani",
+						"children": []
+					},
+					{
+						"key": "Checacupe",
+						"children": []
+					},
+					{
+						"key": "Combapata",
+						"children": []
+					},
+					{
+						"key": "Marangani",
+						"children": []
+					},
+					{
+						"key": "Pitumarca",
+						"children": []
+					},
+					{
+						"key": "San Pablo",
+						"children": []
+					},
+					{
+						"key": "San Pedro",
+						"children": []
+					},
+					{
+						"key": "Tinta",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chumbivilcas",
+				"children": [
+					{
+						"key": "Santo Tomás",
+						"children": []
+					},
+					{
+						"key": "Capacmarca",
+						"children": []
+					},
+					{
+						"key": "Chamaca",
+						"children": []
+					},
+					{
+						"key": "Colquemarca",
+						"children": []
+					},
+					{
+						"key": "Livitaca",
+						"children": []
+					},
+					{
+						"key": "Llusco",
+						"children": []
+					},
+					{
+						"key": "Quiñota",
+						"children": []
+					},
+					{
+						"key": "Velille",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Espinar",
+				"children": [
+					{
+						"key": "Espinar",
+						"children": []
+					},
+					{
+						"key": "Condoroma",
+						"children": []
+					},
+					{
+						"key": "Coporaque",
+						"children": []
+					},
+					{
+						"key": "Ocoruro",
+						"children": []
+					},
+					{
+						"key": "Pallpata",
+						"children": []
+					},
+					{
+						"key": "Pichigua",
+						"children": []
+					},
+					{
+						"key": "Suyckutambo",
+						"children": []
+					},
+					{
+						"key": "Alto Pichigua",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "La Convención",
+				"children": [
+					{
+						"key": "Santa Ana",
+						"children": []
+					},
+					{
+						"key": "Echarate",
+						"children": []
+					},
+					{
+						"key": "Huayopata",
+						"children": []
+					},
+					{
+						"key": "Maranura",
+						"children": []
+					},
+					{
+						"key": "Ocobamba",
+						"children": []
+					},
+					{
+						"key": "Quellouno",
+						"children": []
+					},
+					{
+						"key": "Kimbiri",
+						"children": []
+					},
+					{
+						"key": "Santa Teresa",
+						"children": []
+					},
+					{
+						"key": "Vilcabamba",
+						"children": []
+					},
+					{
+						"key": "Pichari",
+						"children": []
+					},
+					{
+						"key": "Inkawasi",
+						"children": []
+					},
+					{
+						"key": "Villa Virgen",
+						"children": []
+					},
+					{
+						"key": "Villa Kintiarina",
+						"children": []
+					},
+					{
+						"key": "Megantoni",
+						"children": []
+					},
+					{
+						"key": "Kumpirushiato 1/",
+						"children": []
+					},
+					{
+						"key": "Cielo Punco 1/",
+						"children": []
+					},
+					{
+						"key": "Manitea 1/",
+						"children": []
+					},
+					{
+						"key": "Unión Ashaninka 1/",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Paruro",
+				"children": [
+					{
+						"key": "Paruro",
+						"children": []
+					},
+					{
+						"key": "Accha",
+						"children": []
+					},
+					{
+						"key": "Ccapi",
+						"children": []
+					},
+					{
+						"key": "Colcha",
+						"children": []
+					},
+					{
+						"key": "Huanoquite",
+						"children": []
+					},
+					{
+						"key": "Omacha",
+						"children": []
+					},
+					{
+						"key": "Paccaritambo",
+						"children": []
+					},
+					{
+						"key": "Pillpinto",
+						"children": []
+					},
+					{
+						"key": "Yaurisque",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Paucartambo",
+				"children": [
+					{
+						"key": "Paucartambo",
+						"children": []
+					},
+					{
+						"key": "Caicay",
+						"children": []
+					},
+					{
+						"key": "Challabamba",
+						"children": []
+					},
+					{
+						"key": "Colquepata",
+						"children": []
+					},
+					{
+						"key": "Huancarani",
+						"children": []
+					},
+					{
+						"key": "Kosñipata",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Quispicanchi",
+				"children": [
+					{
+						"key": "Urcos",
+						"children": []
+					},
+					{
+						"key": "Andahuaylillas",
+						"children": []
+					},
+					{
+						"key": "Camanti",
+						"children": []
+					},
+					{
+						"key": "Ccarhuayo",
+						"children": []
+					},
+					{
+						"key": "Ccatca",
+						"children": []
+					},
+					{
+						"key": "Cusipata",
+						"children": []
+					},
+					{
+						"key": "Huaro",
+						"children": []
+					},
+					{
+						"key": "Lucre",
+						"children": []
+					},
+					{
+						"key": "Marcapata",
+						"children": []
+					},
+					{
+						"key": "Ocongate",
+						"children": []
+					},
+					{
+						"key": "Oropesa",
+						"children": []
+					},
+					{
+						"key": "Quiquijana",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Urubamba",
+				"children": [
+					{
+						"key": "Urubamba",
+						"children": []
+					},
+					{
+						"key": "Chinchero",
+						"children": []
+					},
+					{
+						"key": "Huayllabamba",
+						"children": []
+					},
+					{
+						"key": "Machupicchu",
+						"children": []
+					},
+					{
+						"key": "Maras",
+						"children": []
+					},
+					{
+						"key": "Ollantaytambo",
+						"children": []
+					},
+					{
+						"key": "Yucay",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "San MartÍn",
+		"children": [
+			{
+				"key": "Tocache",
+				"children": [
+					{
+						"key": "Santa Lucia 1/",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Apurímac",
+		"children": [
+			{
+				"key": "Abancay",
+				"children": [
+					{
+						"key": "Abancay",
+						"children": []
+					},
+					{
+						"key": "Chacoche",
+						"children": []
+					},
+					{
+						"key": "Circa",
+						"children": []
+					},
+					{
+						"key": "Curahuasi",
+						"children": []
+					},
+					{
+						"key": "Huanipaca",
+						"children": []
+					},
+					{
+						"key": "Lambrama",
+						"children": []
+					},
+					{
+						"key": "Pichirhua",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Cachora",
+						"children": []
+					},
+					{
+						"key": "Tamburco",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Andahuaylas",
+				"children": [
+					{
+						"key": "Andahuaylas",
+						"children": []
+					},
+					{
+						"key": "Andarapa",
+						"children": []
+					},
+					{
+						"key": "Chiara",
+						"children": []
+					},
+					{
+						"key": "Huancarama",
+						"children": []
+					},
+					{
+						"key": "Huancaray",
+						"children": []
+					},
+					{
+						"key": "Huayana",
+						"children": []
+					},
+					{
+						"key": "Kishuara",
+						"children": []
+					},
+					{
+						"key": "Pacobamba",
+						"children": []
+					},
+					{
+						"key": "Pacucha",
+						"children": []
+					},
+					{
+						"key": "Pampachiri",
+						"children": []
+					},
+					{
+						"key": "Pomacocha",
+						"children": []
+					},
+					{
+						"key": "San Antonio de Cachi",
+						"children": []
+					},
+					{
+						"key": "San Jerónimo",
+						"children": []
+					},
+					{
+						"key": "San Miguel de Chaccrampa",
+						"children": []
+					},
+					{
+						"key": "Santa María de Chicmo",
+						"children": []
+					},
+					{
+						"key": "Talavera",
+						"children": []
+					},
+					{
+						"key": "Tumay Huaraca",
+						"children": []
+					},
+					{
+						"key": "Turpo",
+						"children": []
+					},
+					{
+						"key": "Kaquiabamba",
+						"children": []
+					},
+					{
+						"key": "José María Arguedas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Antabamba",
+				"children": [
+					{
+						"key": "Antabamba",
+						"children": []
+					},
+					{
+						"key": "El Oro",
+						"children": []
+					},
+					{
+						"key": "Huaquirca",
+						"children": []
+					},
+					{
+						"key": "Juan Espinoza Medrano",
+						"children": []
+					},
+					{
+						"key": "Oropesa",
+						"children": []
+					},
+					{
+						"key": "Pachaconas",
+						"children": []
+					},
+					{
+						"key": "Sabaino",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Aymaraes",
+				"children": [
+					{
+						"key": "Chalhuanca",
+						"children": []
+					},
+					{
+						"key": "Capaya",
+						"children": []
+					},
+					{
+						"key": "Caraybamba",
+						"children": []
+					},
+					{
+						"key": "Chapimarca",
+						"children": []
+					},
+					{
+						"key": "Colcabamba",
+						"children": []
+					},
+					{
+						"key": "Cotaruse",
+						"children": []
+					},
+					{
+						"key": "Ihuayllo",
+						"children": []
+					},
+					{
+						"key": "Justo Apu Sahuaraura",
+						"children": []
+					},
+					{
+						"key": "Lucre",
+						"children": []
+					},
+					{
+						"key": "Pocohuanca",
+						"children": []
+					},
+					{
+						"key": "San Juan de Chacña",
+						"children": []
+					},
+					{
+						"key": "Sañayca",
+						"children": []
+					},
+					{
+						"key": "Soraya",
+						"children": []
+					},
+					{
+						"key": "Tapairihua",
+						"children": []
+					},
+					{
+						"key": "Tintay",
+						"children": []
+					},
+					{
+						"key": "Toraya",
+						"children": []
+					},
+					{
+						"key": "Yanaca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Cotabambas",
+				"children": [
+					{
+						"key": "Tambobamba",
+						"children": []
+					},
+					{
+						"key": "Cotabambas",
+						"children": []
+					},
+					{
+						"key": "Coyllurqui",
+						"children": []
+					},
+					{
+						"key": "Haquira",
+						"children": []
+					},
+					{
+						"key": "Mara",
+						"children": []
+					},
+					{
+						"key": "Challhuahuacho",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chincheros",
+				"children": [
+					{
+						"key": "Chincheros",
+						"children": []
+					},
+					{
+						"key": "Anco-Huallo",
+						"children": []
+					},
+					{
+						"key": "Cocharcas",
+						"children": []
+					},
+					{
+						"key": "Huaccana",
+						"children": []
+					},
+					{
+						"key": "Ocobamba",
+						"children": []
+					},
+					{
+						"key": "Ongoy",
+						"children": []
+					},
+					{
+						"key": "Uranmarca",
+						"children": []
+					},
+					{
+						"key": "Ranracancha",
+						"children": []
+					},
+					{
+						"key": "Rocchacc",
+						"children": []
+					},
+					{
+						"key": "El Porvenir",
+						"children": []
+					},
+					{
+						"key": "Los Chankas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Grau",
+				"children": [
+					{
+						"key": "Chuquibambilla",
+						"children": []
+					},
+					{
+						"key": "Curpahuasi",
+						"children": []
+					},
+					{
+						"key": "Gamarra",
+						"children": []
+					},
+					{
+						"key": "Huayllati",
+						"children": []
+					},
+					{
+						"key": "Mamara",
+						"children": []
+					},
+					{
+						"key": "Micaela Bastidas",
+						"children": []
+					},
+					{
+						"key": "Pataypampa",
+						"children": []
+					},
+					{
+						"key": "Progreso",
+						"children": []
+					},
+					{
+						"key": "San Antonio",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Turpay",
+						"children": []
+					},
+					{
+						"key": "Vilcabamba",
+						"children": []
+					},
+					{
+						"key": "Virundo",
+						"children": []
+					},
+					{
+						"key": "Curasco",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Callao",
+		"children": [
+			{
+				"key": "Callao",
+				"children": [
+					{
+						"key": "Callao",
+						"children": []
+					},
+					{
+						"key": "Bellavista",
+						"children": []
+					},
+					{
+						"key": "Carmen de La Legua Reynoso",
+						"children": []
+					},
+					{
+						"key": "La Perla",
+						"children": []
+					},
+					{
+						"key": "La Punta",
+						"children": []
+					},
+					{
+						"key": "Ventanilla",
+						"children": []
+					},
+					{
+						"key": "Mi Perú",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Piura",
+		"children": [
+			{
+				"key": "Piura",
+				"children": [
+					{
+						"key": "Piura",
+						"children": []
+					},
+					{
+						"key": "Castilla",
+						"children": []
+					},
+					{
+						"key": "Catacaos",
+						"children": []
+					},
+					{
+						"key": "Cura Mori",
+						"children": []
+					},
+					{
+						"key": "El Tallán",
+						"children": []
+					},
+					{
+						"key": "La Arena",
+						"children": []
+					},
+					{
+						"key": "La Unión",
+						"children": []
+					},
+					{
+						"key": "Las Lomas",
+						"children": []
+					},
+					{
+						"key": "Tambo Grande",
+						"children": []
+					},
+					{
+						"key": "Veintiséis de Octubre",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ayabaca",
+				"children": [
+					{
+						"key": "Ayabaca",
+						"children": []
+					},
+					{
+						"key": "Frías",
+						"children": []
+					},
+					{
+						"key": "Jilili",
+						"children": []
+					},
+					{
+						"key": "Lagunas",
+						"children": []
+					},
+					{
+						"key": "Montero",
+						"children": []
+					},
+					{
+						"key": "Pacaipampa",
+						"children": []
+					},
+					{
+						"key": "Paimas",
+						"children": []
+					},
+					{
+						"key": "Sapillica",
+						"children": []
+					},
+					{
+						"key": "Sicchez",
+						"children": []
+					},
+					{
+						"key": "Suyo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huancabamba",
+				"children": [
+					{
+						"key": "Huancabamba",
+						"children": []
+					},
+					{
+						"key": "Canchaque",
+						"children": []
+					},
+					{
+						"key": "El Carmen de La Frontera",
+						"children": []
+					},
+					{
+						"key": "Huarmaca",
+						"children": []
+					},
+					{
+						"key": "Lalaquiz",
+						"children": []
+					},
+					{
+						"key": "San Miguel de El Faique",
+						"children": []
+					},
+					{
+						"key": "Sondor",
+						"children": []
+					},
+					{
+						"key": "Sondorillo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Morropón",
+				"children": [
+					{
+						"key": "Chulucanas",
+						"children": []
+					},
+					{
+						"key": "Buenos Aires",
+						"children": []
+					},
+					{
+						"key": "Chalaco",
+						"children": []
+					},
+					{
+						"key": "La Matanza",
+						"children": []
+					},
+					{
+						"key": "Morropón",
+						"children": []
+					},
+					{
+						"key": "Salitral",
+						"children": []
+					},
+					{
+						"key": "San Juan de Bigote",
+						"children": []
+					},
+					{
+						"key": "Santa Catalina de Mossa",
+						"children": []
+					},
+					{
+						"key": "Santo Domingo",
+						"children": []
+					},
+					{
+						"key": "Yamango",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Paita",
+				"children": [
+					{
+						"key": "Paita",
+						"children": []
+					},
+					{
+						"key": "Amotape",
+						"children": []
+					},
+					{
+						"key": "Arenal",
+						"children": []
+					},
+					{
+						"key": "Colan",
+						"children": []
+					},
+					{
+						"key": "La Huaca",
+						"children": []
+					},
+					{
+						"key": "Tamarindo",
+						"children": []
+					},
+					{
+						"key": "Vichayal",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Sullana",
+				"children": [
+					{
+						"key": "Sullana",
+						"children": []
+					},
+					{
+						"key": "Bellavista",
+						"children": []
+					},
+					{
+						"key": "Ignacio Escudero",
+						"children": []
+					},
+					{
+						"key": "Lancones",
+						"children": []
+					},
+					{
+						"key": "Marcavelica",
+						"children": []
+					},
+					{
+						"key": "Miguel Checa",
+						"children": []
+					},
+					{
+						"key": "Querecotillo",
+						"children": []
+					},
+					{
+						"key": "Salitral",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Talara",
+				"children": [
+					{
+						"key": "Pariñas",
+						"children": []
+					},
+					{
+						"key": "El Alto",
+						"children": []
+					},
+					{
+						"key": "La Brea",
+						"children": []
+					},
+					{
+						"key": "Lobitos",
+						"children": []
+					},
+					{
+						"key": "Los Órganos",
+						"children": []
+					},
+					{
+						"key": "Máncora",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Sechura",
+				"children": [
+					{
+						"key": "Sechura",
+						"children": []
+					},
+					{
+						"key": "Bellavista de La Unión",
+						"children": []
+					},
+					{
+						"key": "Bernal",
+						"children": []
+					},
+					{
+						"key": "Cristo Nos Valga",
+						"children": []
+					},
+					{
+						"key": "Vice",
+						"children": []
+					},
+					{
+						"key": "Rinconada Llicuar",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Amazonas",
+		"children": [
+			{
+				"key": "Chachapoyas",
+				"children": [
+					{
+						"key": "Chachapoyas",
+						"children": []
+					},
+					{
+						"key": "Asunción",
+						"children": []
+					},
+					{
+						"key": "Balsas",
+						"children": []
+					},
+					{
+						"key": "Cheto",
+						"children": []
+					},
+					{
+						"key": "Chiliquín",
+						"children": []
+					},
+					{
+						"key": "Chuquibamba",
+						"children": []
+					},
+					{
+						"key": "Granada",
+						"children": []
+					},
+					{
+						"key": "Huancas",
+						"children": []
+					},
+					{
+						"key": "La Jalca",
+						"children": []
+					},
+					{
+						"key": "Leimebamba",
+						"children": []
+					},
+					{
+						"key": "Levanto",
+						"children": []
+					},
+					{
+						"key": "Magdalena",
+						"children": []
+					},
+					{
+						"key": "Mariscal Castilla",
+						"children": []
+					},
+					{
+						"key": "Molinopampa",
+						"children": []
+					},
+					{
+						"key": "Montevideo",
+						"children": []
+					},
+					{
+						"key": "Olleros",
+						"children": []
+					},
+					{
+						"key": "Quinjalca",
+						"children": []
+					},
+					{
+						"key": "San Francisco de Daguas",
+						"children": []
+					},
+					{
+						"key": "San Isidro de Maino",
+						"children": []
+					},
+					{
+						"key": "Soloco",
+						"children": []
+					},
+					{
+						"key": "Sonche",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Bagua",
+				"children": [
+					{
+						"key": "Bagua",
+						"children": []
+					},
+					{
+						"key": "Aramango",
+						"children": []
+					},
+					{
+						"key": "Copallín",
+						"children": []
+					},
+					{
+						"key": "El Parco",
+						"children": []
+					},
+					{
+						"key": "Imaza",
+						"children": []
+					},
+					{
+						"key": "La Peca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Bongará",
+				"children": [
+					{
+						"key": "Jumbilla",
+						"children": []
+					},
+					{
+						"key": "Chisquilla",
+						"children": []
+					},
+					{
+						"key": "Churuja",
+						"children": []
+					},
+					{
+						"key": "Corosha",
+						"children": []
+					},
+					{
+						"key": "Cuispes",
+						"children": []
+					},
+					{
+						"key": "Florida",
+						"children": []
+					},
+					{
+						"key": "Jazán",
+						"children": []
+					},
+					{
+						"key": "Recta ",
+						"children": []
+					},
+					{
+						"key": "San Carlos",
+						"children": []
+					},
+					{
+						"key": "Shipasbamba",
+						"children": []
+					},
+					{
+						"key": "Valera",
+						"children": []
+					},
+					{
+						"key": "Yambrasbamba",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Condorcanqui",
+				"children": [
+					{
+						"key": "Nieva",
+						"children": []
+					},
+					{
+						"key": "El Cenepa",
+						"children": []
+					},
+					{
+						"key": "Río Santiago",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Luya",
+				"children": [
+					{
+						"key": "Lámud",
+						"children": []
+					},
+					{
+						"key": "Camporredondo",
+						"children": []
+					},
+					{
+						"key": "Cocabamba",
+						"children": []
+					},
+					{
+						"key": "Colcamar",
+						"children": []
+					},
+					{
+						"key": "Conila",
+						"children": []
+					},
+					{
+						"key": "Inguilpata",
+						"children": []
+					},
+					{
+						"key": "Longuita",
+						"children": []
+					},
+					{
+						"key": "Lonya Chico",
+						"children": []
+					},
+					{
+						"key": "Luya",
+						"children": []
+					},
+					{
+						"key": "Luya Viejo",
+						"children": []
+					},
+					{
+						"key": "María",
+						"children": []
+					},
+					{
+						"key": "Ocalli",
+						"children": []
+					},
+					{
+						"key": "Ocumal",
+						"children": []
+					},
+					{
+						"key": "Pisuquia",
+						"children": []
+					},
+					{
+						"key": "Providencia",
+						"children": []
+					},
+					{
+						"key": "San Cristóbal",
+						"children": []
+					},
+					{
+						"key": "San Francisco del Yeso",
+						"children": []
+					},
+					{
+						"key": "San Jerónimo",
+						"children": []
+					},
+					{
+						"key": "San Juan de Lopecancha",
+						"children": []
+					},
+					{
+						"key": "Santa Catalina",
+						"children": []
+					},
+					{
+						"key": "Santo Tomás",
+						"children": []
+					},
+					{
+						"key": "Tingo",
+						"children": []
+					},
+					{
+						"key": "Trita",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Rodríguez de Mendoza",
+				"children": [
+					{
+						"key": "San Nicolás",
+						"children": []
+					},
+					{
+						"key": "Chirimoto",
+						"children": []
+					},
+					{
+						"key": "Cochamal",
+						"children": []
+					},
+					{
+						"key": "Huambo",
+						"children": []
+					},
+					{
+						"key": "Limabamba",
+						"children": []
+					},
+					{
+						"key": "Longar",
+						"children": []
+					},
+					{
+						"key": "Mariscal Benavides",
+						"children": []
+					},
+					{
+						"key": "Milpuc",
+						"children": []
+					},
+					{
+						"key": "Omia",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa",
+						"children": []
+					},
+					{
+						"key": "Totora",
+						"children": []
+					},
+					{
+						"key": "Vista Alegre",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Utcubamba",
+				"children": [
+					{
+						"key": "Bagua Grande",
+						"children": []
+					},
+					{
+						"key": "Cajaruro",
+						"children": []
+					},
+					{
+						"key": "Cumba",
+						"children": []
+					},
+					{
+						"key": "El Milagro",
+						"children": []
+					},
+					{
+						"key": "Jamalca",
+						"children": []
+					},
+					{
+						"key": "Lonya Grande",
+						"children": []
+					},
+					{
+						"key": "Yamón",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Huánuco",
+		"children": [
+			{
+				"key": "Huánuco",
+				"children": [
+					{
+						"key": "Huánuco",
+						"children": []
+					},
+					{
+						"key": "Amarilis",
+						"children": []
+					},
+					{
+						"key": "Chinchao",
+						"children": []
+					},
+					{
+						"key": "Churubamba",
+						"children": []
+					},
+					{
+						"key": "Margos",
+						"children": []
+					},
+					{
+						"key": "Quisqui",
+						"children": []
+					},
+					{
+						"key": "San Francisco de Cayrán",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Chaulan",
+						"children": []
+					},
+					{
+						"key": "Santa María del Valle",
+						"children": []
+					},
+					{
+						"key": "Yarumayo",
+						"children": []
+					},
+					{
+						"key": "Pillco Marca",
+						"children": []
+					},
+					{
+						"key": "Yacus",
+						"children": []
+					},
+					{
+						"key": "San Pablo de Pillao",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ambo",
+				"children": [
+					{
+						"key": "Ambo",
+						"children": []
+					},
+					{
+						"key": "Cayna",
+						"children": []
+					},
+					{
+						"key": "Colpas",
+						"children": []
+					},
+					{
+						"key": "Conchamarca",
+						"children": []
+					},
+					{
+						"key": "Huacar",
+						"children": []
+					},
+					{
+						"key": "San Francisco",
+						"children": []
+					},
+					{
+						"key": "San Rafael",
+						"children": []
+					},
+					{
+						"key": "Tomay Kichwa",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Dos de Mayo",
+				"children": [
+					{
+						"key": "La Unión",
+						"children": []
+					},
+					{
+						"key": "Chuquis",
+						"children": []
+					},
+					{
+						"key": "Marías",
+						"children": []
+					},
+					{
+						"key": "Pachas",
+						"children": []
+					},
+					{
+						"key": "Quivilla",
+						"children": []
+					},
+					{
+						"key": "Ripan",
+						"children": []
+					},
+					{
+						"key": "Shunqui",
+						"children": []
+					},
+					{
+						"key": "Sillapata",
+						"children": []
+					},
+					{
+						"key": "Yanas",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huacaybamba",
+				"children": [
+					{
+						"key": "Huacaybamba",
+						"children": []
+					},
+					{
+						"key": "Canchabamba",
+						"children": []
+					},
+					{
+						"key": "Cochabamba",
+						"children": []
+					},
+					{
+						"key": "Pinra",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Huamalíes",
+				"children": [
+					{
+						"key": "Llata",
+						"children": []
+					},
+					{
+						"key": "Arancay",
+						"children": []
+					},
+					{
+						"key": "Chavín de Pariarca",
+						"children": []
+					},
+					{
+						"key": "Jacas Grande",
+						"children": []
+					},
+					{
+						"key": "Jircan",
+						"children": []
+					},
+					{
+						"key": "Miraflores",
+						"children": []
+					},
+					{
+						"key": "Monzón",
+						"children": []
+					},
+					{
+						"key": "Punchao",
+						"children": []
+					},
+					{
+						"key": "Puños",
+						"children": []
+					},
+					{
+						"key": "Singa",
+						"children": []
+					},
+					{
+						"key": "Tantamayo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Leoncio Prado",
+				"children": [
+					{
+						"key": "Rupa-Rupa",
+						"children": []
+					},
+					{
+						"key": "Daniel Alomia Robles",
+						"children": []
+					},
+					{
+						"key": "Hermilio Valdizán",
+						"children": []
+					},
+					{
+						"key": "José Crespo y Castillo",
+						"children": []
+					},
+					{
+						"key": "Luyando",
+						"children": []
+					},
+					{
+						"key": "Mariano Damaso Beraún",
+						"children": []
+					},
+					{
+						"key": "Pucayacu",
+						"children": []
+					},
+					{
+						"key": "Castillo Grande",
+						"children": []
+					},
+					{
+						"key": "Pueblo Nuevo",
+						"children": []
+					},
+					{
+						"key": "Santo Domingo de Anda",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Marañon",
+				"children": [
+					{
+						"key": "Huacrachuco",
+						"children": []
+					},
+					{
+						"key": "Cholón",
+						"children": []
+					},
+					{
+						"key": "San Buenaventura",
+						"children": []
+					},
+					{
+						"key": "La Morada",
+						"children": []
+					},
+					{
+						"key": "Santa Rosa de Alto Yanajanca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Pachitea",
+				"children": [
+					{
+						"key": "Panao",
+						"children": []
+					},
+					{
+						"key": "Chaglla",
+						"children": []
+					},
+					{
+						"key": "Molino",
+						"children": []
+					},
+					{
+						"key": "Umari",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Puerto Inca",
+				"children": [
+					{
+						"key": "Puerto Inca",
+						"children": []
+					},
+					{
+						"key": "Codo del Pozuzo",
+						"children": []
+					},
+					{
+						"key": "Honoria",
+						"children": []
+					},
+					{
+						"key": "Tournavista",
+						"children": []
+					},
+					{
+						"key": "Yuyapichis",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Lauricocha",
+				"children": [
+					{
+						"key": "Jesús",
+						"children": []
+					},
+					{
+						"key": "Baños",
+						"children": []
+					},
+					{
+						"key": "Jivia",
+						"children": []
+					},
+					{
+						"key": "Queropalca",
+						"children": []
+					},
+					{
+						"key": "Rondos",
+						"children": []
+					},
+					{
+						"key": "San Francisco de Asis",
+						"children": []
+					},
+					{
+						"key": "San Miguel de Cauri",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Yarowilca",
+				"children": [
+					{
+						"key": "Chavinillo",
+						"children": []
+					},
+					{
+						"key": "Cahuac",
+						"children": []
+					},
+					{
+						"key": "Chacabamba",
+						"children": []
+					},
+					{
+						"key": "Aparicio Pomares ",
+						"children": []
+					},
+					{
+						"key": "Jacas Chico",
+						"children": []
+					},
+					{
+						"key": "Obas",
+						"children": []
+					},
+					{
+						"key": "Pampamarca",
+						"children": []
+					},
+					{
+						"key": "Choras",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Arequipa",
+		"children": [
+			{
+				"key": "Arequipa",
+				"children": [
+					{
+						"key": "Arequipa",
+						"children": []
+					},
+					{
+						"key": "Alto Selva Alegre",
+						"children": []
+					},
+					{
+						"key": "Cayma",
+						"children": []
+					},
+					{
+						"key": "Cerro Colorado",
+						"children": []
+					},
+					{
+						"key": "Characato",
+						"children": []
+					},
+					{
+						"key": "Chiguata",
+						"children": []
+					},
+					{
+						"key": "Jacobo Hunter",
+						"children": []
+					},
+					{
+						"key": "La Joya",
+						"children": []
+					},
+					{
+						"key": "Mariano Melgar",
+						"children": []
+					},
+					{
+						"key": "Miraflores",
+						"children": []
+					},
+					{
+						"key": "Mollebaya",
+						"children": []
+					},
+					{
+						"key": "Paucarpata",
+						"children": []
+					},
+					{
+						"key": "Pocsi",
+						"children": []
+					},
+					{
+						"key": "Polobaya",
+						"children": []
+					},
+					{
+						"key": "Quequeña",
+						"children": []
+					},
+					{
+						"key": "Sabandia",
+						"children": []
+					},
+					{
+						"key": "Sachaca",
+						"children": []
+					},
+					{
+						"key": "San Juan de Siguas",
+						"children": []
+					},
+					{
+						"key": "San Juan de Tarucani",
+						"children": []
+					},
+					{
+						"key": "Santa Isabel de Siguas",
+						"children": []
+					},
+					{
+						"key": "Santa Rita de Siguas",
+						"children": []
+					},
+					{
+						"key": "Socabaya",
+						"children": []
+					},
+					{
+						"key": "Tiabaya",
+						"children": []
+					},
+					{
+						"key": "Uchumayo",
+						"children": []
+					},
+					{
+						"key": "Vitor",
+						"children": []
+					},
+					{
+						"key": "Yanahuara",
+						"children": []
+					},
+					{
+						"key": "Yarabamba",
+						"children": []
+					},
+					{
+						"key": "Yura",
+						"children": []
+					},
+					{
+						"key": "José Luis Bustamante y Rivero",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Camaná",
+				"children": [
+					{
+						"key": "Camaná",
+						"children": []
+					},
+					{
+						"key": "José María Quimper",
+						"children": []
+					},
+					{
+						"key": "Mariano Nicolás Valcárcel",
+						"children": []
+					},
+					{
+						"key": "Mariscal Cáceres",
+						"children": []
+					},
+					{
+						"key": "Nicolás de Piérola",
+						"children": []
+					},
+					{
+						"key": "Ocoña",
+						"children": []
+					},
+					{
+						"key": "Quilca",
+						"children": []
+					},
+					{
+						"key": "Samuel Pastor",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Caravelí",
+				"children": [
+					{
+						"key": "Caravelí",
+						"children": []
+					},
+					{
+						"key": "Acari",
+						"children": []
+					},
+					{
+						"key": "Atico",
+						"children": []
+					},
+					{
+						"key": "Atiquipa",
+						"children": []
+					},
+					{
+						"key": "Bella Unión",
+						"children": []
+					},
+					{
+						"key": "Cahuacho",
+						"children": []
+					},
+					{
+						"key": "Chala",
+						"children": []
+					},
+					{
+						"key": "Chaparra",
+						"children": []
+					},
+					{
+						"key": "Huanuhuanu",
+						"children": []
+					},
+					{
+						"key": "Jaqui",
+						"children": []
+					},
+					{
+						"key": "Lomas",
+						"children": []
+					},
+					{
+						"key": "Quicacha",
+						"children": []
+					},
+					{
+						"key": "Yauca",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Castilla",
+				"children": [
+					{
+						"key": "Aplao",
+						"children": []
+					},
+					{
+						"key": "Andagua",
+						"children": []
+					},
+					{
+						"key": "Ayo",
+						"children": []
+					},
+					{
+						"key": "Chachas",
+						"children": []
+					},
+					{
+						"key": "Chilcaymarca",
+						"children": []
+					},
+					{
+						"key": "Choco",
+						"children": []
+					},
+					{
+						"key": "Huancarqui",
+						"children": []
+					},
+					{
+						"key": "Machaguay",
+						"children": []
+					},
+					{
+						"key": "Orcopampa",
+						"children": []
+					},
+					{
+						"key": "Pampacolca",
+						"children": []
+					},
+					{
+						"key": "Tipán",
+						"children": []
+					},
+					{
+						"key": "Uñón",
+						"children": []
+					},
+					{
+						"key": "Uraca",
+						"children": []
+					},
+					{
+						"key": "Viraco",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Caylloma",
+				"children": [
+					{
+						"key": "Chivay",
+						"children": []
+					},
+					{
+						"key": "Achoma",
+						"children": []
+					},
+					{
+						"key": "Cabanaconde",
+						"children": []
+					},
+					{
+						"key": "Callalli",
+						"children": []
+					},
+					{
+						"key": "Caylloma",
+						"children": []
+					},
+					{
+						"key": "Coporaque",
+						"children": []
+					},
+					{
+						"key": "Huambo",
+						"children": []
+					},
+					{
+						"key": "Huanca",
+						"children": []
+					},
+					{
+						"key": "Ichupampa",
+						"children": []
+					},
+					{
+						"key": "Lari ",
+						"children": []
+					},
+					{
+						"key": "Lluta",
+						"children": []
+					},
+					{
+						"key": "Maca",
+						"children": []
+					},
+					{
+						"key": "Madrigal",
+						"children": []
+					},
+					{
+						"key": "San Antonio de Chuca",
+						"children": []
+					},
+					{
+						"key": "Sibayo",
+						"children": []
+					},
+					{
+						"key": "Tapay",
+						"children": []
+					},
+					{
+						"key": "Tisco",
+						"children": []
+					},
+					{
+						"key": "Tuti",
+						"children": []
+					},
+					{
+						"key": "Yanque",
+						"children": []
+					},
+					{
+						"key": "Majes",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Condesuyos",
+				"children": [
+					{
+						"key": "Chuquibamba",
+						"children": []
+					},
+					{
+						"key": "Andaray",
+						"children": []
+					},
+					{
+						"key": "Cayarani",
+						"children": []
+					},
+					{
+						"key": "Chichas",
+						"children": []
+					},
+					{
+						"key": "Iray",
+						"children": []
+					},
+					{
+						"key": "Río Grande",
+						"children": []
+					},
+					{
+						"key": "Salamanca",
+						"children": []
+					},
+					{
+						"key": "Yanaquihua",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Islay",
+				"children": [
+					{
+						"key": "Mollendo",
+						"children": []
+					},
+					{
+						"key": "Cocachacra",
+						"children": []
+					},
+					{
+						"key": "Dean Valdivia",
+						"children": []
+					},
+					{
+						"key": "Islay",
+						"children": []
+					},
+					{
+						"key": "Mejía",
+						"children": []
+					},
+					{
+						"key": "Punta de Bombón",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "La Unión",
+				"children": [
+					{
+						"key": "Cotahuasi",
+						"children": []
+					},
+					{
+						"key": "Alca",
+						"children": []
+					},
+					{
+						"key": "Charcana",
+						"children": []
+					},
+					{
+						"key": "Huaynacotas",
+						"children": []
+					},
+					{
+						"key": "Pampamarca",
+						"children": []
+					},
+					{
+						"key": "Puyca",
+						"children": []
+					},
+					{
+						"key": "Quechualla",
+						"children": []
+					},
+					{
+						"key": "Sayla",
+						"children": []
+					},
+					{
+						"key": "Tauria",
+						"children": []
+					},
+					{
+						"key": "Tomepampa",
+						"children": []
+					},
+					{
+						"key": "Toro",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "Pasco",
+		"children": [
+			{
+				"key": "Pasco",
+				"children": [
+					{
+						"key": "Chaupimarca",
+						"children": []
+					},
+					{
+						"key": "Huachón",
+						"children": []
+					},
+					{
+						"key": "Huariaca",
+						"children": []
+					},
+					{
+						"key": "Huayllay",
+						"children": []
+					},
+					{
+						"key": "Ninacaca",
+						"children": []
+					},
+					{
+						"key": "Pallanchacra",
+						"children": []
+					},
+					{
+						"key": "Paucartambo",
+						"children": []
+					},
+					{
+						"key": "San Francisco de Asís de Yarusyacán",
+						"children": []
+					},
+					{
+						"key": "Simón Bolívar",
+						"children": []
+					},
+					{
+						"key": "Ticlacayan",
+						"children": []
+					},
+					{
+						"key": "Tinyahuarco",
+						"children": []
+					},
+					{
+						"key": "Vicco",
+						"children": []
+					},
+					{
+						"key": "Yanacancha",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Daniel Alcides Carrión",
+				"children": [
+					{
+						"key": "Yanahuanca",
+						"children": []
+					},
+					{
+						"key": "Chacayan",
+						"children": []
+					},
+					{
+						"key": "Goyllarisquizga",
+						"children": []
+					},
+					{
+						"key": "Paucar",
+						"children": []
+					},
+					{
+						"key": "San Pedro de Pillao",
+						"children": []
+					},
+					{
+						"key": "Santa Ana de Tusi",
+						"children": []
+					},
+					{
+						"key": "Tapuc",
+						"children": []
+					},
+					{
+						"key": "Vilcabamba",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Oxapampa",
+				"children": [
+					{
+						"key": "Oxapampa",
+						"children": []
+					},
+					{
+						"key": "Chontabamba",
+						"children": []
+					},
+					{
+						"key": "Huancabamba",
+						"children": []
+					},
+					{
+						"key": "Palcazu",
+						"children": []
+					},
+					{
+						"key": "Pozuzo",
+						"children": []
+					},
+					{
+						"key": "Puerto Bermúdez",
+						"children": []
+					},
+					{
+						"key": "Villa Rica",
+						"children": []
+					},
+					{
+						"key": "Constitución",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "ApurÍmac",
+		"children": [
+			{
+				"key": "Chincheros",
+				"children": [
+					{
+						"key": "Ahuayro 1/",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"key": "La Libertad",
+		"children": [
+			{
+				"key": "Trujillo",
+				"children": [
+					{
+						"key": "Trujillo",
+						"children": []
+					},
+					{
+						"key": "El Porvenir",
+						"children": []
+					},
+					{
+						"key": "Florencia de Mora",
+						"children": []
+					},
+					{
+						"key": "Huanchaco",
+						"children": []
+					},
+					{
+						"key": "La Esperanza",
+						"children": []
+					},
+					{
+						"key": "Laredo",
+						"children": []
+					},
+					{
+						"key": "Moche",
+						"children": []
+					},
+					{
+						"key": "Poroto",
+						"children": []
+					},
+					{
+						"key": "Salaverry",
+						"children": []
+					},
+					{
+						"key": "Simbal",
+						"children": []
+					},
+					{
+						"key": "Victor Larco Herrera",
+						"children": []
+					},
+					{
+						"key": "Alto Trujillo 2/",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Ascope",
+				"children": [
+					{
+						"key": "Ascope",
+						"children": []
+					},
+					{
+						"key": "Chicama",
+						"children": []
+					},
+					{
+						"key": "Chocope",
+						"children": []
+					},
+					{
+						"key": "Magdalena de Cao",
+						"children": []
+					},
+					{
+						"key": "Paiján",
+						"children": []
+					},
+					{
+						"key": "Rázuri",
+						"children": []
+					},
+					{
+						"key": "Santiago de Cao",
+						"children": []
+					},
+					{
+						"key": "Casa Grande",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Bolívar",
+				"children": [
+					{
+						"key": "Bolívar",
+						"children": []
+					},
+					{
+						"key": "Bambamarca",
+						"children": []
+					},
+					{
+						"key": "Condormarca",
+						"children": []
+					},
+					{
+						"key": "Longotea",
+						"children": []
+					},
+					{
+						"key": "Uchumarca",
+						"children": []
+					},
+					{
+						"key": "Ucuncha",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Chepén",
+				"children": [
+					{
+						"key": "Chepén",
+						"children": []
+					},
+					{
+						"key": "Pacanga",
+						"children": []
+					},
+					{
+						"key": "Pueblo Nuevo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Julcán",
+				"children": [
+					{
+						"key": "Julcán",
+						"children": []
+					},
+					{
+						"key": "Calamarca",
+						"children": []
+					},
+					{
+						"key": "Carabamba",
+						"children": []
+					},
+					{
+						"key": "Huaso",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Otuzco",
+				"children": [
+					{
+						"key": "Otuzco",
+						"children": []
+					},
+					{
+						"key": "Agallpampa",
+						"children": []
+					},
+					{
+						"key": "Charat",
+						"children": []
+					},
+					{
+						"key": "Huaranchal",
+						"children": []
+					},
+					{
+						"key": "La Cuesta",
+						"children": []
+					},
+					{
+						"key": "Mache",
+						"children": []
+					},
+					{
+						"key": "Paranday",
+						"children": []
+					},
+					{
+						"key": "Salpo",
+						"children": []
+					},
+					{
+						"key": "Sinsicap",
+						"children": []
+					},
+					{
+						"key": "Usquil",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Pacasmayo",
+				"children": [
+					{
+						"key": "San Pedro de Lloc",
+						"children": []
+					},
+					{
+						"key": "Guadalupe",
+						"children": []
+					},
+					{
+						"key": "Jequetepeque",
+						"children": []
+					},
+					{
+						"key": "Pacasmayo",
+						"children": []
+					},
+					{
+						"key": "San José",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Pataz",
+				"children": [
+					{
+						"key": "Tayabamba",
+						"children": []
+					},
+					{
+						"key": "Buldibuyo",
+						"children": []
+					},
+					{
+						"key": "Chillia",
+						"children": []
+					},
+					{
+						"key": "Huancaspata",
+						"children": []
+					},
+					{
+						"key": "Huaylillas",
+						"children": []
+					},
+					{
+						"key": "Huayo",
+						"children": []
+					},
+					{
+						"key": "Ongon",
+						"children": []
+					},
+					{
+						"key": "Parcoy",
+						"children": []
+					},
+					{
+						"key": "Pataz",
+						"children": []
+					},
+					{
+						"key": "Pias",
+						"children": []
+					},
+					{
+						"key": "Santiago de Challas",
+						"children": []
+					},
+					{
+						"key": "Taurija",
+						"children": []
+					},
+					{
+						"key": "Urpay",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Sánchez Carrión",
+				"children": [
+					{
+						"key": "Huamachuco",
+						"children": []
+					},
+					{
+						"key": "Chugay",
+						"children": []
+					},
+					{
+						"key": "Cochorco",
+						"children": []
+					},
+					{
+						"key": "Curgos",
+						"children": []
+					},
+					{
+						"key": "Marcabal",
+						"children": []
+					},
+					{
+						"key": "Sanagoran",
+						"children": []
+					},
+					{
+						"key": "Sarín",
+						"children": []
+					},
+					{
+						"key": "Sartimbamba",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Santiago De Chuco",
+				"children": [
+					{
+						"key": "Santiago De Chuco",
+						"children": []
+					},
+					{
+						"key": "Angasmarca",
+						"children": []
+					},
+					{
+						"key": "Cachicadan",
+						"children": []
+					},
+					{
+						"key": "Mollebamba",
+						"children": []
+					},
+					{
+						"key": "Mollepata",
+						"children": []
+					},
+					{
+						"key": "Quiruvilca",
+						"children": []
+					},
+					{
+						"key": "Santa Cruz de Chuca",
+						"children": []
+					},
+					{
+						"key": "Sitabamba",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Gran Chimú",
+				"children": [
+					{
+						"key": "Cascas",
+						"children": []
+					},
+					{
+						"key": "Lucma",
+						"children": []
+					},
+					{
+						"key": "Marmot",
+						"children": []
+					},
+					{
+						"key": "Sayapullo",
+						"children": []
+					}
+				]
+			},
+			{
+				"key": "Virú",
+				"children": [
+					{
+						"key": "Virú",
+						"children": []
+					},
+					{
+						"key": "Chao",
+						"children": []
+					},
+					{
+						"key": "Guadalupito",
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]
