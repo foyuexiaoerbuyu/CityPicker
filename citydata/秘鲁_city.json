@@ -1,0 +1,6800 @@
+[
+  {
+    "areaName": "Puno",
+    "cities": [
+      {
+        "areaName": "Puno",
+        "counties": [
+          {
+            "areaName": "Puno"
+          },
+          {
+            "areaName": "Acora"
+          },
+          {
+            "areaName": "Amantani"
+          },
+          {
+            "areaName": "Atuncolla"
+          },
+          {
+            "areaName": "Capachica"
+          },
+          {
+            "areaName": "Chucuito"
+          },
+          {
+            "areaName": "Coata"
+          },
+          {
+            "areaName": "Huata"
+          },
+          {
+            "areaName": "Mañazo"
+          },
+          {
+            "areaName": "Paucarcolla"
+          },
+          {
+            "areaName": "Pichacani"
+          },
+          {
+            "areaName": "Platería"
+          },
+          {
+            "areaName": "San Antonio"
+          },
+          {
+            "areaName": "Tiquillaca"
+          },
+          {
+            "areaName": "Vilque"
+          }
+        ]
+      },
+      {
+        "areaName": "Azángaro",
+        "counties": [
+          {
+            "areaName": "Azángaro"
+          },
+          {
+            "areaName": "Achaya"
+          },
+          {
+            "areaName": "Arapa"
+          },
+          {
+            "areaName": "Asillo"
+          },
+          {
+            "areaName": "Caminaca"
+          },
+          {
+            "areaName": "Chupa"
+          },
+          {
+            "areaName": "José Domingo Choquehuanca"
+          },
+          {
+            "areaName": "Muñani"
+          },
+          {
+            "areaName": "Potoni"
+          },
+          {
+            "areaName": "Saman"
+          },
+          {
+            "areaName": "San Antón"
+          },
+          {
+            "areaName": "San José"
+          },
+          {
+            "areaName": "San Juan de Salinas"
+          },
+          {
+            "areaName": "Santiago de Pupuja"
+          },
+          {
+            "areaName": "Tirapata"
+          }
+        ]
+      },
+      {
+        "areaName": "Carabaya",
+        "counties": [
+          {
+            "areaName": "Macusani"
+          },
+          {
+            "areaName": "Ajoyani"
+          },
+          {
+            "areaName": "Ayapata"
+          },
+          {
+            "areaName": "Coasa"
+          },
+          {
+            "areaName": "Corani"
+          },
+          {
+            "areaName": "Crucero"
+          },
+          {
+            "areaName": "Ituata"
+          },
+          {
+            "areaName": "Ollachea"
+          },
+          {
+            "areaName": "San Gabán"
+          },
+          {
+            "areaName": "Usicayos"
+          }
+        ]
+      },
+      {
+        "areaName": "Chucuito",
+        "counties": [
+          {
+            "areaName": "Juli"
+          },
+          {
+            "areaName": "Desaguadero"
+          },
+          {
+            "areaName": "Huacullani"
+          },
+          {
+            "areaName": "Kelluyo"
+          },
+          {
+            "areaName": "Pisacoma"
+          },
+          {
+            "areaName": "Pomata"
+          },
+          {
+            "areaName": "Zepita"
+          }
+        ]
+      },
+      {
+        "areaName": "El Collao",
+        "counties": [
+          {
+            "areaName": "Ilave"
+          },
+          {
+            "areaName": "Capazo"
+          },
+          {
+            "areaName": "Pilcuyo"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Conduriri"
+          }
+        ]
+      },
+      {
+        "areaName": "Huancané",
+        "counties": [
+          {
+            "areaName": "Huancané"
+          },
+          {
+            "areaName": "Cojata"
+          },
+          {
+            "areaName": "Huatasani"
+          },
+          {
+            "areaName": "Inchupalla"
+          },
+          {
+            "areaName": "Pusi"
+          },
+          {
+            "areaName": "Rosaspata"
+          },
+          {
+            "areaName": "Taraco"
+          },
+          {
+            "areaName": "Vilque Chico"
+          }
+        ]
+      },
+      {
+        "areaName": "Lampa",
+        "counties": [
+          {
+            "areaName": "Lampa"
+          },
+          {
+            "areaName": "Cabanilla"
+          },
+          {
+            "areaName": "Calapuja"
+          },
+          {
+            "areaName": "Nicasio"
+          },
+          {
+            "areaName": "Ocuviri"
+          },
+          {
+            "areaName": "Palca"
+          },
+          {
+            "areaName": "Paratia"
+          },
+          {
+            "areaName": "Pucará"
+          },
+          {
+            "areaName": "Santa Lucía"
+          },
+          {
+            "areaName": "Vilavila"
+          }
+        ]
+      },
+      {
+        "areaName": "Melgar",
+        "counties": [
+          {
+            "areaName": "Ayaviri"
+          },
+          {
+            "areaName": "Antauta"
+          },
+          {
+            "areaName": "Cupi"
+          },
+          {
+            "areaName": "Llalli"
+          },
+          {
+            "areaName": "Macari"
+          },
+          {
+            "areaName": "Nuñoa"
+          },
+          {
+            "areaName": "Orurillo"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Umachiri"
+          }
+        ]
+      },
+      {
+        "areaName": "Moho",
+        "counties": [
+          {
+            "areaName": "Moho"
+          },
+          {
+            "areaName": "Conima"
+          },
+          {
+            "areaName": "Huayrapata"
+          },
+          {
+            "areaName": "Tilali"
+          }
+        ]
+      },
+      {
+        "areaName": "San Antonio De Putina",
+        "counties": [
+          {
+            "areaName": "Putina"
+          },
+          {
+            "areaName": "Ananea"
+          },
+          {
+            "areaName": "Pedro Vilca Apaza"
+          },
+          {
+            "areaName": "Quilcapuncu"
+          },
+          {
+            "areaName": "Sina"
+          }
+        ]
+      },
+      {
+        "areaName": "San Román",
+        "counties": [
+          {
+            "areaName": "Juliaca"
+          },
+          {
+            "areaName": "Cabana"
+          },
+          {
+            "areaName": "Cabanillas"
+          },
+          {
+            "areaName": "Caracoto"
+          },
+          {
+            "areaName": "San Miguel"
+          }
+        ]
+      },
+      {
+        "areaName": "Sandia",
+        "counties": [
+          {
+            "areaName": "Sandia"
+          },
+          {
+            "areaName": "Cuyocuyo"
+          },
+          {
+            "areaName": "Limbani"
+          },
+          {
+            "areaName": "Patambuco"
+          },
+          {
+            "areaName": "Phara"
+          },
+          {
+            "areaName": "Quiaca"
+          },
+          {
+            "areaName": "San Juan del Oro"
+          },
+          {
+            "areaName": "Yanahuaya"
+          },
+          {
+            "areaName": "Alto Inambari"
+          },
+          {
+            "areaName": "San Pedro de Putina Punco"
+          }
+        ]
+      },
+      {
+        "areaName": "Yunguyo",
+        "counties": [
+          {
+            "areaName": "Yunguyo"
+          },
+          {
+            "areaName": "Anapia"
+          },
+          {
+            "areaName": "Copani"
+          },
+          {
+            "areaName": "Cuturapi"
+          },
+          {
+            "areaName": "Ollaraya"
+          },
+          {
+            "areaName": "Tinicachi"
+          },
+          {
+            "areaName": "Unicachi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Lambayeque",
+    "cities": [
+      {
+        "areaName": "Chiclayo",
+        "counties": [
+          {
+            "areaName": "Chiclayo"
+          },
+          {
+            "areaName": "Chongoyape"
+          },
+          {
+            "areaName": "Etén"
+          },
+          {
+            "areaName": "Etén Puerto"
+          },
+          {
+            "areaName": "José Leonardo Ortiz"
+          },
+          {
+            "areaName": "La Victoria"
+          },
+          {
+            "areaName": "Lagunas"
+          },
+          {
+            "areaName": "Monsefú"
+          },
+          {
+            "areaName": "Nueva Arica"
+          },
+          {
+            "areaName": "Oyotun"
+          },
+          {
+            "areaName": "Picsi"
+          },
+          {
+            "areaName": "Pimentel"
+          },
+          {
+            "areaName": "Reque"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Saña"
+          },
+          {
+            "areaName": "Cayaltí"
+          },
+          {
+            "areaName": "Patapo"
+          },
+          {
+            "areaName": "Pomalca"
+          },
+          {
+            "areaName": "Pucala"
+          },
+          {
+            "areaName": "Tumán"
+          }
+        ]
+      },
+      {
+        "areaName": "Ferreñafe",
+        "counties": [
+          {
+            "areaName": "Ferreñafe"
+          },
+          {
+            "areaName": "Cañaris"
+          },
+          {
+            "areaName": "Incahuasi"
+          },
+          {
+            "areaName": "Manuel Antonio Mesones Muro"
+          },
+          {
+            "areaName": "Pitipo"
+          },
+          {
+            "areaName": "Pueblo Nuevo"
+          }
+        ]
+      },
+      {
+        "areaName": "Lambayeque",
+        "counties": [
+          {
+            "areaName": "Lambayeque"
+          },
+          {
+            "areaName": "Chochope"
+          },
+          {
+            "areaName": "Illimo"
+          },
+          {
+            "areaName": "Jayanca"
+          },
+          {
+            "areaName": "Mochumi"
+          },
+          {
+            "areaName": "Mórrope"
+          },
+          {
+            "areaName": "Motupe"
+          },
+          {
+            "areaName": "Olmos"
+          },
+          {
+            "areaName": "Pacora"
+          },
+          {
+            "areaName": "Salas"
+          },
+          {
+            "areaName": "San José"
+          },
+          {
+            "areaName": "Tucume"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Ucayali",
+    "cities": [
+      {
+        "areaName": "Coronel Portillo",
+        "counties": [
+          {
+            "areaName": "Calleria"
+          },
+          {
+            "areaName": "Campoverde"
+          },
+          {
+            "areaName": "Iparia"
+          },
+          {
+            "areaName": "Masisea"
+          },
+          {
+            "areaName": "Yarinacocha"
+          },
+          {
+            "areaName": "Nueva Requena"
+          },
+          {
+            "areaName": "Manantay"
+          }
+        ]
+      },
+      {
+        "areaName": "Atalaya",
+        "counties": [
+          {
+            "areaName": "Raimondi"
+          },
+          {
+            "areaName": "Sepahua"
+          },
+          {
+            "areaName": "Tahuania"
+          },
+          {
+            "areaName": "Yurua"
+          }
+        ]
+      },
+      {
+        "areaName": "Padre Abad",
+        "counties": [
+          {
+            "areaName": "Padre Abad"
+          },
+          {
+            "areaName": "Irazola"
+          },
+          {
+            "areaName": "Curimaná"
+          },
+          {
+            "areaName": "Neshuya"
+          },
+          {
+            "areaName": "Alexander Von Humboldt"
+          },
+          {
+            "areaName": "Huipoca 1/"
+          },
+          {
+            "areaName": "Boqueron 1/"
+          }
+        ]
+      },
+      {
+        "areaName": "Purús",
+        "counties": [
+          {
+            "areaName": "Purús"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Junín",
+    "cities": [
+      {
+        "areaName": "Huancayo",
+        "counties": [
+          {
+            "areaName": "Huancayo"
+          },
+          {
+            "areaName": "Carhuacallanga"
+          },
+          {
+            "areaName": "Chacapampa"
+          },
+          {
+            "areaName": "Chicche"
+          },
+          {
+            "areaName": "Chilca"
+          },
+          {
+            "areaName": "Chongos Alto"
+          },
+          {
+            "areaName": "Chupuro"
+          },
+          {
+            "areaName": "Colca"
+          },
+          {
+            "areaName": "Cullhuas"
+          },
+          {
+            "areaName": "El Tambo"
+          },
+          {
+            "areaName": "Huacrapuquio"
+          },
+          {
+            "areaName": "Hualhuas"
+          },
+          {
+            "areaName": "Huancán"
+          },
+          {
+            "areaName": "Huasicancha"
+          },
+          {
+            "areaName": "Huayucachi"
+          },
+          {
+            "areaName": "Ingenio"
+          },
+          {
+            "areaName": "Pariahuanca"
+          },
+          {
+            "areaName": "Pilcomayo"
+          },
+          {
+            "areaName": "Pucará"
+          },
+          {
+            "areaName": "Quichuay"
+          },
+          {
+            "areaName": "Quilcas"
+          },
+          {
+            "areaName": "San Agustín"
+          },
+          {
+            "areaName": "San Jerónimo de Tunán"
+          },
+          {
+            "areaName": "Saño"
+          },
+          {
+            "areaName": "Sapallanga"
+          },
+          {
+            "areaName": "Sicaya"
+          },
+          {
+            "areaName": "Santo Domingo de Acobamba"
+          },
+          {
+            "areaName": "Viques"
+          }
+        ]
+      },
+      {
+        "areaName": "Concepción",
+        "counties": [
+          {
+            "areaName": "Concepción"
+          },
+          {
+            "areaName": "Aco"
+          },
+          {
+            "areaName": "Andamarca"
+          },
+          {
+            "areaName": "Chambará"
+          },
+          {
+            "areaName": "Cochas"
+          },
+          {
+            "areaName": "Comas"
+          },
+          {
+            "areaName": "Heroínas Toledo"
+          },
+          {
+            "areaName": "Manzanares"
+          },
+          {
+            "areaName": "Mariscal Castilla"
+          },
+          {
+            "areaName": "Matahuasi"
+          },
+          {
+            "areaName": "Mito"
+          },
+          {
+            "areaName": "Nueve de Julio"
+          },
+          {
+            "areaName": "Orcotuna"
+          },
+          {
+            "areaName": "San José de Quero"
+          },
+          {
+            "areaName": "Santa Rosa de Ocopa"
+          }
+        ]
+      },
+      {
+        "areaName": "Chanchamayo",
+        "counties": [
+          {
+            "areaName": "Chanchamayo"
+          },
+          {
+            "areaName": "Perené"
+          },
+          {
+            "areaName": "Pichanaqui"
+          },
+          {
+            "areaName": "San Luis de Shuaro"
+          },
+          {
+            "areaName": "San Ramón"
+          },
+          {
+            "areaName": "Vitoc"
+          }
+        ]
+      },
+      {
+        "areaName": "Jauja",
+        "counties": [
+          {
+            "areaName": "Jauja"
+          },
+          {
+            "areaName": "Acolla"
+          },
+          {
+            "areaName": "Apata"
+          },
+          {
+            "areaName": "Ataura"
+          },
+          {
+            "areaName": "Canchayllo"
+          },
+          {
+            "areaName": "Curicaca"
+          },
+          {
+            "areaName": "El Mantaro"
+          },
+          {
+            "areaName": "Huamalí"
+          },
+          {
+            "areaName": "Huaripampa"
+          },
+          {
+            "areaName": "Huertas"
+          },
+          {
+            "areaName": "Janjaillo"
+          },
+          {
+            "areaName": "Julcán"
+          },
+          {
+            "areaName": "Leonor Ordóñez"
+          },
+          {
+            "areaName": "Llocllapampa"
+          },
+          {
+            "areaName": "Marco"
+          },
+          {
+            "areaName": "Masma"
+          },
+          {
+            "areaName": "Masma Chicche"
+          },
+          {
+            "areaName": "Molinos"
+          },
+          {
+            "areaName": "Monobamba"
+          },
+          {
+            "areaName": "Muqui"
+          },
+          {
+            "areaName": "Muquiyauyo"
+          },
+          {
+            "areaName": "Paca"
+          },
+          {
+            "areaName": "Paccha"
+          },
+          {
+            "areaName": "Pancán"
+          },
+          {
+            "areaName": "Parco"
+          },
+          {
+            "areaName": "Pomacancha"
+          },
+          {
+            "areaName": "Ricrán"
+          },
+          {
+            "areaName": "San Lorenzo"
+          },
+          {
+            "areaName": "San Pedro de Chunán"
+          },
+          {
+            "areaName": "Sausa"
+          },
+          {
+            "areaName": "Sincos"
+          },
+          {
+            "areaName": "Tunan Marca"
+          },
+          {
+            "areaName": "Yauli"
+          },
+          {
+            "areaName": "Yauyos"
+          }
+        ]
+      },
+      {
+        "areaName": "Junín",
+        "counties": [
+          {
+            "areaName": "Junín"
+          },
+          {
+            "areaName": "Carhuamayo"
+          },
+          {
+            "areaName": "Ondores"
+          },
+          {
+            "areaName": "Ulcumayo"
+          }
+        ]
+      },
+      {
+        "areaName": "Satipo",
+        "counties": [
+          {
+            "areaName": "Satipo"
+          },
+          {
+            "areaName": "Coviriali"
+          },
+          {
+            "areaName": "Llaylla"
+          },
+          {
+            "areaName": "Mazamari"
+          },
+          {
+            "areaName": "Pampa Hermosa"
+          },
+          {
+            "areaName": "Pangoa"
+          },
+          {
+            "areaName": "Río Negro"
+          },
+          {
+            "areaName": "Río Tambo"
+          },
+          {
+            "areaName": "Vizcatán del Ene"
+          }
+        ]
+      },
+      {
+        "areaName": "Tarma",
+        "counties": [
+          {
+            "areaName": "Tarma"
+          },
+          {
+            "areaName": "Acobamba"
+          },
+          {
+            "areaName": "Huaricolca"
+          },
+          {
+            "areaName": "Huasahuasi"
+          },
+          {
+            "areaName": "La Unión"
+          },
+          {
+            "areaName": "Palca"
+          },
+          {
+            "areaName": "Palcamayo"
+          },
+          {
+            "areaName": "San Pedro de Cajas"
+          },
+          {
+            "areaName": "Tapo"
+          }
+        ]
+      },
+      {
+        "areaName": "Yauli",
+        "counties": [
+          {
+            "areaName": "La Oroya"
+          },
+          {
+            "areaName": "Chacapalpa"
+          },
+          {
+            "areaName": "Huay-Huay"
+          },
+          {
+            "areaName": "Marcapomacocha"
+          },
+          {
+            "areaName": "Morococha"
+          },
+          {
+            "areaName": "Paccha"
+          },
+          {
+            "areaName": "Santa Bárbara de Carhuacayán"
+          },
+          {
+            "areaName": "Santa Rosa de Sacco"
+          },
+          {
+            "areaName": "Suitucancha"
+          },
+          {
+            "areaName": "Yauli"
+          }
+        ]
+      },
+      {
+        "areaName": "Chupaca",
+        "counties": [
+          {
+            "areaName": "Chupaca"
+          },
+          {
+            "areaName": "Ahuac"
+          },
+          {
+            "areaName": "Chongos Bajo"
+          },
+          {
+            "areaName": "Huáchac"
+          },
+          {
+            "areaName": "Huamancaca Chico"
+          },
+          {
+            "areaName": "San Juan de Iscos"
+          },
+          {
+            "areaName": "San Juan de Jarpa"
+          },
+          {
+            "areaName": "Tres de Diciembre"
+          },
+          {
+            "areaName": "Yanacancha"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "San Martín",
+    "cities": [
+      {
+        "areaName": "Moyobamba",
+        "counties": [
+          {
+            "areaName": "Moyobamba"
+          },
+          {
+            "areaName": "Calzada"
+          },
+          {
+            "areaName": "Habana"
+          },
+          {
+            "areaName": "Jepelacio"
+          },
+          {
+            "areaName": "Soritor"
+          },
+          {
+            "areaName": "Yantalo"
+          }
+        ]
+      },
+      {
+        "areaName": "Bellavista",
+        "counties": [
+          {
+            "areaName": "Bellavista"
+          },
+          {
+            "areaName": "Alto Biavo"
+          },
+          {
+            "areaName": "Bajo Biavo"
+          },
+          {
+            "areaName": "Huallaga"
+          },
+          {
+            "areaName": "San Pablo"
+          },
+          {
+            "areaName": "San Rafael"
+          }
+        ]
+      },
+      {
+        "areaName": "El Dorado",
+        "counties": [
+          {
+            "areaName": "San José de Sisa"
+          },
+          {
+            "areaName": "Agua Blanca"
+          },
+          {
+            "areaName": "San Martín"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Shatoja"
+          }
+        ]
+      },
+      {
+        "areaName": "Huallaga",
+        "counties": [
+          {
+            "areaName": "Saposoa"
+          },
+          {
+            "areaName": "Alto Saposoa"
+          },
+          {
+            "areaName": "El Eslabón"
+          },
+          {
+            "areaName": "Piscoyacu"
+          },
+          {
+            "areaName": "Sacanche"
+          },
+          {
+            "areaName": "Tingo de Saposoa"
+          }
+        ]
+      },
+      {
+        "areaName": "Lamas",
+        "counties": [
+          {
+            "areaName": "Lamas"
+          },
+          {
+            "areaName": "Alonso de Alvarado"
+          },
+          {
+            "areaName": "Barranquita"
+          },
+          {
+            "areaName": "Caynarachi"
+          },
+          {
+            "areaName": "Cuñumbuqui"
+          },
+          {
+            "areaName": "Pinto Recodo"
+          },
+          {
+            "areaName": "Rumisapa"
+          },
+          {
+            "areaName": "San Roque de Cumbaza"
+          },
+          {
+            "areaName": "Shanao"
+          },
+          {
+            "areaName": "Tabalosos"
+          },
+          {
+            "areaName": "Zapatero"
+          }
+        ]
+      },
+      {
+        "areaName": "Mariscal Cáceres",
+        "counties": [
+          {
+            "areaName": "Juanjuí"
+          },
+          {
+            "areaName": "Campanilla"
+          },
+          {
+            "areaName": "Huicungo"
+          },
+          {
+            "areaName": "Pachiza"
+          },
+          {
+            "areaName": "Pajarillo"
+          }
+        ]
+      },
+      {
+        "areaName": "Picota",
+        "counties": [
+          {
+            "areaName": "Picota"
+          },
+          {
+            "areaName": "Buenos Aires"
+          },
+          {
+            "areaName": "Caspisapa"
+          },
+          {
+            "areaName": "Pilluana"
+          },
+          {
+            "areaName": "Pucacaca"
+          },
+          {
+            "areaName": "San Cristóbal"
+          },
+          {
+            "areaName": "San Hilarión"
+          },
+          {
+            "areaName": "Shamboyacu"
+          },
+          {
+            "areaName": "Tingo de Ponasa"
+          },
+          {
+            "areaName": "Tres Unidos"
+          }
+        ]
+      },
+      {
+        "areaName": "Rioja",
+        "counties": [
+          {
+            "areaName": "Rioja"
+          },
+          {
+            "areaName": "Awajun"
+          },
+          {
+            "areaName": "Elias Soplín Vargas"
+          },
+          {
+            "areaName": "Nueva Cajamarca"
+          },
+          {
+            "areaName": "Pardo Miguel"
+          },
+          {
+            "areaName": "Posic"
+          },
+          {
+            "areaName": "San Fernando"
+          },
+          {
+            "areaName": "Yorongos"
+          },
+          {
+            "areaName": "Yuracyacu"
+          }
+        ]
+      },
+      {
+        "areaName": "San Martín",
+        "counties": [
+          {
+            "areaName": "Tarapoto"
+          },
+          {
+            "areaName": "Alberto Leveau"
+          },
+          {
+            "areaName": "Cacatachi"
+          },
+          {
+            "areaName": "Chazuta"
+          },
+          {
+            "areaName": "Chipurana"
+          },
+          {
+            "areaName": "El Porvenir"
+          },
+          {
+            "areaName": "Huimbayoc"
+          },
+          {
+            "areaName": "Juan Guerra"
+          },
+          {
+            "areaName": "La Banda de Shilcayo"
+          },
+          {
+            "areaName": "Morales"
+          },
+          {
+            "areaName": "Papaplaya"
+          },
+          {
+            "areaName": "San Antonio"
+          },
+          {
+            "areaName": "Sauce"
+          },
+          {
+            "areaName": "Shapaja"
+          }
+        ]
+      },
+      {
+        "areaName": "Tocache",
+        "counties": [
+          {
+            "areaName": "Tocache"
+          },
+          {
+            "areaName": "Nuevo Progreso"
+          },
+          {
+            "areaName": "Pólvora"
+          },
+          {
+            "areaName": "Shunte"
+          },
+          {
+            "areaName": "Uchiza"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Loreto",
+    "cities": [
+      {
+        "areaName": "Maynas",
+        "counties": [
+          {
+            "areaName": "Iquitos"
+          },
+          {
+            "areaName": "Alto Nanay"
+          },
+          {
+            "areaName": "Fernando Lores"
+          },
+          {
+            "areaName": "Indiana"
+          },
+          {
+            "areaName": "Las Amazonas"
+          },
+          {
+            "areaName": "Mazan"
+          },
+          {
+            "areaName": "Napo"
+          },
+          {
+            "areaName": "Punchana"
+          },
+          {
+            "areaName": "Torres Causana"
+          },
+          {
+            "areaName": "Belén"
+          },
+          {
+            "areaName": "San Juan Bautista"
+          }
+        ]
+      },
+      {
+        "areaName": "Alto Amazonas",
+        "counties": [
+          {
+            "areaName": "Yurimaguas"
+          },
+          {
+            "areaName": "Balsapuerto"
+          },
+          {
+            "areaName": "Jeberos"
+          },
+          {
+            "areaName": "Lagunas"
+          },
+          {
+            "areaName": "Santa Cruz"
+          },
+          {
+            "areaName": "Teniente César López Rojas"
+          }
+        ]
+      },
+      {
+        "areaName": "Loreto",
+        "counties": [
+          {
+            "areaName": "Nauta"
+          },
+          {
+            "areaName": "Parinari"
+          },
+          {
+            "areaName": "Tigre"
+          },
+          {
+            "areaName": "Trompeteros"
+          },
+          {
+            "areaName": "Urarinas"
+          }
+        ]
+      },
+      {
+        "areaName": "Mariscal Ramón Castilla",
+        "counties": [
+          {
+            "areaName": "Ramón Castilla"
+          },
+          {
+            "areaName": "Pebas"
+          },
+          {
+            "areaName": "Yavari"
+          },
+          {
+            "areaName": "San Pablo"
+          }
+        ]
+      },
+      {
+        "areaName": "Requena",
+        "counties": [
+          {
+            "areaName": "Requena"
+          },
+          {
+            "areaName": "Alto Tapiche"
+          },
+          {
+            "areaName": "Capelo"
+          },
+          {
+            "areaName": "Emilio San Martín"
+          },
+          {
+            "areaName": "Maquia"
+          },
+          {
+            "areaName": "Puinahua"
+          },
+          {
+            "areaName": "Saquena"
+          },
+          {
+            "areaName": "Soplin"
+          },
+          {
+            "areaName": "Tapiche"
+          },
+          {
+            "areaName": "Jenaro Herrera"
+          },
+          {
+            "areaName": "Yaquerana"
+          }
+        ]
+      },
+      {
+        "areaName": "Ucayali",
+        "counties": [
+          {
+            "areaName": "Contamana"
+          },
+          {
+            "areaName": "Inahuaya"
+          },
+          {
+            "areaName": "Padre Márquez"
+          },
+          {
+            "areaName": "Pampa Hermosa"
+          },
+          {
+            "areaName": "Sarayacu"
+          },
+          {
+            "areaName": "Vargas Guerra"
+          }
+        ]
+      },
+      {
+        "areaName": "Datem del Marañon",
+        "counties": [
+          {
+            "areaName": "Barranca"
+          },
+          {
+            "areaName": "Cahuapanas"
+          },
+          {
+            "areaName": "Manseriche"
+          },
+          {
+            "areaName": "Morona"
+          },
+          {
+            "areaName": "Pastaza"
+          },
+          {
+            "areaName": "Andoas"
+          }
+        ]
+      },
+      {
+        "areaName": "Putumayo",
+        "counties": [
+          {
+            "areaName": "Putumayo"
+          },
+          {
+            "areaName": "Rosa Panduro"
+          },
+          {
+            "areaName": "Teniente Manuel Clavero"
+          },
+          {
+            "areaName": "Yaguas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Áncash",
+    "cities": [
+      {
+        "areaName": "Huaraz",
+        "counties": [
+          {
+            "areaName": "Huaraz"
+          },
+          {
+            "areaName": "Cochabamba"
+          },
+          {
+            "areaName": "Colcabamba"
+          },
+          {
+            "areaName": "Huanchay"
+          },
+          {
+            "areaName": "Independencia"
+          },
+          {
+            "areaName": "Jangas"
+          },
+          {
+            "areaName": "La Libertad"
+          },
+          {
+            "areaName": "Olleros"
+          },
+          {
+            "areaName": "Pampas Grande"
+          },
+          {
+            "areaName": "Pariacoto"
+          },
+          {
+            "areaName": "Pira"
+          },
+          {
+            "areaName": "Tarica"
+          }
+        ]
+      },
+      {
+        "areaName": "Aija",
+        "counties": [
+          {
+            "areaName": "Aija"
+          },
+          {
+            "areaName": "Coris"
+          },
+          {
+            "areaName": "Huacllán"
+          },
+          {
+            "areaName": "La Merced"
+          },
+          {
+            "areaName": "Succha"
+          }
+        ]
+      },
+      {
+        "areaName": "Antonio Raymondi",
+        "counties": [
+          {
+            "areaName": "Llamellín"
+          },
+          {
+            "areaName": "Aczo"
+          },
+          {
+            "areaName": "Chaccho"
+          },
+          {
+            "areaName": "Chingas"
+          },
+          {
+            "areaName": "Mirgas"
+          },
+          {
+            "areaName": "San Juan de Rontoy"
+          }
+        ]
+      },
+      {
+        "areaName": "Asunción",
+        "counties": [
+          {
+            "areaName": "Chacas"
+          },
+          {
+            "areaName": "Acochaca"
+          }
+        ]
+      },
+      {
+        "areaName": "Bolognesi",
+        "counties": [
+          {
+            "areaName": "Chiquián"
+          },
+          {
+            "areaName": "Abelardo Pardo Lezameta"
+          },
+          {
+            "areaName": "Antonio Raymondi"
+          },
+          {
+            "areaName": "Aquia"
+          },
+          {
+            "areaName": "Cajacay"
+          },
+          {
+            "areaName": "Canis "
+          },
+          {
+            "areaName": "Colquioc"
+          },
+          {
+            "areaName": "Huallanca"
+          },
+          {
+            "areaName": "Huasta"
+          },
+          {
+            "areaName": "Huayllacayán"
+          },
+          {
+            "areaName": "La Primavera"
+          },
+          {
+            "areaName": "Mangas"
+          },
+          {
+            "areaName": "Pacllón"
+          },
+          {
+            "areaName": "San Miguel de Corpanqui"
+          },
+          {
+            "areaName": "Ticllos"
+          }
+        ]
+      },
+      {
+        "areaName": "Carhuaz",
+        "counties": [
+          {
+            "areaName": "Carhuaz"
+          },
+          {
+            "areaName": "Acopampa"
+          },
+          {
+            "areaName": "Amashca"
+          },
+          {
+            "areaName": "Anta"
+          },
+          {
+            "areaName": "Ataquero"
+          },
+          {
+            "areaName": "Marcará"
+          },
+          {
+            "areaName": "Pariahuanca"
+          },
+          {
+            "areaName": "San Miguel de Aco"
+          },
+          {
+            "areaName": "Shilla"
+          },
+          {
+            "areaName": "Tinco"
+          },
+          {
+            "areaName": "Yungar"
+          }
+        ]
+      },
+      {
+        "areaName": "Carlos Fermin Fitzcarrald",
+        "counties": [
+          {
+            "areaName": "San Luis"
+          },
+          {
+            "areaName": "San Nicolás"
+          },
+          {
+            "areaName": "Yauya"
+          }
+        ]
+      },
+      {
+        "areaName": "Casma",
+        "counties": [
+          {
+            "areaName": "Casma"
+          },
+          {
+            "areaName": "Buena Vista Alta"
+          },
+          {
+            "areaName": "Comandante Noél"
+          },
+          {
+            "areaName": "Yaután"
+          }
+        ]
+      },
+      {
+        "areaName": "Corongo",
+        "counties": [
+          {
+            "areaName": "Corongo"
+          },
+          {
+            "areaName": "Aco "
+          },
+          {
+            "areaName": "Bambas"
+          },
+          {
+            "areaName": "Cusca"
+          },
+          {
+            "areaName": "La Pampa"
+          },
+          {
+            "areaName": "Yánac"
+          },
+          {
+            "areaName": "Yupán"
+          }
+        ]
+      },
+      {
+        "areaName": "Huari",
+        "counties": [
+          {
+            "areaName": "Huari"
+          },
+          {
+            "areaName": "Anra"
+          },
+          {
+            "areaName": "Cajay"
+          },
+          {
+            "areaName": "Chavín de Huántar"
+          },
+          {
+            "areaName": "Huacachi"
+          },
+          {
+            "areaName": "Huacchis"
+          },
+          {
+            "areaName": "Huachis"
+          },
+          {
+            "areaName": "Huántar"
+          },
+          {
+            "areaName": "Masín"
+          },
+          {
+            "areaName": "Paucas"
+          },
+          {
+            "areaName": "Ponto"
+          },
+          {
+            "areaName": "Rahuapampa"
+          },
+          {
+            "areaName": "Rapayan"
+          },
+          {
+            "areaName": "San Marcos"
+          },
+          {
+            "areaName": "San Pedro de Chana"
+          },
+          {
+            "areaName": "Uco"
+          }
+        ]
+      },
+      {
+        "areaName": "Huarmey",
+        "counties": [
+          {
+            "areaName": "Huarmey"
+          },
+          {
+            "areaName": "Cochapeti"
+          },
+          {
+            "areaName": "Culebras"
+          },
+          {
+            "areaName": "Huayán"
+          },
+          {
+            "areaName": "Malvas"
+          }
+        ]
+      },
+      {
+        "areaName": "Huaylas",
+        "counties": [
+          {
+            "areaName": "Caraz"
+          },
+          {
+            "areaName": "Huallanca"
+          },
+          {
+            "areaName": "Huata"
+          },
+          {
+            "areaName": "Huaylas"
+          },
+          {
+            "areaName": "Mato"
+          },
+          {
+            "areaName": "Pamparomás"
+          },
+          {
+            "areaName": "Pueblo Libre"
+          },
+          {
+            "areaName": "Santa Cruz"
+          },
+          {
+            "areaName": "Santo Toribio"
+          },
+          {
+            "areaName": "Yuracmarca"
+          }
+        ]
+      },
+      {
+        "areaName": "Mariscal Luzuriaga",
+        "counties": [
+          {
+            "areaName": "Piscobamba"
+          },
+          {
+            "areaName": "Casca"
+          },
+          {
+            "areaName": "Eleazar Guzmán Barrón"
+          },
+          {
+            "areaName": "Fidel Olivas Escudero"
+          },
+          {
+            "areaName": "Llama"
+          },
+          {
+            "areaName": "Llumpa"
+          },
+          {
+            "areaName": "Lucma"
+          },
+          {
+            "areaName": "Musga"
+          }
+        ]
+      },
+      {
+        "areaName": "Ocros",
+        "counties": [
+          {
+            "areaName": "Ocros"
+          },
+          {
+            "areaName": "Acas"
+          },
+          {
+            "areaName": "Cajamarquilla"
+          },
+          {
+            "areaName": "Carhuapampa"
+          },
+          {
+            "areaName": "Cochas"
+          },
+          {
+            "areaName": "Congas"
+          },
+          {
+            "areaName": "Llipa"
+          },
+          {
+            "areaName": "San Cristóbal de Raján"
+          },
+          {
+            "areaName": "San Pedro"
+          },
+          {
+            "areaName": "Santiago de Chilcas"
+          }
+        ]
+      },
+      {
+        "areaName": "Pallasca",
+        "counties": [
+          {
+            "areaName": "Cabana"
+          },
+          {
+            "areaName": "Bolognesi"
+          },
+          {
+            "areaName": "Conchucos"
+          },
+          {
+            "areaName": "Huacaschuque"
+          },
+          {
+            "areaName": "Huandoval"
+          },
+          {
+            "areaName": "Lacabamba"
+          },
+          {
+            "areaName": "Llapo"
+          },
+          {
+            "areaName": "Pallasca"
+          },
+          {
+            "areaName": "Pampas"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Tauca"
+          }
+        ]
+      },
+      {
+        "areaName": "Pomabamba",
+        "counties": [
+          {
+            "areaName": "Pomabamba"
+          },
+          {
+            "areaName": "Huayllán"
+          },
+          {
+            "areaName": "Parobamba"
+          },
+          {
+            "areaName": "Quinuabamba"
+          }
+        ]
+      },
+      {
+        "areaName": "Recuay",
+        "counties": [
+          {
+            "areaName": "Recuay"
+          },
+          {
+            "areaName": "Cátac"
+          },
+          {
+            "areaName": "Cotaparaco"
+          },
+          {
+            "areaName": "Huayllapampa"
+          },
+          {
+            "areaName": "Llacllin"
+          },
+          {
+            "areaName": "Marca"
+          },
+          {
+            "areaName": "Pampas Chico"
+          },
+          {
+            "areaName": "Pararín"
+          },
+          {
+            "areaName": "Tapacocha"
+          },
+          {
+            "areaName": "Ticapampa"
+          }
+        ]
+      },
+      {
+        "areaName": "Santa",
+        "counties": [
+          {
+            "areaName": "Chimbote"
+          },
+          {
+            "areaName": "Cáceres del Perú"
+          },
+          {
+            "areaName": "Coishco"
+          },
+          {
+            "areaName": "Macate"
+          },
+          {
+            "areaName": "Moro"
+          },
+          {
+            "areaName": "Nepeña"
+          },
+          {
+            "areaName": "Samanco"
+          },
+          {
+            "areaName": "Santa"
+          },
+          {
+            "areaName": "Nuevo Chimbote"
+          }
+        ]
+      },
+      {
+        "areaName": "Sihuas",
+        "counties": [
+          {
+            "areaName": "Sihuas"
+          },
+          {
+            "areaName": "Acobamba"
+          },
+          {
+            "areaName": "Alfonso Ugarte"
+          },
+          {
+            "areaName": "Cashapampa"
+          },
+          {
+            "areaName": "Chingalpo"
+          },
+          {
+            "areaName": "Huayllabamba"
+          },
+          {
+            "areaName": "Quiches"
+          },
+          {
+            "areaName": "Ragash"
+          },
+          {
+            "areaName": "San Juan"
+          },
+          {
+            "areaName": "Sicsibamba"
+          }
+        ]
+      },
+      {
+        "areaName": "Yungay",
+        "counties": [
+          {
+            "areaName": "Yungay"
+          },
+          {
+            "areaName": "Cascapara"
+          },
+          {
+            "areaName": "Mancos"
+          },
+          {
+            "areaName": "Matacoto"
+          },
+          {
+            "areaName": "Quillo"
+          },
+          {
+            "areaName": "Ranrahirca"
+          },
+          {
+            "areaName": "Shupluy"
+          },
+          {
+            "areaName": "Yanama"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Lima",
+    "cities": [
+      {
+        "areaName": "Lima",
+        "counties": [
+          {
+            "areaName": "Lima"
+          },
+          {
+            "areaName": "Ancón"
+          },
+          {
+            "areaName": "Ate"
+          },
+          {
+            "areaName": "Barranco"
+          },
+          {
+            "areaName": "Breña"
+          },
+          {
+            "areaName": "Carabayllo"
+          },
+          {
+            "areaName": "Chaclacayo"
+          },
+          {
+            "areaName": "Chorrillos"
+          },
+          {
+            "areaName": "Cieneguilla"
+          },
+          {
+            "areaName": "Comas"
+          },
+          {
+            "areaName": "El Agustino"
+          },
+          {
+            "areaName": "Independencia"
+          },
+          {
+            "areaName": "Jesús María"
+          },
+          {
+            "areaName": "La Molina"
+          },
+          {
+            "areaName": "La Victoria"
+          },
+          {
+            "areaName": "Lince"
+          },
+          {
+            "areaName": "Los Olivos"
+          },
+          {
+            "areaName": "Lurigancho"
+          },
+          {
+            "areaName": "Lurín"
+          },
+          {
+            "areaName": "Magdalena Del Mar"
+          },
+          {
+            "areaName": "Pueblo Libre"
+          },
+          {
+            "areaName": "Miraflores"
+          },
+          {
+            "areaName": "Pachacámac"
+          },
+          {
+            "areaName": "Pucusana"
+          },
+          {
+            "areaName": "Puente Piedra"
+          },
+          {
+            "areaName": "Punta Hermosa"
+          },
+          {
+            "areaName": "Punta Negra"
+          },
+          {
+            "areaName": "Rímac"
+          },
+          {
+            "areaName": "San Bartolo"
+          },
+          {
+            "areaName": "San Borja"
+          },
+          {
+            "areaName": "San Isidro"
+          },
+          {
+            "areaName": "San Juan de Lurigancho"
+          },
+          {
+            "areaName": "San Juan de Miraflores"
+          },
+          {
+            "areaName": "San Luis"
+          },
+          {
+            "areaName": "San Martin de Porres"
+          },
+          {
+            "areaName": "San Miguel"
+          },
+          {
+            "areaName": "Santa Anita"
+          },
+          {
+            "areaName": "Santa María del Mar"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Santiago de Surco"
+          },
+          {
+            "areaName": "Surquillo"
+          },
+          {
+            "areaName": "Villa El Salvador"
+          },
+          {
+            "areaName": "Villa María Del Triunfo"
+          }
+        ]
+      },
+      {
+        "areaName": "Barranca",
+        "counties": [
+          {
+            "areaName": "Barranca"
+          },
+          {
+            "areaName": "Paramonga"
+          },
+          {
+            "areaName": "Pativilca"
+          },
+          {
+            "areaName": "Supe"
+          },
+          {
+            "areaName": "Supe Puerto"
+          }
+        ]
+      },
+      {
+        "areaName": "Cajatambo",
+        "counties": [
+          {
+            "areaName": "Cajatambo"
+          },
+          {
+            "areaName": "Copa"
+          },
+          {
+            "areaName": "Gorgor"
+          },
+          {
+            "areaName": "Huancapón"
+          },
+          {
+            "areaName": "Manas"
+          }
+        ]
+      },
+      {
+        "areaName": "Canta",
+        "counties": [
+          {
+            "areaName": "Canta"
+          },
+          {
+            "areaName": "Arahuay"
+          },
+          {
+            "areaName": "Huamantanga "
+          },
+          {
+            "areaName": "Huaros"
+          },
+          {
+            "areaName": "Lachaqui"
+          },
+          {
+            "areaName": "San Buenaventura"
+          },
+          {
+            "areaName": "Santa Rosa de Quives"
+          }
+        ]
+      },
+      {
+        "areaName": "Cañete",
+        "counties": [
+          {
+            "areaName": "San Vicente de Cañete"
+          },
+          {
+            "areaName": "Asia"
+          },
+          {
+            "areaName": "Calango"
+          },
+          {
+            "areaName": "Cerro Azul"
+          },
+          {
+            "areaName": "Chilca"
+          },
+          {
+            "areaName": "Coayllo"
+          },
+          {
+            "areaName": "Imperial"
+          },
+          {
+            "areaName": "Lunahuana"
+          },
+          {
+            "areaName": "Mala"
+          },
+          {
+            "areaName": "Nuevo Imperial"
+          },
+          {
+            "areaName": "Pacarán"
+          },
+          {
+            "areaName": "Quilmana"
+          },
+          {
+            "areaName": "San Antonio"
+          },
+          {
+            "areaName": "San Luis"
+          },
+          {
+            "areaName": "Santa Cruz de Flores"
+          },
+          {
+            "areaName": "Zuñiga"
+          }
+        ]
+      },
+      {
+        "areaName": "Huaral",
+        "counties": [
+          {
+            "areaName": "Huaral"
+          },
+          {
+            "areaName": "Atavillos Alto"
+          },
+          {
+            "areaName": "Atavillos Bajo"
+          },
+          {
+            "areaName": "Aucallama"
+          },
+          {
+            "areaName": "Chancay"
+          },
+          {
+            "areaName": "Ihuari"
+          },
+          {
+            "areaName": "Lampián"
+          },
+          {
+            "areaName": "Pacaraos"
+          },
+          {
+            "areaName": "San Miguel de Acos"
+          },
+          {
+            "areaName": "Santa Cruz de Andamarca"
+          },
+          {
+            "areaName": "Sumbilca"
+          },
+          {
+            "areaName": "Veintisiete de Noviembre"
+          }
+        ]
+      },
+      {
+        "areaName": "Huarochirí",
+        "counties": [
+          {
+            "areaName": "Matucana"
+          },
+          {
+            "areaName": "Antioquía"
+          },
+          {
+            "areaName": "Callahuanca"
+          },
+          {
+            "areaName": "Carampoma"
+          },
+          {
+            "areaName": "Chicla"
+          },
+          {
+            "areaName": "Cuenca"
+          },
+          {
+            "areaName": "Huachupampa"
+          },
+          {
+            "areaName": "Huanza"
+          },
+          {
+            "areaName": "Huarochirí"
+          },
+          {
+            "areaName": "Lahuaytambo"
+          },
+          {
+            "areaName": "Langa"
+          },
+          {
+            "areaName": "San Pedro de Laraos"
+          },
+          {
+            "areaName": "Mariatana"
+          },
+          {
+            "areaName": "Ricardo Palma"
+          },
+          {
+            "areaName": "San Andrés de Tupicocha"
+          },
+          {
+            "areaName": "San Antonio"
+          },
+          {
+            "areaName": "San Bartolomé"
+          },
+          {
+            "areaName": "San Damian"
+          },
+          {
+            "areaName": "San Juan de Iris"
+          },
+          {
+            "areaName": "San Juan de Tantaranche"
+          },
+          {
+            "areaName": "San Lorenzo de Quinti"
+          },
+          {
+            "areaName": "San Mateo"
+          },
+          {
+            "areaName": "San Mateo de Otao"
+          },
+          {
+            "areaName": "San Pedro de Casta"
+          },
+          {
+            "areaName": "San Pedro de Huancayre"
+          },
+          {
+            "areaName": "Sangallaya"
+          },
+          {
+            "areaName": "Santa Cruz de Cocachacra"
+          },
+          {
+            "areaName": "Santa Eulalia"
+          },
+          {
+            "areaName": "Santiago de Anchucaya"
+          },
+          {
+            "areaName": "Santiago de Tuna"
+          },
+          {
+            "areaName": "Santo Domingo de Los Olleros"
+          },
+          {
+            "areaName": "Surco"
+          }
+        ]
+      },
+      {
+        "areaName": "Huaura",
+        "counties": [
+          {
+            "areaName": "Huacho"
+          },
+          {
+            "areaName": "Ambar"
+          },
+          {
+            "areaName": "Caleta de Carquín"
+          },
+          {
+            "areaName": "Checras"
+          },
+          {
+            "areaName": "Hualmay"
+          },
+          {
+            "areaName": "Huaura"
+          },
+          {
+            "areaName": "Leoncio Prado"
+          },
+          {
+            "areaName": "Paccho"
+          },
+          {
+            "areaName": "Santa Leonor"
+          },
+          {
+            "areaName": "Santa María"
+          },
+          {
+            "areaName": "Sayán"
+          },
+          {
+            "areaName": "Vegueta"
+          }
+        ]
+      },
+      {
+        "areaName": "Oyón",
+        "counties": [
+          {
+            "areaName": "Oyón"
+          },
+          {
+            "areaName": "Andajes"
+          },
+          {
+            "areaName": "Caujul"
+          },
+          {
+            "areaName": "Cochamarca"
+          },
+          {
+            "areaName": "Naván"
+          },
+          {
+            "areaName": "Pachangara"
+          }
+        ]
+      },
+      {
+        "areaName": "Yauyos",
+        "counties": [
+          {
+            "areaName": "Yauyos"
+          },
+          {
+            "areaName": "Alis"
+          },
+          {
+            "areaName": "Allauca"
+          },
+          {
+            "areaName": "Ayaviri"
+          },
+          {
+            "areaName": "Azángaro"
+          },
+          {
+            "areaName": "Cacra"
+          },
+          {
+            "areaName": "Carania"
+          },
+          {
+            "areaName": "Catahuasi"
+          },
+          {
+            "areaName": "Chocos"
+          },
+          {
+            "areaName": "Cochas"
+          },
+          {
+            "areaName": "Colonia"
+          },
+          {
+            "areaName": "Hongos"
+          },
+          {
+            "areaName": "Huampara"
+          },
+          {
+            "areaName": "Huancaya"
+          },
+          {
+            "areaName": "Huangascar"
+          },
+          {
+            "areaName": "Huantan"
+          },
+          {
+            "areaName": "Huañec"
+          },
+          {
+            "areaName": "Laraos"
+          },
+          {
+            "areaName": "Lincha"
+          },
+          {
+            "areaName": "Madean"
+          },
+          {
+            "areaName": "Miraflores"
+          },
+          {
+            "areaName": "Omas"
+          },
+          {
+            "areaName": "Putinza"
+          },
+          {
+            "areaName": "Quinches"
+          },
+          {
+            "areaName": "Quinocay"
+          },
+          {
+            "areaName": "San Joaquín"
+          },
+          {
+            "areaName": "San Pedro de Pilas"
+          },
+          {
+            "areaName": "Tanta"
+          },
+          {
+            "areaName": "Tauripampa"
+          },
+          {
+            "areaName": "Tomás"
+          },
+          {
+            "areaName": "Tupe"
+          },
+          {
+            "areaName": "Viñac"
+          },
+          {
+            "areaName": "Vitis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Moquegua",
+    "cities": [
+      {
+        "areaName": "Mariscal Nieto",
+        "counties": [
+          {
+            "areaName": "Moquegua"
+          },
+          {
+            "areaName": "Carumas"
+          },
+          {
+            "areaName": "Cuchumbaya"
+          },
+          {
+            "areaName": "Samegua"
+          },
+          {
+            "areaName": "San Cristóbal"
+          },
+          {
+            "areaName": "Torata"
+          },
+          {
+            "areaName": "San Antonio 1/"
+          }
+        ]
+      },
+      {
+        "areaName": "General Sánchez Cerro",
+        "counties": [
+          {
+            "areaName": "Omate"
+          },
+          {
+            "areaName": "Chojata"
+          },
+          {
+            "areaName": "Coalaque"
+          },
+          {
+            "areaName": "Ichuña"
+          },
+          {
+            "areaName": "La Capilla"
+          },
+          {
+            "areaName": "Lloque"
+          },
+          {
+            "areaName": "Matalaque"
+          },
+          {
+            "areaName": "Puquina"
+          },
+          {
+            "areaName": "Quinistaquillas"
+          },
+          {
+            "areaName": "Ubinas"
+          },
+          {
+            "areaName": "Yunga"
+          }
+        ]
+      },
+      {
+        "areaName": "Ilo",
+        "counties": [
+          {
+            "areaName": "Ilo"
+          },
+          {
+            "areaName": "El Algarrobal"
+          },
+          {
+            "areaName": "Pacocha"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Tumbes",
+    "cities": [
+      {
+        "areaName": "Tumbes",
+        "counties": [
+          {
+            "areaName": "Tumbes"
+          },
+          {
+            "areaName": "Corrales"
+          },
+          {
+            "areaName": "La Cruz"
+          },
+          {
+            "areaName": "Pampas de Hospital"
+          },
+          {
+            "areaName": "San Jacinto"
+          },
+          {
+            "areaName": "San Juan de La Virgen"
+          }
+        ]
+      },
+      {
+        "areaName": "Contralmirante Villar",
+        "counties": [
+          {
+            "areaName": "Zorritos"
+          },
+          {
+            "areaName": "Casitas"
+          },
+          {
+            "areaName": "Canoas de Punta Sal"
+          }
+        ]
+      },
+      {
+        "areaName": "Zarumilla",
+        "counties": [
+          {
+            "areaName": "Zarumilla"
+          },
+          {
+            "areaName": "Aguas Verdes"
+          },
+          {
+            "areaName": "Matapalo"
+          },
+          {
+            "areaName": "Papayal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Madre de Dios",
+    "cities": [
+      {
+        "areaName": "Tambopata",
+        "counties": [
+          {
+            "areaName": "Tambopata"
+          },
+          {
+            "areaName": "Inambari"
+          },
+          {
+            "areaName": "Las Piedras"
+          },
+          {
+            "areaName": "Laberinto"
+          }
+        ]
+      },
+      {
+        "areaName": "Manu",
+        "counties": [
+          {
+            "areaName": "Manu"
+          },
+          {
+            "areaName": "Fitzcarrald"
+          },
+          {
+            "areaName": "Madre de Dios"
+          },
+          {
+            "areaName": "Huepetuhe"
+          }
+        ]
+      },
+      {
+        "areaName": "Tahuamanu",
+        "counties": [
+          {
+            "areaName": "Iñapari"
+          },
+          {
+            "areaName": "Iberia"
+          },
+          {
+            "areaName": "Tahuamanu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Ayacucho",
+    "cities": [
+      {
+        "areaName": "Huamanga",
+        "counties": [
+          {
+            "areaName": "Ayacucho"
+          },
+          {
+            "areaName": "Acocro"
+          },
+          {
+            "areaName": "Acos Vinchos"
+          },
+          {
+            "areaName": "Carmen Alto"
+          },
+          {
+            "areaName": "Chiara"
+          },
+          {
+            "areaName": "Ocros"
+          },
+          {
+            "areaName": "Pacaycasa"
+          },
+          {
+            "areaName": "Quinua"
+          },
+          {
+            "areaName": "San José de Ticllas"
+          },
+          {
+            "areaName": "San Juan Bautista"
+          },
+          {
+            "areaName": "Santiago de Pischa"
+          },
+          {
+            "areaName": "Socos"
+          },
+          {
+            "areaName": "Tambillo"
+          },
+          {
+            "areaName": "Vinchos"
+          },
+          {
+            "areaName": "Jesús Nazareno"
+          },
+          {
+            "areaName": "Andrés Avelino Cáceres Dorregaray"
+          }
+        ]
+      },
+      {
+        "areaName": "Cangallo",
+        "counties": [
+          {
+            "areaName": "Cangallo"
+          },
+          {
+            "areaName": "Chuschi"
+          },
+          {
+            "areaName": "Los Morochucos"
+          },
+          {
+            "areaName": "María Parado de Bellido"
+          },
+          {
+            "areaName": "Paras"
+          },
+          {
+            "areaName": "Totos"
+          }
+        ]
+      },
+      {
+        "areaName": "Huanca Sancos",
+        "counties": [
+          {
+            "areaName": "Sancos"
+          },
+          {
+            "areaName": "Carapo"
+          },
+          {
+            "areaName": "Sacsamarca"
+          },
+          {
+            "areaName": "Santiago de Lucanamarca"
+          }
+        ]
+      },
+      {
+        "areaName": "Huanta",
+        "counties": [
+          {
+            "areaName": "Huanta"
+          },
+          {
+            "areaName": "Ayahuanco"
+          },
+          {
+            "areaName": "Huamanguilla"
+          },
+          {
+            "areaName": "Iguain"
+          },
+          {
+            "areaName": "Luricocha"
+          },
+          {
+            "areaName": "Santillana"
+          },
+          {
+            "areaName": "Sivia"
+          },
+          {
+            "areaName": "Llochegua"
+          },
+          {
+            "areaName": "Canayre"
+          },
+          {
+            "areaName": "Uchuraccay"
+          },
+          {
+            "areaName": "Pucacolpa"
+          },
+          {
+            "areaName": "Chaca"
+          },
+          {
+            "areaName": "Putis 1/"
+          }
+        ]
+      },
+      {
+        "areaName": "La Mar",
+        "counties": [
+          {
+            "areaName": "San Miguel"
+          },
+          {
+            "areaName": "Anco"
+          },
+          {
+            "areaName": "Ayna"
+          },
+          {
+            "areaName": "Chilcas"
+          },
+          {
+            "areaName": "Chungui"
+          },
+          {
+            "areaName": "Luis Carranza"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Tambo"
+          },
+          {
+            "areaName": "Samugari"
+          },
+          {
+            "areaName": "Anchihuay"
+          },
+          {
+            "areaName": "Oronccoy"
+          },
+          {
+            "areaName": "Union Progreso 1/"
+          },
+          {
+            "areaName": "Rio Magdalena 1/"
+          },
+          {
+            "areaName": "Ninabamba 1/"
+          },
+          {
+            "areaName": "Patibamba 1/"
+          }
+        ]
+      },
+      {
+        "areaName": "Lucanas",
+        "counties": [
+          {
+            "areaName": "Puquio"
+          },
+          {
+            "areaName": "Aucara"
+          },
+          {
+            "areaName": "Cabana"
+          },
+          {
+            "areaName": "Carmen Salcedo"
+          },
+          {
+            "areaName": "Chaviña"
+          },
+          {
+            "areaName": "Chipao"
+          },
+          {
+            "areaName": "Huac-Huas"
+          },
+          {
+            "areaName": "Laramate"
+          },
+          {
+            "areaName": "Leoncio Prado"
+          },
+          {
+            "areaName": "Llauta"
+          },
+          {
+            "areaName": "Lucanas"
+          },
+          {
+            "areaName": "Ocaña"
+          },
+          {
+            "areaName": "Otoca"
+          },
+          {
+            "areaName": "Saisa"
+          },
+          {
+            "areaName": "San Cristóbal"
+          },
+          {
+            "areaName": "San Juan"
+          },
+          {
+            "areaName": "San Pedro"
+          },
+          {
+            "areaName": "San Pedro de Palco"
+          },
+          {
+            "areaName": "Sancos"
+          },
+          {
+            "areaName": "Santa Ana de Huaycahuacho"
+          },
+          {
+            "areaName": "Santa Lucia"
+          }
+        ]
+      },
+      {
+        "areaName": "Parinacochas",
+        "counties": [
+          {
+            "areaName": "Coracora"
+          },
+          {
+            "areaName": "Chumpi"
+          },
+          {
+            "areaName": "Coronel Castañeda"
+          },
+          {
+            "areaName": "Pacapausa"
+          },
+          {
+            "areaName": "Pullo"
+          },
+          {
+            "areaName": "Puyusca"
+          },
+          {
+            "areaName": "San Francisco de Rivacayco"
+          },
+          {
+            "areaName": "Upahuacho"
+          }
+        ]
+      },
+      {
+        "areaName": "Paucar del Sara Sara",
+        "counties": [
+          {
+            "areaName": "Pausa"
+          },
+          {
+            "areaName": "Colta"
+          },
+          {
+            "areaName": "Corculla"
+          },
+          {
+            "areaName": "Lampa"
+          },
+          {
+            "areaName": "Marcabamba"
+          },
+          {
+            "areaName": "Oyolo"
+          },
+          {
+            "areaName": "Pararca"
+          },
+          {
+            "areaName": "San Javier de Alpabamba"
+          },
+          {
+            "areaName": "San José de Ushua"
+          },
+          {
+            "areaName": "Sara Sara"
+          }
+        ]
+      },
+      {
+        "areaName": "Sucre",
+        "counties": [
+          {
+            "areaName": "Querobamba"
+          },
+          {
+            "areaName": "Belén"
+          },
+          {
+            "areaName": "Chalcos"
+          },
+          {
+            "areaName": "Chilcayoc"
+          },
+          {
+            "areaName": "Huacaña"
+          },
+          {
+            "areaName": "Morcolla"
+          },
+          {
+            "areaName": "Paico"
+          },
+          {
+            "areaName": "San Pedro de Larcay"
+          },
+          {
+            "areaName": "San Salvador de Quije"
+          },
+          {
+            "areaName": "Santiago de Paucaray"
+          },
+          {
+            "areaName": "Soras"
+          }
+        ]
+      },
+      {
+        "areaName": "Victor Fajardo",
+        "counties": [
+          {
+            "areaName": "Huancapi"
+          },
+          {
+            "areaName": "Alcamenca"
+          },
+          {
+            "areaName": "Apongo"
+          },
+          {
+            "areaName": "Asquipata"
+          },
+          {
+            "areaName": "Canaria"
+          },
+          {
+            "areaName": "Cayara"
+          },
+          {
+            "areaName": "Colca"
+          },
+          {
+            "areaName": "Huamanquiquia"
+          },
+          {
+            "areaName": "Huancaraylla"
+          },
+          {
+            "areaName": "Hualla"
+          },
+          {
+            "areaName": "Sarhua"
+          },
+          {
+            "areaName": "Vilcanchos"
+          }
+        ]
+      },
+      {
+        "areaName": "Vilcas Huamán",
+        "counties": [
+          {
+            "areaName": "Vilcas Huamán"
+          },
+          {
+            "areaName": "Accomarca"
+          },
+          {
+            "areaName": "Carhuanca"
+          },
+          {
+            "areaName": "Concepción"
+          },
+          {
+            "areaName": "Huambalpa"
+          },
+          {
+            "areaName": "Independencia"
+          },
+          {
+            "areaName": "Saurama"
+          },
+          {
+            "areaName": "Vischongo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Tacna",
+    "cities": [
+      {
+        "areaName": "Tacna",
+        "counties": [
+          {
+            "areaName": "Tacna"
+          },
+          {
+            "areaName": "Alto de La Alianza"
+          },
+          {
+            "areaName": "Calana"
+          },
+          {
+            "areaName": "Ciudad Nueva"
+          },
+          {
+            "areaName": "Inclán"
+          },
+          {
+            "areaName": "Pachia"
+          },
+          {
+            "areaName": "Palca"
+          },
+          {
+            "areaName": "Pocollay"
+          },
+          {
+            "areaName": "Sama"
+          },
+          {
+            "areaName": "Coronel Gregorio Albarracin Lanchipa"
+          },
+          {
+            "areaName": "La Yarada los Palos"
+          }
+        ]
+      },
+      {
+        "areaName": "Candarave",
+        "counties": [
+          {
+            "areaName": "Candarave"
+          },
+          {
+            "areaName": "Cairani"
+          },
+          {
+            "areaName": "Camilaca"
+          },
+          {
+            "areaName": "Curibaya"
+          },
+          {
+            "areaName": "Huanuara"
+          },
+          {
+            "areaName": "Quilahuani"
+          }
+        ]
+      },
+      {
+        "areaName": "Jorge Basadre",
+        "counties": [
+          {
+            "areaName": "Locumba"
+          },
+          {
+            "areaName": "Ilabaya"
+          },
+          {
+            "areaName": "Ite"
+          }
+        ]
+      },
+      {
+        "areaName": "Tarata",
+        "counties": [
+          {
+            "areaName": "Tarata"
+          },
+          {
+            "areaName": "Héroes Albarracín"
+          },
+          {
+            "areaName": "Estique"
+          },
+          {
+            "areaName": "Estique-Pampa"
+          },
+          {
+            "areaName": "Sitajara"
+          },
+          {
+            "areaName": "Susapaya"
+          },
+          {
+            "areaName": "Tarucachi"
+          },
+          {
+            "areaName": "Ticaco"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Huancavelica",
+    "cities": [
+      {
+        "areaName": "Huancavelica",
+        "counties": [
+          {
+            "areaName": "Huancavelica"
+          },
+          {
+            "areaName": "Acobambilla"
+          },
+          {
+            "areaName": "Acoria"
+          },
+          {
+            "areaName": "Conayca"
+          },
+          {
+            "areaName": "Cuenca"
+          },
+          {
+            "areaName": "Huachocolpa"
+          },
+          {
+            "areaName": "Huayllahuara"
+          },
+          {
+            "areaName": "Izcuchaca"
+          },
+          {
+            "areaName": "Laria"
+          },
+          {
+            "areaName": "Manta"
+          },
+          {
+            "areaName": "Mariscal Cáceres"
+          },
+          {
+            "areaName": "Moya"
+          },
+          {
+            "areaName": "Nuevo Occoro"
+          },
+          {
+            "areaName": "Palca"
+          },
+          {
+            "areaName": "Pilchaca"
+          },
+          {
+            "areaName": "Vilca"
+          },
+          {
+            "areaName": "Yauli"
+          },
+          {
+            "areaName": "Ascensión"
+          },
+          {
+            "areaName": "Huando"
+          }
+        ]
+      },
+      {
+        "areaName": "Acobamba",
+        "counties": [
+          {
+            "areaName": "Acobamba"
+          },
+          {
+            "areaName": "Andabamba"
+          },
+          {
+            "areaName": "Anta"
+          },
+          {
+            "areaName": "Caja"
+          },
+          {
+            "areaName": "Marcas"
+          },
+          {
+            "areaName": "Paucara"
+          },
+          {
+            "areaName": "Pomacocha"
+          },
+          {
+            "areaName": "Rosario"
+          }
+        ]
+      },
+      {
+        "areaName": "Angaraes",
+        "counties": [
+          {
+            "areaName": "Lircay"
+          },
+          {
+            "areaName": "Anchonga"
+          },
+          {
+            "areaName": "Callanmarca"
+          },
+          {
+            "areaName": "Ccochaccasa"
+          },
+          {
+            "areaName": "Chincho"
+          },
+          {
+            "areaName": "Congalla"
+          },
+          {
+            "areaName": "Huanca-Huanca"
+          },
+          {
+            "areaName": "Huayllay Grande"
+          },
+          {
+            "areaName": "Julcamarca"
+          },
+          {
+            "areaName": "San Antonio de Antaparco"
+          },
+          {
+            "areaName": "Santo Tomás de Pata"
+          },
+          {
+            "areaName": "Secclla"
+          }
+        ]
+      },
+      {
+        "areaName": "Castrovirreyna",
+        "counties": [
+          {
+            "areaName": "Castrovirreyna"
+          },
+          {
+            "areaName": "Arma"
+          },
+          {
+            "areaName": "Aurahua"
+          },
+          {
+            "areaName": "Capillas"
+          },
+          {
+            "areaName": "Chupamarca"
+          },
+          {
+            "areaName": "Cocas"
+          },
+          {
+            "areaName": "Huachos"
+          },
+          {
+            "areaName": "Huamatambo"
+          },
+          {
+            "areaName": "Mollepampa"
+          },
+          {
+            "areaName": "San Juan"
+          },
+          {
+            "areaName": "Santa Ana"
+          },
+          {
+            "areaName": "Tantara"
+          },
+          {
+            "areaName": "Ticrapo"
+          }
+        ]
+      },
+      {
+        "areaName": "Churcampa",
+        "counties": [
+          {
+            "areaName": "Churcampa"
+          },
+          {
+            "areaName": "Anco"
+          },
+          {
+            "areaName": "Chinchihuasi "
+          },
+          {
+            "areaName": "El Carmen"
+          },
+          {
+            "areaName": "La Merced"
+          },
+          {
+            "areaName": "Locroja"
+          },
+          {
+            "areaName": "Paucarbamba"
+          },
+          {
+            "areaName": "San Miguel de Mayocc"
+          },
+          {
+            "areaName": "San Pedro de Coris"
+          },
+          {
+            "areaName": "Pachamarca"
+          },
+          {
+            "areaName": "Cosme"
+          }
+        ]
+      },
+      {
+        "areaName": "Huaytará",
+        "counties": [
+          {
+            "areaName": "Huaytará"
+          },
+          {
+            "areaName": "Ayavi"
+          },
+          {
+            "areaName": "Córdova"
+          },
+          {
+            "areaName": "Huayacundo Arma"
+          },
+          {
+            "areaName": "Laramarca"
+          },
+          {
+            "areaName": "Ocoyo"
+          },
+          {
+            "areaName": "Pilpichaca"
+          },
+          {
+            "areaName": "Querco"
+          },
+          {
+            "areaName": "Quito-Arma"
+          },
+          {
+            "areaName": "San Antonio de Cusicancha"
+          },
+          {
+            "areaName": "San Francisco de Sangayaico"
+          },
+          {
+            "areaName": "San Isidro"
+          },
+          {
+            "areaName": "Santiago de Chocorvos"
+          },
+          {
+            "areaName": "Santiago de Quirahuara"
+          },
+          {
+            "areaName": "Santo Domingo de Capillas"
+          },
+          {
+            "areaName": "Tambo"
+          }
+        ]
+      },
+      {
+        "areaName": "Tayacaja",
+        "counties": [
+          {
+            "areaName": "Pampas"
+          },
+          {
+            "areaName": "Acostambo"
+          },
+          {
+            "areaName": "Acraquia"
+          },
+          {
+            "areaName": "Ahuaycha"
+          },
+          {
+            "areaName": "Colcabamba"
+          },
+          {
+            "areaName": "Daniel Hernández"
+          },
+          {
+            "areaName": "Huachocolpa"
+          },
+          {
+            "areaName": "Huaribamba"
+          },
+          {
+            "areaName": "Ñahuimpuquio"
+          },
+          {
+            "areaName": "Pazos"
+          },
+          {
+            "areaName": "Quishuar"
+          },
+          {
+            "areaName": "Salcabamba "
+          },
+          {
+            "areaName": "Salcahuasi"
+          },
+          {
+            "areaName": "San Marcos de Rocchac"
+          },
+          {
+            "areaName": "Surcubamba"
+          },
+          {
+            "areaName": "Tintay Puncu"
+          },
+          {
+            "areaName": "Quichuas"
+          },
+          {
+            "areaName": "Andaymarca"
+          },
+          {
+            "areaName": "Roble"
+          },
+          {
+            "areaName": "Pichos"
+          },
+          {
+            "areaName": "Santiago de Tucuma"
+          },
+          {
+            "areaName": "Lambras 1/"
+          },
+          {
+            "areaName": "Cochabamba 1/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Cajamarca",
+    "cities": [
+      {
+        "areaName": "Cajamarca",
+        "counties": [
+          {
+            "areaName": "Cajamarca"
+          },
+          {
+            "areaName": "Asunción"
+          },
+          {
+            "areaName": "Chetilla"
+          },
+          {
+            "areaName": "Cospán"
+          },
+          {
+            "areaName": "Encañada"
+          },
+          {
+            "areaName": "Jesús"
+          },
+          {
+            "areaName": "Llacanora"
+          },
+          {
+            "areaName": "Los Baños del Inca"
+          },
+          {
+            "areaName": "Magdalena"
+          },
+          {
+            "areaName": "Matara"
+          },
+          {
+            "areaName": "Namora"
+          },
+          {
+            "areaName": "San Juan"
+          }
+        ]
+      },
+      {
+        "areaName": "Cajabamba",
+        "counties": [
+          {
+            "areaName": "Cajabamba"
+          },
+          {
+            "areaName": "Cachachi"
+          },
+          {
+            "areaName": "Condebamba"
+          },
+          {
+            "areaName": "Sitacocha"
+          }
+        ]
+      },
+      {
+        "areaName": "Celendín",
+        "counties": [
+          {
+            "areaName": "Celendín"
+          },
+          {
+            "areaName": "Chumuch"
+          },
+          {
+            "areaName": "Cortegana"
+          },
+          {
+            "areaName": "Huasmín"
+          },
+          {
+            "areaName": "Jorge Chávez"
+          },
+          {
+            "areaName": "José Gálvez"
+          },
+          {
+            "areaName": "Miguel Iglesias"
+          },
+          {
+            "areaName": "Oxamarca"
+          },
+          {
+            "areaName": "Sorochuco"
+          },
+          {
+            "areaName": "Sucre"
+          },
+          {
+            "areaName": "Utco"
+          },
+          {
+            "areaName": "La Libertad de Pallán"
+          }
+        ]
+      },
+      {
+        "areaName": "Chota",
+        "counties": [
+          {
+            "areaName": "Chota"
+          },
+          {
+            "areaName": "Anguia"
+          },
+          {
+            "areaName": "Chadin"
+          },
+          {
+            "areaName": "Chiguirip"
+          },
+          {
+            "areaName": "Chimbán "
+          },
+          {
+            "areaName": "Choropampa"
+          },
+          {
+            "areaName": "Cochabamba"
+          },
+          {
+            "areaName": "Conchán"
+          },
+          {
+            "areaName": "Huambos"
+          },
+          {
+            "areaName": "Lajas"
+          },
+          {
+            "areaName": "Llama"
+          },
+          {
+            "areaName": "Miracosta"
+          },
+          {
+            "areaName": "Paccha"
+          },
+          {
+            "areaName": "Pion"
+          },
+          {
+            "areaName": "Querocoto"
+          },
+          {
+            "areaName": "San Juan de Licupis"
+          },
+          {
+            "areaName": "Tacabamba"
+          },
+          {
+            "areaName": "Tocmoche"
+          },
+          {
+            "areaName": "Chalamarca"
+          }
+        ]
+      },
+      {
+        "areaName": "Contumazá",
+        "counties": [
+          {
+            "areaName": "Contumazá"
+          },
+          {
+            "areaName": "Chilete"
+          },
+          {
+            "areaName": "Cupisnique"
+          },
+          {
+            "areaName": "Guzmango"
+          },
+          {
+            "areaName": "San Benito"
+          },
+          {
+            "areaName": "Santa Cruz de Toled"
+          },
+          {
+            "areaName": "Tantarica"
+          },
+          {
+            "areaName": "Yonán"
+          }
+        ]
+      },
+      {
+        "areaName": "Cutervo",
+        "counties": [
+          {
+            "areaName": "Cutervo"
+          },
+          {
+            "areaName": "Callayuc"
+          },
+          {
+            "areaName": "Choros"
+          },
+          {
+            "areaName": "Cujillo"
+          },
+          {
+            "areaName": "La Ramada"
+          },
+          {
+            "areaName": "Pimpingos"
+          },
+          {
+            "areaName": "Querocotillo"
+          },
+          {
+            "areaName": "San Andrés de Cutervo"
+          },
+          {
+            "areaName": "San Juan de Cutervo"
+          },
+          {
+            "areaName": "San Luis de Lucma"
+          },
+          {
+            "areaName": "Santa Cruz"
+          },
+          {
+            "areaName": "Santo Domingo de La Capilla"
+          },
+          {
+            "areaName": "Santo Tomás"
+          },
+          {
+            "areaName": "Socota"
+          },
+          {
+            "areaName": "Toribio Casanova"
+          }
+        ]
+      },
+      {
+        "areaName": "Hualgayoc",
+        "counties": [
+          {
+            "areaName": "Bambamarca"
+          },
+          {
+            "areaName": "Chugur"
+          },
+          {
+            "areaName": "Hualgayoc"
+          }
+        ]
+      },
+      {
+        "areaName": "Jaén",
+        "counties": [
+          {
+            "areaName": "Jaén"
+          },
+          {
+            "areaName": "Bellavista"
+          },
+          {
+            "areaName": "Chontali"
+          },
+          {
+            "areaName": "Colasay"
+          },
+          {
+            "areaName": "Huabal"
+          },
+          {
+            "areaName": "Las Pirias"
+          },
+          {
+            "areaName": "Pomahuaca"
+          },
+          {
+            "areaName": "Pucará"
+          },
+          {
+            "areaName": "Sallique"
+          },
+          {
+            "areaName": "San Felipe"
+          },
+          {
+            "areaName": "San José del Alto"
+          },
+          {
+            "areaName": "Santa Rosa"
+          }
+        ]
+      },
+      {
+        "areaName": "San Ignacio",
+        "counties": [
+          {
+            "areaName": "San Ignacio"
+          },
+          {
+            "areaName": "Chirinos"
+          },
+          {
+            "areaName": "Huarango"
+          },
+          {
+            "areaName": "La Coipa"
+          },
+          {
+            "areaName": "Namballe"
+          },
+          {
+            "areaName": "San José de Lourdes"
+          },
+          {
+            "areaName": "Tabaconas"
+          }
+        ]
+      },
+      {
+        "areaName": "San Marcos",
+        "counties": [
+          {
+            "areaName": "Pedro Gálvez"
+          },
+          {
+            "areaName": "Chancay"
+          },
+          {
+            "areaName": "Eduardo Villanueva"
+          },
+          {
+            "areaName": "Gregorio Pita"
+          },
+          {
+            "areaName": "Ichocán"
+          },
+          {
+            "areaName": "José Manuel Quiroz"
+          },
+          {
+            "areaName": "José Sabogal"
+          }
+        ]
+      },
+      {
+        "areaName": "San Miguel",
+        "counties": [
+          {
+            "areaName": "San Miguel"
+          },
+          {
+            "areaName": "Bolívar"
+          },
+          {
+            "areaName": "Calquis"
+          },
+          {
+            "areaName": "Catilluc"
+          },
+          {
+            "areaName": "El Prado"
+          },
+          {
+            "areaName": "La Florida"
+          },
+          {
+            "areaName": "Llapa"
+          },
+          {
+            "areaName": "Nanchoc"
+          },
+          {
+            "areaName": "Niepos"
+          },
+          {
+            "areaName": "San Gregorio"
+          },
+          {
+            "areaName": "San Silvestre de Cochán"
+          },
+          {
+            "areaName": "Tongod"
+          },
+          {
+            "areaName": "Unión Agua Blanca"
+          }
+        ]
+      },
+      {
+        "areaName": "San Pablo",
+        "counties": [
+          {
+            "areaName": "San Pablo"
+          },
+          {
+            "areaName": "San Bernardino"
+          },
+          {
+            "areaName": "San Luis"
+          },
+          {
+            "areaName": "Tumbadén"
+          }
+        ]
+      },
+      {
+        "areaName": "Santa Cruz",
+        "counties": [
+          {
+            "areaName": "Santa Cruz"
+          },
+          {
+            "areaName": "Andabamba"
+          },
+          {
+            "areaName": "Catache"
+          },
+          {
+            "areaName": "Chancaybaños"
+          },
+          {
+            "areaName": "La Esperanza"
+          },
+          {
+            "areaName": "Ninabamba 3/"
+          },
+          {
+            "areaName": "Pulán"
+          },
+          {
+            "areaName": "Saucepampa"
+          },
+          {
+            "areaName": "Sexi"
+          },
+          {
+            "areaName": "Uticyacu"
+          },
+          {
+            "areaName": "Yauyucán"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Ica",
+    "cities": [
+      {
+        "areaName": "Ica",
+        "counties": [
+          {
+            "areaName": "Ica"
+          },
+          {
+            "areaName": "La Tinguiña"
+          },
+          {
+            "areaName": "Los Aquijes"
+          },
+          {
+            "areaName": "Ocucaje"
+          },
+          {
+            "areaName": "Pachacútec"
+          },
+          {
+            "areaName": "Parcona"
+          },
+          {
+            "areaName": "Pueblo Nuevo"
+          },
+          {
+            "areaName": "Salas"
+          },
+          {
+            "areaName": "San José de Los Molinos"
+          },
+          {
+            "areaName": "San Juan Bautista"
+          },
+          {
+            "areaName": "Santiago"
+          },
+          {
+            "areaName": "Subtanjalla"
+          },
+          {
+            "areaName": "Tate"
+          },
+          {
+            "areaName": "Yauca Del Rosario"
+          }
+        ]
+      },
+      {
+        "areaName": "Chincha",
+        "counties": [
+          {
+            "areaName": "Chincha Alta"
+          },
+          {
+            "areaName": "Alto Laran"
+          },
+          {
+            "areaName": "Chavín"
+          },
+          {
+            "areaName": "Chincha Baja"
+          },
+          {
+            "areaName": "El Carmen"
+          },
+          {
+            "areaName": "Grocio Prado"
+          },
+          {
+            "areaName": "Pueblo Nuevo"
+          },
+          {
+            "areaName": "San Juan de Yánac"
+          },
+          {
+            "areaName": "San Pedro de Huacarpana"
+          },
+          {
+            "areaName": "Sunampe"
+          },
+          {
+            "areaName": "Tambo de Mora"
+          }
+        ]
+      },
+      {
+        "areaName": "Nasca",
+        "counties": [
+          {
+            "areaName": "Nasca"
+          },
+          {
+            "areaName": "Changuillo"
+          },
+          {
+            "areaName": "El Ingenio"
+          },
+          {
+            "areaName": "Marcona"
+          },
+          {
+            "areaName": "Vista Alegre"
+          }
+        ]
+      },
+      {
+        "areaName": "Palpa",
+        "counties": [
+          {
+            "areaName": "Palpa"
+          },
+          {
+            "areaName": "Llipata"
+          },
+          {
+            "areaName": "Río Grande"
+          },
+          {
+            "areaName": "Santa Cruz"
+          },
+          {
+            "areaName": "Tibillo"
+          }
+        ]
+      },
+      {
+        "areaName": "Pisco",
+        "counties": [
+          {
+            "areaName": "Pisco"
+          },
+          {
+            "areaName": "Huancano"
+          },
+          {
+            "areaName": "Humay"
+          },
+          {
+            "areaName": "Independencia"
+          },
+          {
+            "areaName": "Paracas"
+          },
+          {
+            "areaName": "San Andrés"
+          },
+          {
+            "areaName": "San Clemente"
+          },
+          {
+            "areaName": "Túpac Amaru Inca"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Cusco",
+    "cities": [
+      {
+        "areaName": "Cusco",
+        "counties": [
+          {
+            "areaName": "Cusco"
+          },
+          {
+            "areaName": "Ccorca"
+          },
+          {
+            "areaName": "Poroy"
+          },
+          {
+            "areaName": "San Jerónimo"
+          },
+          {
+            "areaName": "San Sebastián"
+          },
+          {
+            "areaName": "Santiago"
+          },
+          {
+            "areaName": "Saylla"
+          },
+          {
+            "areaName": "Wanchaq"
+          }
+        ]
+      },
+      {
+        "areaName": "Acomayo",
+        "counties": [
+          {
+            "areaName": "Acomayo"
+          },
+          {
+            "areaName": "Acopia"
+          },
+          {
+            "areaName": "Acos"
+          },
+          {
+            "areaName": "Mosoc Llacta"
+          },
+          {
+            "areaName": "Pomacanchi"
+          },
+          {
+            "areaName": "Rondocán"
+          },
+          {
+            "areaName": "Sangarara"
+          }
+        ]
+      },
+      {
+        "areaName": "Anta",
+        "counties": [
+          {
+            "areaName": "Anta"
+          },
+          {
+            "areaName": "Ancahuasi"
+          },
+          {
+            "areaName": "Cachimayo"
+          },
+          {
+            "areaName": "Chinchaypujio"
+          },
+          {
+            "areaName": "Huarocondo"
+          },
+          {
+            "areaName": "Limatambo"
+          },
+          {
+            "areaName": "Mollepata"
+          },
+          {
+            "areaName": "Pucyura"
+          },
+          {
+            "areaName": "Zurite"
+          }
+        ]
+      },
+      {
+        "areaName": "Calca",
+        "counties": [
+          {
+            "areaName": "Calca"
+          },
+          {
+            "areaName": "Coya"
+          },
+          {
+            "areaName": "Lamay"
+          },
+          {
+            "areaName": "Lares"
+          },
+          {
+            "areaName": "Pisac"
+          },
+          {
+            "areaName": "San Salvador"
+          },
+          {
+            "areaName": "Taray"
+          },
+          {
+            "areaName": "Yanatile"
+          }
+        ]
+      },
+      {
+        "areaName": "Canas",
+        "counties": [
+          {
+            "areaName": "Yanaoca"
+          },
+          {
+            "areaName": "Checca"
+          },
+          {
+            "areaName": "Kunturkanki"
+          },
+          {
+            "areaName": "Langui"
+          },
+          {
+            "areaName": "Layo"
+          },
+          {
+            "areaName": "Pampamarca"
+          },
+          {
+            "areaName": "Quehue"
+          },
+          {
+            "areaName": "Túpac Amaru"
+          }
+        ]
+      },
+      {
+        "areaName": "Canchis",
+        "counties": [
+          {
+            "areaName": "Sicuani"
+          },
+          {
+            "areaName": "Checacupe"
+          },
+          {
+            "areaName": "Combapata"
+          },
+          {
+            "areaName": "Marangani"
+          },
+          {
+            "areaName": "Pitumarca"
+          },
+          {
+            "areaName": "San Pablo"
+          },
+          {
+            "areaName": "San Pedro"
+          },
+          {
+            "areaName": "Tinta"
+          }
+        ]
+      },
+      {
+        "areaName": "Chumbivilcas",
+        "counties": [
+          {
+            "areaName": "Santo Tomás"
+          },
+          {
+            "areaName": "Capacmarca"
+          },
+          {
+            "areaName": "Chamaca"
+          },
+          {
+            "areaName": "Colquemarca"
+          },
+          {
+            "areaName": "Livitaca"
+          },
+          {
+            "areaName": "Llusco"
+          },
+          {
+            "areaName": "Quiñota"
+          },
+          {
+            "areaName": "Velille"
+          }
+        ]
+      },
+      {
+        "areaName": "Espinar",
+        "counties": [
+          {
+            "areaName": "Espinar"
+          },
+          {
+            "areaName": "Condoroma"
+          },
+          {
+            "areaName": "Coporaque"
+          },
+          {
+            "areaName": "Ocoruro"
+          },
+          {
+            "areaName": "Pallpata"
+          },
+          {
+            "areaName": "Pichigua"
+          },
+          {
+            "areaName": "Suyckutambo"
+          },
+          {
+            "areaName": "Alto Pichigua"
+          }
+        ]
+      },
+      {
+        "areaName": "La Convención",
+        "counties": [
+          {
+            "areaName": "Santa Ana"
+          },
+          {
+            "areaName": "Echarate"
+          },
+          {
+            "areaName": "Huayopata"
+          },
+          {
+            "areaName": "Maranura"
+          },
+          {
+            "areaName": "Ocobamba"
+          },
+          {
+            "areaName": "Quellouno"
+          },
+          {
+            "areaName": "Kimbiri"
+          },
+          {
+            "areaName": "Santa Teresa"
+          },
+          {
+            "areaName": "Vilcabamba"
+          },
+          {
+            "areaName": "Pichari"
+          },
+          {
+            "areaName": "Inkawasi"
+          },
+          {
+            "areaName": "Villa Virgen"
+          },
+          {
+            "areaName": "Villa Kintiarina"
+          },
+          {
+            "areaName": "Megantoni"
+          },
+          {
+            "areaName": "Kumpirushiato 1/"
+          },
+          {
+            "areaName": "Cielo Punco 1/"
+          },
+          {
+            "areaName": "Manitea 1/"
+          },
+          {
+            "areaName": "Unión Ashaninka 1/"
+          }
+        ]
+      },
+      {
+        "areaName": "Paruro",
+        "counties": [
+          {
+            "areaName": "Paruro"
+          },
+          {
+            "areaName": "Accha"
+          },
+          {
+            "areaName": "Ccapi"
+          },
+          {
+            "areaName": "Colcha"
+          },
+          {
+            "areaName": "Huanoquite"
+          },
+          {
+            "areaName": "Omacha"
+          },
+          {
+            "areaName": "Paccaritambo"
+          },
+          {
+            "areaName": "Pillpinto"
+          },
+          {
+            "areaName": "Yaurisque"
+          }
+        ]
+      },
+      {
+        "areaName": "Paucartambo",
+        "counties": [
+          {
+            "areaName": "Paucartambo"
+          },
+          {
+            "areaName": "Caicay"
+          },
+          {
+            "areaName": "Challabamba"
+          },
+          {
+            "areaName": "Colquepata"
+          },
+          {
+            "areaName": "Huancarani"
+          },
+          {
+            "areaName": "Kosñipata"
+          }
+        ]
+      },
+      {
+        "areaName": "Quispicanchi",
+        "counties": [
+          {
+            "areaName": "Urcos"
+          },
+          {
+            "areaName": "Andahuaylillas"
+          },
+          {
+            "areaName": "Camanti"
+          },
+          {
+            "areaName": "Ccarhuayo"
+          },
+          {
+            "areaName": "Ccatca"
+          },
+          {
+            "areaName": "Cusipata"
+          },
+          {
+            "areaName": "Huaro"
+          },
+          {
+            "areaName": "Lucre"
+          },
+          {
+            "areaName": "Marcapata"
+          },
+          {
+            "areaName": "Ocongate"
+          },
+          {
+            "areaName": "Oropesa"
+          },
+          {
+            "areaName": "Quiquijana"
+          }
+        ]
+      },
+      {
+        "areaName": "Urubamba",
+        "counties": [
+          {
+            "areaName": "Urubamba"
+          },
+          {
+            "areaName": "Chinchero"
+          },
+          {
+            "areaName": "Huayllabamba"
+          },
+          {
+            "areaName": "Machupicchu"
+          },
+          {
+            "areaName": "Maras"
+          },
+          {
+            "areaName": "Ollantaytambo"
+          },
+          {
+            "areaName": "Yucay"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "San MartÍn",
+    "cities": [
+      {
+        "areaName": "Tocache",
+        "counties": [
+          {
+            "areaName": "Santa Lucia 1/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Apurímac",
+    "cities": [
+      {
+        "areaName": "Abancay",
+        "counties": [
+          {
+            "areaName": "Abancay"
+          },
+          {
+            "areaName": "Chacoche"
+          },
+          {
+            "areaName": "Circa"
+          },
+          {
+            "areaName": "Curahuasi"
+          },
+          {
+            "areaName": "Huanipaca"
+          },
+          {
+            "areaName": "Lambrama"
+          },
+          {
+            "areaName": "Pichirhua"
+          },
+          {
+            "areaName": "San Pedro de Cachora"
+          },
+          {
+            "areaName": "Tamburco"
+          }
+        ]
+      },
+      {
+        "areaName": "Andahuaylas",
+        "counties": [
+          {
+            "areaName": "Andahuaylas"
+          },
+          {
+            "areaName": "Andarapa"
+          },
+          {
+            "areaName": "Chiara"
+          },
+          {
+            "areaName": "Huancarama"
+          },
+          {
+            "areaName": "Huancaray"
+          },
+          {
+            "areaName": "Huayana"
+          },
+          {
+            "areaName": "Kishuara"
+          },
+          {
+            "areaName": "Pacobamba"
+          },
+          {
+            "areaName": "Pacucha"
+          },
+          {
+            "areaName": "Pampachiri"
+          },
+          {
+            "areaName": "Pomacocha"
+          },
+          {
+            "areaName": "San Antonio de Cachi"
+          },
+          {
+            "areaName": "San Jerónimo"
+          },
+          {
+            "areaName": "San Miguel de Chaccrampa"
+          },
+          {
+            "areaName": "Santa María de Chicmo"
+          },
+          {
+            "areaName": "Talavera"
+          },
+          {
+            "areaName": "Tumay Huaraca"
+          },
+          {
+            "areaName": "Turpo"
+          },
+          {
+            "areaName": "Kaquiabamba"
+          },
+          {
+            "areaName": "José María Arguedas"
+          }
+        ]
+      },
+      {
+        "areaName": "Antabamba",
+        "counties": [
+          {
+            "areaName": "Antabamba"
+          },
+          {
+            "areaName": "El Oro"
+          },
+          {
+            "areaName": "Huaquirca"
+          },
+          {
+            "areaName": "Juan Espinoza Medrano"
+          },
+          {
+            "areaName": "Oropesa"
+          },
+          {
+            "areaName": "Pachaconas"
+          },
+          {
+            "areaName": "Sabaino"
+          }
+        ]
+      },
+      {
+        "areaName": "Aymaraes",
+        "counties": [
+          {
+            "areaName": "Chalhuanca"
+          },
+          {
+            "areaName": "Capaya"
+          },
+          {
+            "areaName": "Caraybamba"
+          },
+          {
+            "areaName": "Chapimarca"
+          },
+          {
+            "areaName": "Colcabamba"
+          },
+          {
+            "areaName": "Cotaruse"
+          },
+          {
+            "areaName": "Ihuayllo"
+          },
+          {
+            "areaName": "Justo Apu Sahuaraura"
+          },
+          {
+            "areaName": "Lucre"
+          },
+          {
+            "areaName": "Pocohuanca"
+          },
+          {
+            "areaName": "San Juan de Chacña"
+          },
+          {
+            "areaName": "Sañayca"
+          },
+          {
+            "areaName": "Soraya"
+          },
+          {
+            "areaName": "Tapairihua"
+          },
+          {
+            "areaName": "Tintay"
+          },
+          {
+            "areaName": "Toraya"
+          },
+          {
+            "areaName": "Yanaca"
+          }
+        ]
+      },
+      {
+        "areaName": "Cotabambas",
+        "counties": [
+          {
+            "areaName": "Tambobamba"
+          },
+          {
+            "areaName": "Cotabambas"
+          },
+          {
+            "areaName": "Coyllurqui"
+          },
+          {
+            "areaName": "Haquira"
+          },
+          {
+            "areaName": "Mara"
+          },
+          {
+            "areaName": "Challhuahuacho"
+          }
+        ]
+      },
+      {
+        "areaName": "Chincheros",
+        "counties": [
+          {
+            "areaName": "Chincheros"
+          },
+          {
+            "areaName": "Anco-Huallo"
+          },
+          {
+            "areaName": "Cocharcas"
+          },
+          {
+            "areaName": "Huaccana"
+          },
+          {
+            "areaName": "Ocobamba"
+          },
+          {
+            "areaName": "Ongoy"
+          },
+          {
+            "areaName": "Uranmarca"
+          },
+          {
+            "areaName": "Ranracancha"
+          },
+          {
+            "areaName": "Rocchacc"
+          },
+          {
+            "areaName": "El Porvenir"
+          },
+          {
+            "areaName": "Los Chankas"
+          }
+        ]
+      },
+      {
+        "areaName": "Grau",
+        "counties": [
+          {
+            "areaName": "Chuquibambilla"
+          },
+          {
+            "areaName": "Curpahuasi"
+          },
+          {
+            "areaName": "Gamarra"
+          },
+          {
+            "areaName": "Huayllati"
+          },
+          {
+            "areaName": "Mamara"
+          },
+          {
+            "areaName": "Micaela Bastidas"
+          },
+          {
+            "areaName": "Pataypampa"
+          },
+          {
+            "areaName": "Progreso"
+          },
+          {
+            "areaName": "San Antonio"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Turpay"
+          },
+          {
+            "areaName": "Vilcabamba"
+          },
+          {
+            "areaName": "Virundo"
+          },
+          {
+            "areaName": "Curasco"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Callao",
+    "cities": [
+      {
+        "areaName": "Callao",
+        "counties": [
+          {
+            "areaName": "Callao"
+          },
+          {
+            "areaName": "Bellavista"
+          },
+          {
+            "areaName": "Carmen de La Legua Reynoso"
+          },
+          {
+            "areaName": "La Perla"
+          },
+          {
+            "areaName": "La Punta"
+          },
+          {
+            "areaName": "Ventanilla"
+          },
+          {
+            "areaName": "Mi Perú"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Piura",
+    "cities": [
+      {
+        "areaName": "Piura",
+        "counties": [
+          {
+            "areaName": "Piura"
+          },
+          {
+            "areaName": "Castilla"
+          },
+          {
+            "areaName": "Catacaos"
+          },
+          {
+            "areaName": "Cura Mori"
+          },
+          {
+            "areaName": "El Tallán"
+          },
+          {
+            "areaName": "La Arena"
+          },
+          {
+            "areaName": "La Unión"
+          },
+          {
+            "areaName": "Las Lomas"
+          },
+          {
+            "areaName": "Tambo Grande"
+          },
+          {
+            "areaName": "Veintiséis de Octubre"
+          }
+        ]
+      },
+      {
+        "areaName": "Ayabaca",
+        "counties": [
+          {
+            "areaName": "Ayabaca"
+          },
+          {
+            "areaName": "Frías"
+          },
+          {
+            "areaName": "Jilili"
+          },
+          {
+            "areaName": "Lagunas"
+          },
+          {
+            "areaName": "Montero"
+          },
+          {
+            "areaName": "Pacaipampa"
+          },
+          {
+            "areaName": "Paimas"
+          },
+          {
+            "areaName": "Sapillica"
+          },
+          {
+            "areaName": "Sicchez"
+          },
+          {
+            "areaName": "Suyo"
+          }
+        ]
+      },
+      {
+        "areaName": "Huancabamba",
+        "counties": [
+          {
+            "areaName": "Huancabamba"
+          },
+          {
+            "areaName": "Canchaque"
+          },
+          {
+            "areaName": "El Carmen de La Frontera"
+          },
+          {
+            "areaName": "Huarmaca"
+          },
+          {
+            "areaName": "Lalaquiz"
+          },
+          {
+            "areaName": "San Miguel de El Faique"
+          },
+          {
+            "areaName": "Sondor"
+          },
+          {
+            "areaName": "Sondorillo"
+          }
+        ]
+      },
+      {
+        "areaName": "Morropón",
+        "counties": [
+          {
+            "areaName": "Chulucanas"
+          },
+          {
+            "areaName": "Buenos Aires"
+          },
+          {
+            "areaName": "Chalaco"
+          },
+          {
+            "areaName": "La Matanza"
+          },
+          {
+            "areaName": "Morropón"
+          },
+          {
+            "areaName": "Salitral"
+          },
+          {
+            "areaName": "San Juan de Bigote"
+          },
+          {
+            "areaName": "Santa Catalina de Mossa"
+          },
+          {
+            "areaName": "Santo Domingo"
+          },
+          {
+            "areaName": "Yamango"
+          }
+        ]
+      },
+      {
+        "areaName": "Paita",
+        "counties": [
+          {
+            "areaName": "Paita"
+          },
+          {
+            "areaName": "Amotape"
+          },
+          {
+            "areaName": "Arenal"
+          },
+          {
+            "areaName": "Colan"
+          },
+          {
+            "areaName": "La Huaca"
+          },
+          {
+            "areaName": "Tamarindo"
+          },
+          {
+            "areaName": "Vichayal"
+          }
+        ]
+      },
+      {
+        "areaName": "Sullana",
+        "counties": [
+          {
+            "areaName": "Sullana"
+          },
+          {
+            "areaName": "Bellavista"
+          },
+          {
+            "areaName": "Ignacio Escudero"
+          },
+          {
+            "areaName": "Lancones"
+          },
+          {
+            "areaName": "Marcavelica"
+          },
+          {
+            "areaName": "Miguel Checa"
+          },
+          {
+            "areaName": "Querecotillo"
+          },
+          {
+            "areaName": "Salitral"
+          }
+        ]
+      },
+      {
+        "areaName": "Talara",
+        "counties": [
+          {
+            "areaName": "Pariñas"
+          },
+          {
+            "areaName": "El Alto"
+          },
+          {
+            "areaName": "La Brea"
+          },
+          {
+            "areaName": "Lobitos"
+          },
+          {
+            "areaName": "Los Órganos"
+          },
+          {
+            "areaName": "Máncora"
+          }
+        ]
+      },
+      {
+        "areaName": "Sechura",
+        "counties": [
+          {
+            "areaName": "Sechura"
+          },
+          {
+            "areaName": "Bellavista de La Unión"
+          },
+          {
+            "areaName": "Bernal"
+          },
+          {
+            "areaName": "Cristo Nos Valga"
+          },
+          {
+            "areaName": "Vice"
+          },
+          {
+            "areaName": "Rinconada Llicuar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Amazonas",
+    "cities": [
+      {
+        "areaName": "Chachapoyas",
+        "counties": [
+          {
+            "areaName": "Chachapoyas"
+          },
+          {
+            "areaName": "Asunción"
+          },
+          {
+            "areaName": "Balsas"
+          },
+          {
+            "areaName": "Cheto"
+          },
+          {
+            "areaName": "Chiliquín"
+          },
+          {
+            "areaName": "Chuquibamba"
+          },
+          {
+            "areaName": "Granada"
+          },
+          {
+            "areaName": "Huancas"
+          },
+          {
+            "areaName": "La Jalca"
+          },
+          {
+            "areaName": "Leimebamba"
+          },
+          {
+            "areaName": "Levanto"
+          },
+          {
+            "areaName": "Magdalena"
+          },
+          {
+            "areaName": "Mariscal Castilla"
+          },
+          {
+            "areaName": "Molinopampa"
+          },
+          {
+            "areaName": "Montevideo"
+          },
+          {
+            "areaName": "Olleros"
+          },
+          {
+            "areaName": "Quinjalca"
+          },
+          {
+            "areaName": "San Francisco de Daguas"
+          },
+          {
+            "areaName": "San Isidro de Maino"
+          },
+          {
+            "areaName": "Soloco"
+          },
+          {
+            "areaName": "Sonche"
+          }
+        ]
+      },
+      {
+        "areaName": "Bagua",
+        "counties": [
+          {
+            "areaName": "Bagua"
+          },
+          {
+            "areaName": "Aramango"
+          },
+          {
+            "areaName": "Copallín"
+          },
+          {
+            "areaName": "El Parco"
+          },
+          {
+            "areaName": "Imaza"
+          },
+          {
+            "areaName": "La Peca"
+          }
+        ]
+      },
+      {
+        "areaName": "Bongará",
+        "counties": [
+          {
+            "areaName": "Jumbilla"
+          },
+          {
+            "areaName": "Chisquilla"
+          },
+          {
+            "areaName": "Churuja"
+          },
+          {
+            "areaName": "Corosha"
+          },
+          {
+            "areaName": "Cuispes"
+          },
+          {
+            "areaName": "Florida"
+          },
+          {
+            "areaName": "Jazán"
+          },
+          {
+            "areaName": "Recta "
+          },
+          {
+            "areaName": "San Carlos"
+          },
+          {
+            "areaName": "Shipasbamba"
+          },
+          {
+            "areaName": "Valera"
+          },
+          {
+            "areaName": "Yambrasbamba"
+          }
+        ]
+      },
+      {
+        "areaName": "Condorcanqui",
+        "counties": [
+          {
+            "areaName": "Nieva"
+          },
+          {
+            "areaName": "El Cenepa"
+          },
+          {
+            "areaName": "Río Santiago"
+          }
+        ]
+      },
+      {
+        "areaName": "Luya",
+        "counties": [
+          {
+            "areaName": "Lámud"
+          },
+          {
+            "areaName": "Camporredondo"
+          },
+          {
+            "areaName": "Cocabamba"
+          },
+          {
+            "areaName": "Colcamar"
+          },
+          {
+            "areaName": "Conila"
+          },
+          {
+            "areaName": "Inguilpata"
+          },
+          {
+            "areaName": "Longuita"
+          },
+          {
+            "areaName": "Lonya Chico"
+          },
+          {
+            "areaName": "Luya"
+          },
+          {
+            "areaName": "Luya Viejo"
+          },
+          {
+            "areaName": "María"
+          },
+          {
+            "areaName": "Ocalli"
+          },
+          {
+            "areaName": "Ocumal"
+          },
+          {
+            "areaName": "Pisuquia"
+          },
+          {
+            "areaName": "Providencia"
+          },
+          {
+            "areaName": "San Cristóbal"
+          },
+          {
+            "areaName": "San Francisco del Yeso"
+          },
+          {
+            "areaName": "San Jerónimo"
+          },
+          {
+            "areaName": "San Juan de Lopecancha"
+          },
+          {
+            "areaName": "Santa Catalina"
+          },
+          {
+            "areaName": "Santo Tomás"
+          },
+          {
+            "areaName": "Tingo"
+          },
+          {
+            "areaName": "Trita"
+          }
+        ]
+      },
+      {
+        "areaName": "Rodríguez de Mendoza",
+        "counties": [
+          {
+            "areaName": "San Nicolás"
+          },
+          {
+            "areaName": "Chirimoto"
+          },
+          {
+            "areaName": "Cochamal"
+          },
+          {
+            "areaName": "Huambo"
+          },
+          {
+            "areaName": "Limabamba"
+          },
+          {
+            "areaName": "Longar"
+          },
+          {
+            "areaName": "Mariscal Benavides"
+          },
+          {
+            "areaName": "Milpuc"
+          },
+          {
+            "areaName": "Omia"
+          },
+          {
+            "areaName": "Santa Rosa"
+          },
+          {
+            "areaName": "Totora"
+          },
+          {
+            "areaName": "Vista Alegre"
+          }
+        ]
+      },
+      {
+        "areaName": "Utcubamba",
+        "counties": [
+          {
+            "areaName": "Bagua Grande"
+          },
+          {
+            "areaName": "Cajaruro"
+          },
+          {
+            "areaName": "Cumba"
+          },
+          {
+            "areaName": "El Milagro"
+          },
+          {
+            "areaName": "Jamalca"
+          },
+          {
+            "areaName": "Lonya Grande"
+          },
+          {
+            "areaName": "Yamón"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Huánuco",
+    "cities": [
+      {
+        "areaName": "Huánuco",
+        "counties": [
+          {
+            "areaName": "Huánuco"
+          },
+          {
+            "areaName": "Amarilis"
+          },
+          {
+            "areaName": "Chinchao"
+          },
+          {
+            "areaName": "Churubamba"
+          },
+          {
+            "areaName": "Margos"
+          },
+          {
+            "areaName": "Quisqui"
+          },
+          {
+            "areaName": "San Francisco de Cayrán"
+          },
+          {
+            "areaName": "San Pedro de Chaulan"
+          },
+          {
+            "areaName": "Santa María del Valle"
+          },
+          {
+            "areaName": "Yarumayo"
+          },
+          {
+            "areaName": "Pillco Marca"
+          },
+          {
+            "areaName": "Yacus"
+          },
+          {
+            "areaName": "San Pablo de Pillao"
+          }
+        ]
+      },
+      {
+        "areaName": "Ambo",
+        "counties": [
+          {
+            "areaName": "Ambo"
+          },
+          {
+            "areaName": "Cayna"
+          },
+          {
+            "areaName": "Colpas"
+          },
+          {
+            "areaName": "Conchamarca"
+          },
+          {
+            "areaName": "Huacar"
+          },
+          {
+            "areaName": "San Francisco"
+          },
+          {
+            "areaName": "San Rafael"
+          },
+          {
+            "areaName": "Tomay Kichwa"
+          }
+        ]
+      },
+      {
+        "areaName": "Dos de Mayo",
+        "counties": [
+          {
+            "areaName": "La Unión"
+          },
+          {
+            "areaName": "Chuquis"
+          },
+          {
+            "areaName": "Marías"
+          },
+          {
+            "areaName": "Pachas"
+          },
+          {
+            "areaName": "Quivilla"
+          },
+          {
+            "areaName": "Ripan"
+          },
+          {
+            "areaName": "Shunqui"
+          },
+          {
+            "areaName": "Sillapata"
+          },
+          {
+            "areaName": "Yanas"
+          }
+        ]
+      },
+      {
+        "areaName": "Huacaybamba",
+        "counties": [
+          {
+            "areaName": "Huacaybamba"
+          },
+          {
+            "areaName": "Canchabamba"
+          },
+          {
+            "areaName": "Cochabamba"
+          },
+          {
+            "areaName": "Pinra"
+          }
+        ]
+      },
+      {
+        "areaName": "Huamalíes",
+        "counties": [
+          {
+            "areaName": "Llata"
+          },
+          {
+            "areaName": "Arancay"
+          },
+          {
+            "areaName": "Chavín de Pariarca"
+          },
+          {
+            "areaName": "Jacas Grande"
+          },
+          {
+            "areaName": "Jircan"
+          },
+          {
+            "areaName": "Miraflores"
+          },
+          {
+            "areaName": "Monzón"
+          },
+          {
+            "areaName": "Punchao"
+          },
+          {
+            "areaName": "Puños"
+          },
+          {
+            "areaName": "Singa"
+          },
+          {
+            "areaName": "Tantamayo"
+          }
+        ]
+      },
+      {
+        "areaName": "Leoncio Prado",
+        "counties": [
+          {
+            "areaName": "Rupa-Rupa"
+          },
+          {
+            "areaName": "Daniel Alomia Robles"
+          },
+          {
+            "areaName": "Hermilio Valdizán"
+          },
+          {
+            "areaName": "José Crespo y Castillo"
+          },
+          {
+            "areaName": "Luyando"
+          },
+          {
+            "areaName": "Mariano Damaso Beraún"
+          },
+          {
+            "areaName": "Pucayacu"
+          },
+          {
+            "areaName": "Castillo Grande"
+          },
+          {
+            "areaName": "Pueblo Nuevo"
+          },
+          {
+            "areaName": "Santo Domingo de Anda"
+          }
+        ]
+      },
+      {
+        "areaName": "Marañon",
+        "counties": [
+          {
+            "areaName": "Huacrachuco"
+          },
+          {
+            "areaName": "Cholón"
+          },
+          {
+            "areaName": "San Buenaventura"
+          },
+          {
+            "areaName": "La Morada"
+          },
+          {
+            "areaName": "Santa Rosa de Alto Yanajanca"
+          }
+        ]
+      },
+      {
+        "areaName": "Pachitea",
+        "counties": [
+          {
+            "areaName": "Panao"
+          },
+          {
+            "areaName": "Chaglla"
+          },
+          {
+            "areaName": "Molino"
+          },
+          {
+            "areaName": "Umari"
+          }
+        ]
+      },
+      {
+        "areaName": "Puerto Inca",
+        "counties": [
+          {
+            "areaName": "Puerto Inca"
+          },
+          {
+            "areaName": "Codo del Pozuzo"
+          },
+          {
+            "areaName": "Honoria"
+          },
+          {
+            "areaName": "Tournavista"
+          },
+          {
+            "areaName": "Yuyapichis"
+          }
+        ]
+      },
+      {
+        "areaName": "Lauricocha",
+        "counties": [
+          {
+            "areaName": "Jesús"
+          },
+          {
+            "areaName": "Baños"
+          },
+          {
+            "areaName": "Jivia"
+          },
+          {
+            "areaName": "Queropalca"
+          },
+          {
+            "areaName": "Rondos"
+          },
+          {
+            "areaName": "San Francisco de Asis"
+          },
+          {
+            "areaName": "San Miguel de Cauri"
+          }
+        ]
+      },
+      {
+        "areaName": "Yarowilca",
+        "counties": [
+          {
+            "areaName": "Chavinillo"
+          },
+          {
+            "areaName": "Cahuac"
+          },
+          {
+            "areaName": "Chacabamba"
+          },
+          {
+            "areaName": "Aparicio Pomares "
+          },
+          {
+            "areaName": "Jacas Chico"
+          },
+          {
+            "areaName": "Obas"
+          },
+          {
+            "areaName": "Pampamarca"
+          },
+          {
+            "areaName": "Choras"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Arequipa",
+    "cities": [
+      {
+        "areaName": "Arequipa",
+        "counties": [
+          {
+            "areaName": "Arequipa"
+          },
+          {
+            "areaName": "Alto Selva Alegre"
+          },
+          {
+            "areaName": "Cayma"
+          },
+          {
+            "areaName": "Cerro Colorado"
+          },
+          {
+            "areaName": "Characato"
+          },
+          {
+            "areaName": "Chiguata"
+          },
+          {
+            "areaName": "Jacobo Hunter"
+          },
+          {
+            "areaName": "La Joya"
+          },
+          {
+            "areaName": "Mariano Melgar"
+          },
+          {
+            "areaName": "Miraflores"
+          },
+          {
+            "areaName": "Mollebaya"
+          },
+          {
+            "areaName": "Paucarpata"
+          },
+          {
+            "areaName": "Pocsi"
+          },
+          {
+            "areaName": "Polobaya"
+          },
+          {
+            "areaName": "Quequeña"
+          },
+          {
+            "areaName": "Sabandia"
+          },
+          {
+            "areaName": "Sachaca"
+          },
+          {
+            "areaName": "San Juan de Siguas"
+          },
+          {
+            "areaName": "San Juan de Tarucani"
+          },
+          {
+            "areaName": "Santa Isabel de Siguas"
+          },
+          {
+            "areaName": "Santa Rita de Siguas"
+          },
+          {
+            "areaName": "Socabaya"
+          },
+          {
+            "areaName": "Tiabaya"
+          },
+          {
+            "areaName": "Uchumayo"
+          },
+          {
+            "areaName": "Vitor"
+          },
+          {
+            "areaName": "Yanahuara"
+          },
+          {
+            "areaName": "Yarabamba"
+          },
+          {
+            "areaName": "Yura"
+          },
+          {
+            "areaName": "José Luis Bustamante y Rivero"
+          }
+        ]
+      },
+      {
+        "areaName": "Camaná",
+        "counties": [
+          {
+            "areaName": "Camaná"
+          },
+          {
+            "areaName": "José María Quimper"
+          },
+          {
+            "areaName": "Mariano Nicolás Valcárcel"
+          },
+          {
+            "areaName": "Mariscal Cáceres"
+          },
+          {
+            "areaName": "Nicolás de Piérola"
+          },
+          {
+            "areaName": "Ocoña"
+          },
+          {
+            "areaName": "Quilca"
+          },
+          {
+            "areaName": "Samuel Pastor"
+          }
+        ]
+      },
+      {
+        "areaName": "Caravelí",
+        "counties": [
+          {
+            "areaName": "Caravelí"
+          },
+          {
+            "areaName": "Acari"
+          },
+          {
+            "areaName": "Atico"
+          },
+          {
+            "areaName": "Atiquipa"
+          },
+          {
+            "areaName": "Bella Unión"
+          },
+          {
+            "areaName": "Cahuacho"
+          },
+          {
+            "areaName": "Chala"
+          },
+          {
+            "areaName": "Chaparra"
+          },
+          {
+            "areaName": "Huanuhuanu"
+          },
+          {
+            "areaName": "Jaqui"
+          },
+          {
+            "areaName": "Lomas"
+          },
+          {
+            "areaName": "Quicacha"
+          },
+          {
+            "areaName": "Yauca"
+          }
+        ]
+      },
+      {
+        "areaName": "Castilla",
+        "counties": [
+          {
+            "areaName": "Aplao"
+          },
+          {
+            "areaName": "Andagua"
+          },
+          {
+            "areaName": "Ayo"
+          },
+          {
+            "areaName": "Chachas"
+          },
+          {
+            "areaName": "Chilcaymarca"
+          },
+          {
+            "areaName": "Choco"
+          },
+          {
+            "areaName": "Huancarqui"
+          },
+          {
+            "areaName": "Machaguay"
+          },
+          {
+            "areaName": "Orcopampa"
+          },
+          {
+            "areaName": "Pampacolca"
+          },
+          {
+            "areaName": "Tipán"
+          },
+          {
+            "areaName": "Uñón"
+          },
+          {
+            "areaName": "Uraca"
+          },
+          {
+            "areaName": "Viraco"
+          }
+        ]
+      },
+      {
+        "areaName": "Caylloma",
+        "counties": [
+          {
+            "areaName": "Chivay"
+          },
+          {
+            "areaName": "Achoma"
+          },
+          {
+            "areaName": "Cabanaconde"
+          },
+          {
+            "areaName": "Callalli"
+          },
+          {
+            "areaName": "Caylloma"
+          },
+          {
+            "areaName": "Coporaque"
+          },
+          {
+            "areaName": "Huambo"
+          },
+          {
+            "areaName": "Huanca"
+          },
+          {
+            "areaName": "Ichupampa"
+          },
+          {
+            "areaName": "Lari "
+          },
+          {
+            "areaName": "Lluta"
+          },
+          {
+            "areaName": "Maca"
+          },
+          {
+            "areaName": "Madrigal"
+          },
+          {
+            "areaName": "San Antonio de Chuca"
+          },
+          {
+            "areaName": "Sibayo"
+          },
+          {
+            "areaName": "Tapay"
+          },
+          {
+            "areaName": "Tisco"
+          },
+          {
+            "areaName": "Tuti"
+          },
+          {
+            "areaName": "Yanque"
+          },
+          {
+            "areaName": "Majes"
+          }
+        ]
+      },
+      {
+        "areaName": "Condesuyos",
+        "counties": [
+          {
+            "areaName": "Chuquibamba"
+          },
+          {
+            "areaName": "Andaray"
+          },
+          {
+            "areaName": "Cayarani"
+          },
+          {
+            "areaName": "Chichas"
+          },
+          {
+            "areaName": "Iray"
+          },
+          {
+            "areaName": "Río Grande"
+          },
+          {
+            "areaName": "Salamanca"
+          },
+          {
+            "areaName": "Yanaquihua"
+          }
+        ]
+      },
+      {
+        "areaName": "Islay",
+        "counties": [
+          {
+            "areaName": "Mollendo"
+          },
+          {
+            "areaName": "Cocachacra"
+          },
+          {
+            "areaName": "Dean Valdivia"
+          },
+          {
+            "areaName": "Islay"
+          },
+          {
+            "areaName": "Mejía"
+          },
+          {
+            "areaName": "Punta de Bombón"
+          }
+        ]
+      },
+      {
+        "areaName": "La Unión",
+        "counties": [
+          {
+            "areaName": "Cotahuasi"
+          },
+          {
+            "areaName": "Alca"
+          },
+          {
+            "areaName": "Charcana"
+          },
+          {
+            "areaName": "Huaynacotas"
+          },
+          {
+            "areaName": "Pampamarca"
+          },
+          {
+            "areaName": "Puyca"
+          },
+          {
+            "areaName": "Quechualla"
+          },
+          {
+            "areaName": "Sayla"
+          },
+          {
+            "areaName": "Tauria"
+          },
+          {
+            "areaName": "Tomepampa"
+          },
+          {
+            "areaName": "Toro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "Pasco",
+    "cities": [
+      {
+        "areaName": "Pasco",
+        "counties": [
+          {
+            "areaName": "Chaupimarca"
+          },
+          {
+            "areaName": "Huachón"
+          },
+          {
+            "areaName": "Huariaca"
+          },
+          {
+            "areaName": "Huayllay"
+          },
+          {
+            "areaName": "Ninacaca"
+          },
+          {
+            "areaName": "Pallanchacra"
+          },
+          {
+            "areaName": "Paucartambo"
+          },
+          {
+            "areaName": "San Francisco de Asís de Yarusyacán"
+          },
+          {
+            "areaName": "Simón Bolívar"
+          },
+          {
+            "areaName": "Ticlacayan"
+          },
+          {
+            "areaName": "Tinyahuarco"
+          },
+          {
+            "areaName": "Vicco"
+          },
+          {
+            "areaName": "Yanacancha"
+          }
+        ]
+      },
+      {
+        "areaName": "Daniel Alcides Carrión",
+        "counties": [
+          {
+            "areaName": "Yanahuanca"
+          },
+          {
+            "areaName": "Chacayan"
+          },
+          {
+            "areaName": "Goyllarisquizga"
+          },
+          {
+            "areaName": "Paucar"
+          },
+          {
+            "areaName": "San Pedro de Pillao"
+          },
+          {
+            "areaName": "Santa Ana de Tusi"
+          },
+          {
+            "areaName": "Tapuc"
+          },
+          {
+            "areaName": "Vilcabamba"
+          }
+        ]
+      },
+      {
+        "areaName": "Oxapampa",
+        "counties": [
+          {
+            "areaName": "Oxapampa"
+          },
+          {
+            "areaName": "Chontabamba"
+          },
+          {
+            "areaName": "Huancabamba"
+          },
+          {
+            "areaName": "Palcazu"
+          },
+          {
+            "areaName": "Pozuzo"
+          },
+          {
+            "areaName": "Puerto Bermúdez"
+          },
+          {
+            "areaName": "Villa Rica"
+          },
+          {
+            "areaName": "Constitución"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "ApurÍmac",
+    "cities": [
+      {
+        "areaName": "Chincheros",
+        "counties": [
+          {
+            "areaName": "Ahuayro 1/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "areaName": "La Libertad",
+    "cities": [
+      {
+        "areaName": "Trujillo",
+        "counties": [
+          {
+            "areaName": "Trujillo"
+          },
+          {
+            "areaName": "El Porvenir"
+          },
+          {
+            "areaName": "Florencia de Mora"
+          },
+          {
+            "areaName": "Huanchaco"
+          },
+          {
+            "areaName": "La Esperanza"
+          },
+          {
+            "areaName": "Laredo"
+          },
+          {
+            "areaName": "Moche"
+          },
+          {
+            "areaName": "Poroto"
+          },
+          {
+            "areaName": "Salaverry"
+          },
+          {
+            "areaName": "Simbal"
+          },
+          {
+            "areaName": "Victor Larco Herrera"
+          },
+          {
+            "areaName": "Alto Trujillo 2/"
+          }
+        ]
+      },
+      {
+        "areaName": "Ascope",
+        "counties": [
+          {
+            "areaName": "Ascope"
+          },
+          {
+            "areaName": "Chicama"
+          },
+          {
+            "areaName": "Chocope"
+          },
+          {
+            "areaName": "Magdalena de Cao"
+          },
+          {
+            "areaName": "Paiján"
+          },
+          {
+            "areaName": "Rázuri"
+          },
+          {
+            "areaName": "Santiago de Cao"
+          },
+          {
+            "areaName": "Casa Grande"
+          }
+        ]
+      },
+      {
+        "areaName": "Bolívar",
+        "counties": [
+          {
+            "areaName": "Bolívar"
+          },
+          {
+            "areaName": "Bambamarca"
+          },
+          {
+            "areaName": "Condormarca"
+          },
+          {
+            "areaName": "Longotea"
+          },
+          {
+            "areaName": "Uchumarca"
+          },
+          {
+            "areaName": "Ucuncha"
+          }
+        ]
+      },
+      {
+        "areaName": "Chepén",
+        "counties": [
+          {
+            "areaName": "Chepén"
+          },
+          {
+            "areaName": "Pacanga"
+          },
+          {
+            "areaName": "Pueblo Nuevo"
+          }
+        ]
+      },
+      {
+        "areaName": "Julcán",
+        "counties": [
+          {
+            "areaName": "Julcán"
+          },
+          {
+            "areaName": "Calamarca"
+          },
+          {
+            "areaName": "Carabamba"
+          },
+          {
+            "areaName": "Huaso"
+          }
+        ]
+      },
+      {
+        "areaName": "Otuzco",
+        "counties": [
+          {
+            "areaName": "Otuzco"
+          },
+          {
+            "areaName": "Agallpampa"
+          },
+          {
+            "areaName": "Charat"
+          },
+          {
+            "areaName": "Huaranchal"
+          },
+          {
+            "areaName": "La Cuesta"
+          },
+          {
+            "areaName": "Mache"
+          },
+          {
+            "areaName": "Paranday"
+          },
+          {
+            "areaName": "Salpo"
+          },
+          {
+            "areaName": "Sinsicap"
+          },
+          {
+            "areaName": "Usquil"
+          }
+        ]
+      },
+      {
+        "areaName": "Pacasmayo",
+        "counties": [
+          {
+            "areaName": "San Pedro de Lloc"
+          },
+          {
+            "areaName": "Guadalupe"
+          },
+          {
+            "areaName": "Jequetepeque"
+          },
+          {
+            "areaName": "Pacasmayo"
+          },
+          {
+            "areaName": "San José"
+          }
+        ]
+      },
+      {
+        "areaName": "Pataz",
+        "counties": [
+          {
+            "areaName": "Tayabamba"
+          },
+          {
+            "areaName": "Buldibuyo"
+          },
+          {
+            "areaName": "Chillia"
+          },
+          {
+            "areaName": "Huancaspata"
+          },
+          {
+            "areaName": "Huaylillas"
+          },
+          {
+            "areaName": "Huayo"
+          },
+          {
+            "areaName": "Ongon"
+          },
+          {
+            "areaName": "Parcoy"
+          },
+          {
+            "areaName": "Pataz"
+          },
+          {
+            "areaName": "Pias"
+          },
+          {
+            "areaName": "Santiago de Challas"
+          },
+          {
+            "areaName": "Taurija"
+          },
+          {
+            "areaName": "Urpay"
+          }
+        ]
+      },
+      {
+        "areaName": "Sánchez Carrión",
+        "counties": [
+          {
+            "areaName": "Huamachuco"
+          },
+          {
+            "areaName": "Chugay"
+          },
+          {
+            "areaName": "Cochorco"
+          },
+          {
+            "areaName": "Curgos"
+          },
+          {
+            "areaName": "Marcabal"
+          },
+          {
+            "areaName": "Sanagoran"
+          },
+          {
+            "areaName": "Sarín"
+          },
+          {
+            "areaName": "Sartimbamba"
+          }
+        ]
+      },
+      {
+        "areaName": "Santiago De Chuco",
+        "counties": [
+          {
+            "areaName": "Santiago De Chuco"
+          },
+          {
+            "areaName": "Angasmarca"
+          },
+          {
+            "areaName": "Cachicadan"
+          },
+          {
+            "areaName": "Mollebamba"
+          },
+          {
+            "areaName": "Mollepata"
+          },
+          {
+            "areaName": "Quiruvilca"
+          },
+          {
+            "areaName": "Santa Cruz de Chuca"
+          },
+          {
+            "areaName": "Sitabamba"
+          }
+        ]
+      },
+      {
+        "areaName": "Gran Chimú",
+        "counties": [
+          {
+            "areaName": "Cascas"
+          },
+          {
+            "areaName": "Lucma"
+          },
+          {
+            "areaName": "Marmot"
+          },
+          {
+            "areaName": "Sayapullo"
+          }
+        ]
+      },
+      {
+        "areaName": "Virú",
+        "counties": [
+          {
+            "areaName": "Virú"
+          },
+          {
+            "areaName": "Chao"
+          },
+          {
+            "areaName": "Guadalupito"
+          }
+        ]
+      }
+    ]
+  }
+]
